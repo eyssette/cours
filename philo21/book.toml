@@ -1,0 +1,19 @@
+[book]
+authors = ["Cédric Eyssette"]
+language = "fr"
+multilingual = false
+src = "src"
+title = "Cours de philosophie (2021-2022)"
+description = "Cours de philosophie de M. Eyssette (2021-2022)"
+
+[build]
+build-dir = "c"
+
+[output.html]
+no-section-label = true
+additional-css = ["custom.css"]
+additional-js = ["custom.js"]
+
+[output.html.fold]
+enable = true
+level = 1

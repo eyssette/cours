@@ -1,0 +1,18 @@
+iframe {
+width: var(--content-max-width);
+height: calc(var(--content-max-width)*3/4);
+border:none;
+}
+
+code {
+white-space: pre-wrap;
+}
+
+/*
+.language-rust span:not(.hljs-comment){
+display:none;
+}
+.language-rust {
+color: transparent;
+}
+*/
