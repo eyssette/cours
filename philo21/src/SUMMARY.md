@@ -2,8 +2,8 @@
 
 [Accueil](home.md)
 - [Introduction à la philosophie](intro.md)
-- [Séquence 1 : Éthique et philosophie morale](seq1.md)
-	- [Chapitre 1 : Le bonheur n'est-il qu'un idéal ?](seq1-ch1.md)
+- [Séquence 1 : Éthique et philosophie morale]()
+	- [Chapitre 1 : Le bonheur n'est-il qu'un idéal ?]()
 		- [I – Un idéal indéfinissable ?]()
 			- [Q1 – Peut-on savoir ce qu'est le bonheur ?]()
 		- [II – Un idéal inaccessible ?]()
