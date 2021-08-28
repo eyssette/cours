@@ -1,5 +1,9 @@
 # Q1 – Peut-on savoir ce qu'est le bonheur ?
 
+## Situation initiale
+
+[![](https://eyssette.github.io/marp-slides/slides/images/lesly-CHO.jpg)](https://drive.google.com/file/d/1tee8gsgxvwIQt8yHLuc22AofNq6BQslh/view)
+
 ## Lectures préalables
 
 ### Kant
@@ -11,6 +15,16 @@
 >« [Pour les philosophes de l'Antiquité], la philosophie ne consiste pas dans l'enseignement d'une théorie abstraite, encore moins dans une exégèse de textes, mais dans un art de vivre, dans une attitude concrète, dans un style de vie déterminé, qui engage toute l'existence. L'acte philosophique ne se situe pas seulement dans l'ordre de la connaissance, mais dans l'ordre du “soi” et de l'être : c'est un progrès qui nous fait plus être, qui nous rend meilleurs. C'est une conversion qui bouleverse toute la vie, qui change l'être de celui qui l'accomplit. Elle le fait passer d'un état de vie inauthentique, obscurci par l'inconscience, rongé par le souci, à un état de vie authentique, dans lequel l'homme atteint la conscience de soi, la vision exacte du monde, la paix et la liberté intérieures.<br>
 >Pour toutes les écoles philosophiques, la principale cause de souffrance, de désordre, d'inconscience, pour l'homme, ce sont les passions : désirs désordonnés, craintes exagérées. La domination du souci l'empêche de vivre vraiment. La philosophie apparaîtra donc, en premier lieu, comme une thérapeutique des passions. » (Pierre Hadot, _Exercices spirituels et philosophie antique_)
 
+## Objectifs de ce cours
+
+Opposition principale à maîtriser :
+- Kant : le bonheur comme idéal, non de la raison, mais de l'imagination
+- Les sagesses antiques : l'importance de la réflexion sur la vie bonne
+
+Autres connaissances à maîtriser :
+- Le paternalisme : définition, arguments pour et objections
+- L'exemple du métier de “_happiness officer_”
+- Un exemple de film ou de roman qui montre qu'on peut se tromper à propos de ce qu'on croit être le bonheur
 
 ## Le diaporama, support du cours
 
@@ -18,13 +32,11 @@
 
 ## Questions de révision
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Quelles sont les différences entre le bonheur et le plaisir ?
+1. Kant affirme que « le bonheur est un idéal, non de la raison, mais de l'imagination ». Quel est le sens de cette idée ?
+1. Qu'est-ce que le paternalisme ?
+1. Que signifie le terme de “sagesse” ?
+
+## Exercices
+
+## Pistes d'approfondissement
