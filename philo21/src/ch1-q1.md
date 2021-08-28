@@ -52,6 +52,19 @@
 
 ## Exercices
 
+### Petits exercices
+
+- Schéma à trous : La distinction entre le bonheur et le plaisir
+- Étiquettes à placer : “le bonheur comme idéal, non de la raison, mais de l'imagination”
+- Texte à trous : Les sagesses antiques
+
+### Sujets d'application
+
+1. Le bonheur est-il une affaire privée ?
+1. Suffit-il de réaliser ses désirs pour être heureux ?
+1. Ai-je le devoir de faire le bonheur des autres ?
+1. Le bonheur dépend-il de nous ?
+
 ## Pistes d'approfondissement
 
 ### Les conceptions normatives du bonheur et la critique du paternalisme
