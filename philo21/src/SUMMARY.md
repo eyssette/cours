@@ -2,7 +2,7 @@
 
 [Accueil](home.md)
 - [Introduction à la philosophie](intro.md)
-- [Séquence 1 : Éthique et philosophie morale]()
+- [Séquence 1 : Éthique et philosophie morale](seq1.md)
 	- [Chapitre 1 : Le bonheur](ch1.md)
 		- [Q1 – Peut-on savoir ce qu'est le bonheur ?](ch1-q1.md)
 		- [Q2 – Que pouvons-nous face au tragique de l'existence ?]()
