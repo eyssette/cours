@@ -21,9 +21,15 @@
 
 ## Formations
 
-### Numérique
+### Formations sur le numérique
 
 - [Version actuelle : “Utiliser le numérique en philosophie”](https://eyssette.github.io/mdbooks/form-num/c/)
 - [Version plus ancienne : Diaporama (2020-2021)](https://eyssette.github.io/marp-slides/slides/Formation_num%C3%A9rique.html)
 
-### Cinéma
+### Formations sur le cinéma
+
+- [Penser la justice sociale avec le cinéma (2020)](https://docs.google.com/presentation/d/1r-LaWy7dH6yckl6ELF4p8byA4J2Opy4aHj2epuiamNk/edit?usp=sharing)
+- [Les émotions au cinéma : un laboratoire pour travailler les notions du programme (2019)](https://docs.google.com/presentation/d/1SJSq7jf94WbWikijOeTtpuZ0sPCkOd8PEvdm-s0wAq0/edit?usp=sharing)
+- [Cinéma et histoire (2018)](https://docs.google.com/presentation/d/1WNFN6rBXhBZwAlyCW3YyWsvXED93oFB8e-HR_3OqvUw/edit?usp=sharing)
+- [Une typologie des usages du cinéma en cours de philosophie (2017)](https://docs.google.com/presentation/d/1JtEgj5YTXyx0AXFqrkMmHzsnzo9gG8LaZg86s8zCNN8/edit?usp=sharing)
+- Conceptualiser et problématiser le désir avec le cinéma (2016)
