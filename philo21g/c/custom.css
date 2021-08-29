@@ -1,36 +1,26 @@
 iframe {
-border:none;
+  border: none;
 }
 
-@media screen and (min-width: 900px) {
-iframe {
-width: var(--content-max-width);
-height: calc(var(--content-max-width)*3/4);
-}
+@media screen and (min-width: 1000px) {
+  iframe {
+    width: var(--content-max-width);
+    height: calc(var(--content-max-width)*3/4);
+  }
 }
 
 code {
-white-space: pre-wrap;
+  white-space: pre-wrap;
 }
-
-/*
-.language-rust span:not(.hljs-comment){
-display:none;
-}
-.language-rust {
-color: transparent;
-}
-*/
-
 
 /* Font Et-Book pour les blockquotes */
 
 @font-face {
   font-family: "et-book";
   src: url('https://cdn.jsdelivr.net/npm/typeface-et-book@0.0.2/et-book/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
@@ -49,4 +39,8 @@ color: transparent;
   font-display: swap;
 }
 
-blockquote {font-family: "et-book"; font-size:1.15em; text-align: justify;}
+blockquote {
+  font-family: "et-book";
+  font-size: 1.15em;
+  text-align: justify;
+}
