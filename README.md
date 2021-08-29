@@ -1,5 +1,7 @@
 # Cours de philosophie et formations
 
+---
+
 ## Philosophie (terminales)
 
 ### Année en cours
