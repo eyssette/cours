@@ -1,4 +1,5 @@
-# Cours de philosophie et formations
+Vous trouverez ci-dessous les liens vers mes cours et formations.
+Pour un accès à d'autres ressources, vous pouvez voir ma [page de présentation](https://eyssette.github.io/).
 
 ---
 
