@@ -1,3 +1,2 @@
-# Séquence 1 : Éthique et philosophie morale
+# Séquence 1 : Philosophie morale et politique
 
-Question directrice : Qu'est-ce qu'une vie bonne ?

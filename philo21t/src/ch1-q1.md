@@ -1,34 +1,27 @@
-# Q1 – Peut-on savoir ce qu'est le bonheur ?
+# Q1 – Faire tout ce qui nous plaît, est-ce être esclave de ses désirs ?
 
 ## Situation initiale
 
-[![](https://eyssette.github.io/marp-slides/slides/images/lesly-CHO.jpg)](https://drive.google.com/file/d/1tee8gsgxvwIQt8yHLuc22AofNq6BQslh/view)
 
 ## Lectures préalables
 
-### Kant
+### Texte 1
 
->« Le concept de bonheur est un concept si indéterminé, que, malgré le désir qu’a tout homme d’arriver à être heureux, personne ne peut jamais dire en termes précis et cohérents ce que véritablement il désire et il veut. La raison en est que tous les éléments qui font partie du concept du bonheur sont dans leur ensemble empiriques, c’est-à-dire qu’ils doivent être empruntés à l’expérience, et que cependant pour l’idée du bonheur un tout absolu, un maximum de bien-être dans mon état présent et dans toute ma condition future, est nécessaire. Or il est impossible qu’un être fini, si  perspicace et en même temps si puissant qu’on le suppose, se fasse un concept déterminé de ce qu’il veut ici véritablement. Veut-il la richesse ? Que de soucis, que d’envie, que de pièges ne peut-il pas par là attirer sur sa tête ! Veut-il beaucoup de connaissance et de lumières ? Peut-être cela ne fera-t-il que lui donner un regard plus pénétrant pour lui représenter d’une manière d’autant plus terrible les maux qui jusqu’à présent se dérobent encore  à sa vue et qui sont pourtant inévitables, ou bien que charger de plus de besoins encore ses désirs qu’il a déjà bien assez de peine à satisfaire.[…] Bref, il est incapable de déterminer avec une entière certitude d’après quelque principe ce qui le rendrait véritablement heureux : pour cela il lui faudrait l’omniscience. […] [L]e problème qui consiste à déterminer de façon sûre et générale quelle action peut favoriser le bonheur d'un être raisonnable est un problème tout à fait insoluble ; il n'y a donc pas à cet égard d'impératif qui puisse commander, au sens strict du mot, de faire ce qui rend heureux, parce que le bonheur est un idéal non de la raison mais de l'imagination, fondé uniquement sur des principes empiriques, dont on attendrait vainement qu'ils puissent déterminer une action par laquelle serait atteinte la totalité d'une série de conséquences en réalité infinie. » (Kant, _Fondements de la métaphysique de mœurs_)
+>« » ()
 
-### Hadot
+### Texte 2
 
->« [Pour les philosophes de l'Antiquité], la philosophie ne consiste pas dans l'enseignement d'une théorie abstraite, encore moins dans une exégèse de textes, mais dans un art de vivre, dans une attitude concrète, dans un style de vie déterminé, qui engage toute l'existence. L'acte philosophique ne se situe pas seulement dans l'ordre de la connaissance, mais dans l'ordre du “soi” et de l'être : c'est un progrès qui nous fait plus être, qui nous rend meilleurs. C'est une conversion qui bouleverse toute la vie, qui change l'être de celui qui l'accomplit. Elle le fait passer d'un état de vie inauthentique, obscurci par l'inconscience, rongé par le souci, à un état de vie authentique, dans lequel l'homme atteint la conscience de soi, la vision exacte du monde, la paix et la liberté intérieures.<br>
->Pour toutes les écoles philosophiques, la principale cause de souffrance, de désordre, d'inconscience, pour l'homme, ce sont les passions : désirs désordonnés, craintes exagérées. La domination du souci l'empêche de vivre vraiment. La philosophie apparaîtra donc, en premier lieu, comme une thérapeutique des passions. » (Pierre Hadot, _Exercices spirituels et philosophie antique_)
+>«  » ()
 
 ## Objectifs de ce cours
 
 ### Opposition principale à maîtriser :
-- Kant : le bonheur comme idéal, non de la raison, mais de l'imagination
-- Les sagesses antiques : l'importance de la réflexion sur la vie bonne
+- Réf 1 :
+- Réf 2 :
 
 ### Autres connaissances à maîtriser :
-- La distinction entre bonheur et plaisir
-- La distinction entre désir et besoin
-- Le paternalisme : définition, arguments pour et objections
-- La notion de “conception normative du bonheur”
-- L'exemple du métier de “_happiness officer_”
-- Un exemple de film ou de roman qui montre un personnage déçu après avoir pourtant réalisé ce qu'il désirait
-- La philosophie comme “thérapie des désirs”
+- C1
+- C2
 
 ## Le diaporama, support du cours
 
@@ -36,48 +29,28 @@
 
 ## Questions de révision
 
-1. Quelles sont les différences entre le bonheur et le plaisir ?
-1. Quelle distinction peut-on faire entre le désir et le besoin ?
-1. Kant affirme que « le bonheur est un idéal, non de la raison, mais de l'imagination ». Quel est le sens de cette idée ?
-1. Qu'est-ce que le paternalisme ?
-1. Qu'est-ce qui semble pouvoir justifier le paternalisme ?
-1. Pourquoi le paternalisme semble-t-il critiquable ?
-1. Qu'est-ce qu'une conception normative du bonheur ?
-1. Il existe un nouveau métier que l'on appelle : “_happiness officer_”. Que fait-on dans ce métier ? Que pensez-vous de ce métier ?
-1. Que signifie le terme de “sagesse” ?
-1. Les philosophes de l'Antiquité cherchaient à définir un certain “art de vivre” qui permettrait d'atteindre le bonheur. Qu'est-ce que cela veut dire ?
-1. D'après les sagesses antiques, il est important de réfléchir à ce qu'est une vie vraiment bonne. Qu'est-ce que cela veut dire ?
-1. D'après les sagesses antiques, la philosophie devrait surtout être une forme de thérapie des désirs. Pourquoi ?
-1. Choisissez un exemple de film ou de roman qui montre un personnage déçu après avoir pourtant réalisé ce qu'il désirait. Montrez que l'on peut proposer deux interprétations très différentes de cet exemple, selon que l'on se place dans la perspective de Kant ou dans la perspective des sagesses antiques. Quelle est la meilleure interprétation de cet exemple d'après vous ?
+1. Question 1
+1. Question 2
 
 ## Exercices
 
 ### Petits exercices
 
-- Schéma à trous : La distinction entre le bonheur et le plaisir
-- Étiquettes à placer : “le bonheur comme idéal, non de la raison, mais de l'imagination”
-- Texte à trous : Les sagesses antiques
+- Type exercice : titre exo
 
 ### Sujets d'application
 
-1. Le bonheur est-il une affaire privée ?
-1. Suffit-il de réaliser ses désirs pour être heureux ?
-1. Ai-je le devoir de faire le bonheur des autres ?
-1. Le bonheur dépend-il de nous ?
+1. Sujet 1
+1. Sujet 2
 
 ## Pistes d'approfondissement
 
-### Les conceptions normatives du bonheur et la critique du paternalisme
+### Aspect 1 du cours
 
-1. Lire cet [article sur l'injonction au bonheur](https://www.lemonde.fr/m-perso/article/2016/05/27/le-retour-de-la-mere-parfaite_4927830_4497916.html) que véhiculent les “mères parfaites” sur Instagram
-1. Regarder la vidéo de la chaîne _Méta_ sur [la dictature du bonheur](https://www.youtube.com/watch?v=oqq96UQAaXo)
-1. Consulter ce lien sur [le bonheur comme norme sociale et économique](https://docs.google.com/document/d/1Bo9T9oGNag4bkaGGVzyd5i-DDI19vf0smo-qq60H0_M/edit?usp=sharing)
-1. Découvrir l'[analyse critique du développement personnel par Julia de Funès](https://www.arte.tv/fr/videos/092170-010-A/philosophie/)
-1. Lire le livre [Happycratie d'Eva Illouz](https://laviedesidees.fr/Bonheur-obligatoire.html), ou bien seulement des extraits sélectionnés (me les demander)
+1. Conseil 1
+1. Conseil 2
 
-### Les sagesses antiques
+### Aspect 2 du cours
 
-1. Lire ce [texte de Pierre Hadot](https://www.dropbox.com/s/9r4bag2dbkjwio5/HadotRapportAuTempsEpicurismeStoicisme.pdf?dl=0) sur la manière dont les sagesses antiques conçoivent le rapport à avoir avec le temps
-1. Lire des extraits du livre de Martha Nussbaum, _The Therapy of Desire: Theory and Practice in Hellenistic Ethics_ (me les demander)
-
-<!-- Ajouter quelque chose sur les exercices spirituels ? En restant général -->
+1. Conseil 1
+1. Conseil 2

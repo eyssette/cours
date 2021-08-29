@@ -1,6 +1,4 @@
-# Chapitre 1 : Le bonheur
+# Chapitre 1 : La liberté
 
-Question directrice : Le bonheur n'est-il qu'un idéal ?
+Question directrice : Être libre, est-ce faire tout ce qui nous plaît ?
 
-
-![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/plans/plan-questions-bonheur.dot.svg)

@@ -1,3 +1,3 @@
-# Chapitre 2 : La morale
+# Chapitre 2 : La politique
 
-Question directrice : Comment peut-on savoir ce qui est bien et ce qui est mal ?
+Question directrice : Quelle est la finalité de la politique ?

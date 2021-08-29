@@ -1,3 +1,3 @@
-# Chapitre 3 : Le libre arbitre
+# Chapitre 3 : La technique
 
-Question directrice : Le libre arbitre est-il une illusion ?
+Question directrice : Faut-il avoir peur de la technique ?

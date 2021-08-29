@@ -1,3 +1,3 @@
-# Chapitre 5 : L'art
+# Chapitre 5 : La vérité
 
-Question directrice : Peut-on définir ce qui fait la valeur d'une œuvre d'art ?
+Question directrice : Comment peut-on parvenir à la vérité ?

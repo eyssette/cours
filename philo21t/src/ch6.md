@@ -1,3 +1,3 @@
-# Chapitre 6 : La technique
+# Chapitre 6 : La religion
 
-Question directrice : Faut-il avoir peur de la technique ?
+Question directrice : Comment peut-on comprendre la foi religieuse ?

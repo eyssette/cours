@@ -1,3 +1,3 @@
-# Chapitre 4 : L'identité
+# Chapitre 4 : L'art
 
-Question directrice : Qui suis-je ?
+Question directrice : Peut-on définir ce qui fait la valeur d'une œuvre d'art ?
