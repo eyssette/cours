@@ -7,8 +7,8 @@ Pour un accès à d'autres ressources, vous pouvez voir ma [page de présentatio
 
 ### Année en cours
 
-- [Cours de philosophie (2021-2022) pour les séries générales](https://eyssette.github.io/mdbooks/philo21g/c/)
-- [Cours de philosophie (2021-2022) pour les séries technologiques](https://eyssette.github.io/mdbooks/philo21t/c/)
+- [Cours de philosophie (2021-2022) pour les séries générales](https://eyssette.github.io/cours/philo21g/c/)
+- [Cours de philosophie (2021-2022) pour les séries technologiques](https://eyssette.github.io/cours/philo21t/c/)
 
 ### Années précédentes
 
@@ -18,7 +18,7 @@ Pour un accès à d'autres ressources, vous pouvez voir ma [page de présentatio
 
 ## Section Euro Anglais : DNL
 
-- [Cours de DNL Philo/Anglais (2021-2022)](https://eyssette.github.io/mdbooks/dnl21/c/)
+- [Cours de DNL Philo/Anglais (2021-2022)](https://eyssette.github.io/cours/dnl21/c/)
 
 ---
 
@@ -26,7 +26,7 @@ Pour un accès à d'autres ressources, vous pouvez voir ma [page de présentatio
 
 ### Formations sur le numérique
 
-- [Version actuelle : “Utiliser le numérique en philosophie”](https://eyssette.github.io/mdbooks/form-num/c/)
+- [Version actuelle : “Utiliser le numérique en philosophie”](https://eyssette.github.io/cours/form-num/c/)
 - [Version plus ancienne : Diaporama (2020-2021)](https://eyssette.github.io/marp-slides/slides/Formation_num%C3%A9rique.html)
 
 ### Formations sur le cinéma
