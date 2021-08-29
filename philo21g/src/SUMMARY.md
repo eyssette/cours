@@ -1,6 +1,6 @@
 # Summary
 
-[Accueil](home.md)
+[Accueil](README.md)
 - [Introduction à la philosophie](intro.md)
 - [Séquence 1 : Éthique et philosophie morale](seq1.md)
 	- [Chapitre 1 : Le bonheur](ch1.md)

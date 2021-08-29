@@ -1,6 +1,6 @@
 # Summary
 
-[Accueil](home.md)
+[Accueil](README.md)
 - [Secondes : Human Rights](sec.md)
 	- [What are Human Rights ?]()
 	- [Human Rights Issues]()

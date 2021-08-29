@@ -1,6 +1,6 @@
 # Summary
 
-[Accueil](home.md)
+[Accueil](README.md)
 - [Introduction à la philosophie](intro.md)
 - [Séquence 1 : Philosophie morale et politique](seq1.md)
 	- [Chapitre 1 : La liberté](ch1.md)

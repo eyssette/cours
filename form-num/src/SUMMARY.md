@@ -1,6 +1,6 @@
 # Summary
 
-[Accueil](home.md)
+[Accueil](README.md)
 [Introduction](intro.md)
 - [A. Utiliser le numérique pour préparer ses cours]()
 	- [1/ Organiser son travail]()
