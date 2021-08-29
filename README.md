@@ -39,3 +39,12 @@ Pour un accès à d'autres ressources, vous pouvez voir ma [page de présentatio
 - [Cinéma et histoire (2018)](https://docs.google.com/presentation/d/1WNFN6rBXhBZwAlyCW3YyWsvXED93oFB8e-HR_3OqvUw/edit?usp=sharing)
 - [Une typologie des usages du cinéma en cours de philosophie (2017)](https://docs.google.com/presentation/d/1JtEgj5YTXyx0AXFqrkMmHzsnzo9gG8LaZg86s8zCNN8/edit?usp=sharing)
 - Conceptualiser et problématiser le désir avec le cinéma (2016)
+
+### Formations pédagogiques avec le Groupe Ressources de l'Académie de Lyon
+
+- [La mise en activité des élèves dans le cours de philosophie](http://aclyon-philosophie.fr/?p=779)
+- [L’évaluation : du choix du sujet à sa correction](http://aclyon-philosophie.fr/?p=689)
+- [Le travail sur l’œuvre suivie en cours de philosophie](http://aclyon-philosophie.fr/?p=718)
+- [Le travail sur la notion de technique en cours de philosophie](http://aclyon-philosophie.fr/?p=759)
+- [Travailler sur le vivant en cours de philosophie](http://aclyon-philosophie.fr/?p=801)
+- [Travailler la conceptualisation en cours de philosophie](http://aclyon-philosophie.fr/?p=848)
