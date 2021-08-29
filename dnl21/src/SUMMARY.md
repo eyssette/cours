@@ -1,0 +1,16 @@
+# Summary
+
+[Accueil](home.md)
+- [Secondes : Human Rights](sec.md)
+	- [What are Human Rights ?]()
+	- [Human Rights Issues]()
+	- [Defending Human Rights]()
+- [Premières : Disagreements and Democracy](prem.md)
+	- [Moral Dilemmas]()
+	- [The Importance of Critical Thinking]()
+	- [Deliberation and Conflicts in a Democracy]()
+- [Terminales : Contemporary Issues in Moral and Political Philosophy](term.md)
+	- [Animal Ethics]()
+	- [Environmental Ethics]()
+	- [Feminism]()
+	- [Anti-racism]()

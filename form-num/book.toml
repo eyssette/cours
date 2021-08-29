@@ -1,0 +1,19 @@
+[book]
+authors = ["Cédric Eyssette"]
+language = "fr"
+multilingual = false
+src = "src"
+title = "Utiliser le numérique en philosophie"
+description = "Formation sur l'usage du numérique en philosophie – Cédric Eyssette (2021-2022)"
+
+[build]
+build-dir = "c"
+
+[output.html]
+no-section-label = true
+additional-css = ["custom.css"]
+additional-js = ["custom.js"]
+
+[output.html.fold]
+enable = true
+level = 2
