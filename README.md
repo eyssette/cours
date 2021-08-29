@@ -15,6 +15,9 @@ Pour un accès à d'autres ressources, vous pouvez voir ma [page de présentatio
 - [Cours de philosophie (2020-2021) pour les séries générales](https://sites.google.com/view/eyssette2021tg)
 - [Cours de philosophie (2018-2019) pour les séries générales](https://sites.google.com/view/eyssette)
 - [Questions de révisions du cours de philosophie (2018-2019) pour les séries générales](https://dynalist.io/d/179Y1nSvDKEutZgXlR61xnI8)
+- [Ancien blog de partage de cours](https://eyssette.github.io/ancien-blog/)
+
+---
 
 ## Section Euro Anglais : DNL
 
