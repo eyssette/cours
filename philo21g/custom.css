@@ -1,7 +1,12 @@
 iframe {
+border:none;
+}
+
+@media screen and (min-width: 1000px) {
+iframe {
 width: var(--content-max-width);
 height: calc(var(--content-max-width)*3/4);
-border:none;
+}
 }
 
 code {
