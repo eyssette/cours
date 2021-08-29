@@ -37,7 +37,9 @@
 		- [Q2 – La foi religieuse est-elle un refuge ?]()
 		- [Q3 – Peut-on prouver l'existence ou l'inexistence de Dieu ?]()
 		- [Q4 – Y a-t-il un conflit entre la raison et la foi religieuse ?]()
+
 ---
+
 - [Méthodologie et devoirs]()
 	- [Méthode de la dissertation]()
 	- [Méthode de l'explication de texte]()
