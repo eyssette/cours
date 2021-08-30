@@ -1,6 +1,8 @@
 # Accueil
 
-Bienvenue sur ce site, sur lequel vous retrouverez le contenu de la formation sur l'usage du numérique en philosophie.
+Bienvenue sur ce site, sur lequel vous trouverez des informations sur les usages pédagogiques de l'ENT.
+
+Si vous rencontrez des soucis avec l'ENT, ou si vous souhaitez des précisions sur un usage particulier, contactez-moi : Cédric Eyssette (adresse mail : prénom.nom@ac-lyon.fr).
 
 ## Mode d'emploi de ce site
 
