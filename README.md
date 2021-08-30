@@ -31,6 +31,7 @@ Pour un accès à d'autres ressources, vous pouvez voir ma [page de présentatio
 
 - [Version actuelle : “Utiliser le numérique en philosophie”](https://eyssette.github.io/cours/form-num/c/)
 - [Version plus ancienne : Diaporama (2020-2021)](https://eyssette.github.io/marp-slides/slides/Formation_num%C3%A9rique.html)
+- [Usages pédagogiques de l'ENT](https://eyssette.github.io/cours/form-ent/c/)
 
 ### Formations sur le cinéma
 
