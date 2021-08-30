@@ -2,7 +2,7 @@
 
 ## Situation initiale
 
-[![](https://eyssette.github.io/marp-slides/slides/images/lesly-CHO.jpg)](https://drive.google.com/file/d/1tee8gsgxvwIQt8yHLuc22AofNq6BQslh/view)
+[![Mini-reportage sur une personne qui est chief happiness officer](https://eyssette.github.io/marp-slides/slides/images/lesly-CHO.jpg)](https://drive.google.com/file/d/1tee8gsgxvwIQt8yHLuc22AofNq6BQslh/view)
 
 ## Lectures préalables
 

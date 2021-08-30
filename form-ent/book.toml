@@ -1,0 +1,19 @@
+[book]
+authors = ["Cédric Eyssette"]
+language = "fr"
+multilingual = false
+src = "src"
+title = "Usages pédagogiques de l'ENT"
+description = "Usages pédagogiques de l'ENT – Cédric Eyssette"
+
+[build]
+build-dir = "c"
+
+[output.html]
+no-section-label = true
+additional-css = ["custom.css"]
+additional-js = ["custom.js"]
+
+[output.html.fold]
+enable = true
+level = 2

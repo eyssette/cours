@@ -7,7 +7,7 @@
 
 ## Schéma de synthèse
 
-![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/introduction-philosophie2.svg)
+![Schéma récapitulatif du cours](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/introduction-philosophie2.svg)
 
 ## Questions de révision
 
