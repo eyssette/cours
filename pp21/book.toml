@@ -1,0 +1,19 @@
+[book]
+authors = ["Cédric Eyssette"]
+language = "fr"
+multilingual = false
+src = "src"
+title = "TG8 : le site de votre professeur principal"
+description = "Site en tant que professeur principal de la classe de TG8 – M. Eyssette (2021-2022)"
+
+[build]
+build-dir = "c"
+
+[output.html]
+no-section-label = true
+additional-css = ["custom.css"]
+additional-js = ["custom.js"]
+
+[output.html.fold]
+enable = true
+level = 2
