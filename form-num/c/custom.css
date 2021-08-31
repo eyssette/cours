@@ -88,3 +88,12 @@ blockquote {
   font-size: 1.15em;
   text-align: justify;
 }
+
+
+li details {
+margin-left:2em;
+margin-bottom:0.5em;
+}
+details summary {
+  color: var(--icons);
+}
