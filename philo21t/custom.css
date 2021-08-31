@@ -9,6 +9,21 @@ iframe {
   }
 }
 
+@media screen and (min-width: 520px) and (max-width:719px) {
+  iframe {
+    width: 500px;
+    height: 375px;
+  }
+}
+
+@media screen and (min-width: 720px) and (max-width:999px) {
+  iframe {
+    width: 700px;
+    height: 525px;
+  }
+}
+
+
 code {
   white-space: pre-wrap;
 }
