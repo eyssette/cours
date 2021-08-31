@@ -93,7 +93,16 @@ blockquote {
 li details {
 margin-left:2em;
 margin-bottom:0.5em;
+font-size:0.95em;
 }
+
+@media screen and (max-width: 650px) {
+  li details {
+    margin-left:1em;
+    } 
+}
+
+
 details summary {
   color: var(--icons);
 }
