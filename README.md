@@ -23,6 +23,10 @@ Pour un accès à d'autres ressources, vous pouvez voir ma [page de présentatio
 
 - [Cours de DNL Philo/Anglais (2021-2022)](https://eyssette.github.io/cours/dnl21/c/)
 
+## Site en tant que professeur principal
+
+- [TG8 : le site de votre professeur principal](https://eyssette.github.io/cours/pp21/c/)
+
 ---
 
 ## Formations
