@@ -2,6 +2,12 @@ iframe {
   border: none;
 }
 
+@media screen and (min-width: 220px) and (min-height:160px) {
+  iframe {
+    width: 200px;
+    height: 150px;
+  }
+}
 
 @media screen and (min-width: 320px) and (min-height:235px) {
   iframe {
