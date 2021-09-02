@@ -2,7 +2,7 @@
 
 ## Le diaporama, support du cours
 
-<iframe src="https://eyssette.github.io/marp-slides/slides/introduction-philosophie.html" allow="fullscreen"> </iframe>
+<iframe src="https://eyssette.github.io/marp-slides/slides/introduction-philosophie.html"> </iframe>
 
 
 ## Schéma de synthèse

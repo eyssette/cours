@@ -25,7 +25,7 @@
 
 ## Le diaporama, support du cours
 
-<iframe src="" allow="fullscreen"></iframe>
+<iframe src=""></iframe>
 
 ## Questions de révision
 
