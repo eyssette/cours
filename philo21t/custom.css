@@ -89,6 +89,11 @@ blockquote {
   text-align: justify;
 }
 
+@media screen and (max-width: 450px) {
+  blockquote {
+    font-size: 1em;
+  }
+}
 
 li details {
 margin-left:2em;
