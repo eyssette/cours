@@ -32,7 +32,7 @@
 
 ## Le diaporama, support du cours
 
-<iframe src="" allow="fullscreen"></iframe>
+<!-- <iframe src="" allow="fullscreen"></iframe> -->
 
 ## Questions de révision
 

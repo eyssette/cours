@@ -111,3 +111,9 @@ font-size:0.95em;
 details summary {
   color: var(--icons);
 }
+
+.source-iframe {
+  display:block;
+  margin:auto;
+  margin-bottom:3em;
+}
