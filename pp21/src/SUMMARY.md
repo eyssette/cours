@@ -2,7 +2,7 @@
 
 [Accueil](README.md)
 - [A. Premier jour](premier-jour.md)
-- [B. Travailler de manière efficace](travailler-efficace.md)
+<!-- - [B. Travailler de manière efficace](travailler-efficace.md)
 	- [1/ Un sondage](travailler-efficace-sondage.md)
 	- [2/ Autres ressources](travailler-efficace-autres-ressources.md)
 - [C. L'orientation](orientation.md)
@@ -16,4 +16,4 @@
 	- [1/ S'informer et découvrir les formations](parcoursup-information.md)
 	- [2/ S'inscrire et formuler des vœux](parcoursup-inscription.md)
 	- [3/ Finaliser son dossier](parcoursup-finalisation-dossier.md)
-	- [4/ Attendre des réponses d'admission et répondre à ces propositions](parcoursup-reponses.md)
+	- [4/ Attendre des réponses d'admission et répondre à ces propositions](parcoursup-reponses.md) -->
