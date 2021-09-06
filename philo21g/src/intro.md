@@ -2,7 +2,7 @@
 
 ## Le diaporama, support du cours
 
-<iframe src="https://eyssette.github.io/marp-slides/slides/introduction-philosophie-21-ALL.html"></iframe>
+<iframe src="https://eyssette.github.io/marp-slides/slides/2021-2022/introduction-philosophie-21.html"></iframe>
 
 ### Connaissances principales à maîtriser :
 - Les quatres démarches en philosophie : analyser, problématiser, argumenter, mobiliser ses connaissances. Les connaître et savoir les définir, connaître la question-clef associée à chacune des ces démarches.
@@ -32,7 +32,7 @@
 
 ### Petits exercices
 
-- [Tableau à compléter : les quatre démarches en philosophie](https://eyssette.github.io/marp-slides/slides/introduction-philosophie-21-partie-1.html?f=1#42)
+- [Tableau à compléter : les quatre démarches en philosophie](https://eyssette.github.io/marp-slides/slides/2021-2022/introduction-philosophie-21.html?f=1#46)
 - [Étiquettes à positionner (LearningApps) : les quatre démarches en philosophie](https://learningapps.org/watch?v=pg13m7zck21)
 
 
