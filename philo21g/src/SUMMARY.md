@@ -2,8 +2,6 @@
 
 [Accueil](README.md)
 - [Introduction à la philosophie](intro.md)
-	- [I - Qu'est-ce que la philosophie ?](intro-qu-est-ce-que-la-philosophie.md)
-	- [II - Le fonctionnement du cours](intro-fonctionnement-du-cours.md)
 - [Séquence 1 : Éthique et philosophie morale](seq1.md)
 	- [Chapitre 1 : Le bonheur](ch1.md)
 		<!-- - [Q1 – Peut-on savoir ce qu'est le bonheur ?](ch1-q1.md)
