@@ -63,10 +63,10 @@
 
 1. Lire cet [article de D. Guillon-Legeay](https://iphilo.fr/2016/09/10/socrate-le-pere-de-la-philosophie/) : « Socrate : le père de la philosophie »
 2. Consulter cette [page sur le blog de Simone Manon](https://www.philolog.fr/socrate/)
-3. Lire ce [cours sur Socrate](https://eyssette.github.io/blog/assets/pdf/ancien_blog/0_Introduction_philosophie/2013-2014-Socrate-cours.pdf) que j'avais fait en 2013-2014.
+3. Lire ce [cours sur Socrate](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/0_Introduction_philosophie/2013-2014-Socrate-cours.pdf) que j'avais fait en 2013-2014.
 
 ### D'autre lectures pour s'initier à la philosophie
 
 1. Initiation à la philosophie : [conseils de lecture](https://eyssette.github.io/ressources-generales-enseignement-philosophie/conseils-lectures-initiation-philosophie) <!-- Document au format A4 : https://docs.google.com/document/d/119PC0h-Zic6AVT4woWzXd8lbRmQ0fOVPAJ-CBFMyMdQ/edit?usp=sharing  --> (si vous visez une prépa l'année prochaine : il faut commencer à lire quelques classiques de l'histoire de la philosophie)
 2. Lire un ensemble de [textes sur la philosophie comme réflexion critique](http://bit.ly/philoD1)
-3. Lire un texte fondamental de Platon : _[L'Apologie de Socrate](http://www.ac-grenoble.fr/PhiloSophie/old2/file/platon_apologie.pdf)_
+3. Lire un texte fondamental de Platon : _[L'Apologie de Socrate](https://philosophie-pedagogie.web.ac-grenoble.fr/sites/default/files/media-fichiers/2021-02/Apologie_Socrate-Platon.pdf)_
