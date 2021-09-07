@@ -32,7 +32,7 @@
 
 ### Petits exercices
 
-- [Tableau à compléter : les quatre démarches en philosophie](https://eyssette.github.io/marp-slides/slides/2021-2022/introduction-philosophie-21.html?f=1#46)
+- [Tableau à compléter : les quatre démarches en philosophie](https://eyssette.github.io/marp-slides/slides/2021-2022/introduction-philosophie-21.html?f=1#48)
 - [Étiquettes à positionner (LearningApps) : les quatre démarches en philosophie](https://learningapps.org/watch?v=pg13m7zck21)
 
 
