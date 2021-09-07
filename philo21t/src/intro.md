@@ -13,7 +13,7 @@
 ## Les connaissances à maîtriser :
 
 ### L'essentiel
-- Les quatre démarches en philosophie : analyser, problématiser, argumenter, mobiliser ses connaissances. Les connaître et savoir les définir, connaître la question-clef associée à chacune des ces démarches.
+- Les quatre démarches en philosophie : analyser, problématiser, argumenter et mobiliser ses connaissances. Les connaître et savoir les définir, connaître la question-clef associée à chacune des ces démarches.
 - Les analogies pour mieux comprendre ces démarches : regarder ses propres lunettes, être comme un taon qui pique un cheval un peu mou, placer les idées sur une balance, digérer et non pas vomir ce qu'on a appris. Savoir expliquer le sens de ces analogies.
 
 ### Pour approfondir un peu
@@ -29,7 +29,7 @@
 
 ### Niveau 1
 
-1. Quelles sont les quatre démarches importantes en philosophie ? Pour chaque démarche, quelle est la question qu'il faut se poser ?<details>En philosophie, les quatre démarches importantes sont : analyser, problématiser, argumenter, mobiliser ses connaissances. Pour analyser, il faut se demander : « Qu'est-ce que cela veut dire ? ». Pour problématiser, il faut se demander : « Est-ce vraiment si simple ? ». Pour argumenter, il faut se demander : « Qu'est-ce qui permet de dire cela ? ». Pour mobiliser ses connaissances, il faut se demander : « Comment approfondir ? ».</details>
+1. Quelles sont les quatre démarches importantes en philosophie ? Pour chaque démarche, quelle est la question qu'il faut se poser ?<details>En philosophie, les quatre démarches importantes sont : analyser, problématiser, argumenter et mobiliser ses connaissances. Pour analyser, il faut se demander : « Qu'est-ce que cela veut dire ? ». Pour problématiser, il faut se demander : « Est-ce vraiment si simple ? ». Pour argumenter, il faut se demander : « Qu'est-ce qui permet de dire cela ? ». Pour mobiliser ses connaissances, il faut se demander : « Comment approfondir ? ».</details>
 
 ### Niveau 2
 1. On peut dire que faire de la philosophie, c'est comme regarder ses propres lunettes. Qu'est-ce que cela veut dire ?<details>Regarder ses propres lunettes, c'est examiner les idées avec lesquelles on pense, afin de chercher à les rendre plus claires et plus précises : cela revient à analyser ses idées.</details>
