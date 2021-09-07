@@ -1,6 +1,6 @@
 # Introduction à la philosophie
 
-## Objectifs de ce cours
+## Les objectifs de ce cours
 
 1. Comprendre l'essentiel de ce qu'il faut faire en philosophie : poser les bases de la méthode 🧱
 2. Comprendre comment on va fonctionner ensemble dans l'année 📜
@@ -10,7 +10,7 @@
 
 <iframe src="https://eyssette.github.io/marp-slides/slides/2021-2022/introduction-philosophie-21.html"></iframe>
 
-## Les Connaissances à maîtriser :
+## Les connaissances à maîtriser :
 
 ### L'essentiel
 - Les quatres démarches en philosophie : analyser, problématiser, argumenter, mobiliser ses connaissances. Les connaître et savoir les définir, connaître la question-clef associée à chacune des ces démarches.
