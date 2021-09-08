@@ -73,9 +73,10 @@
 
 ### Sujets d'application
 
-<!-- 1. Penser, est-ce dire non ?<details><summary>Un exemple d'utilisation du cours :</summary>Penser, c'est dire non parce qu'on ne pense véritablement que si on réfléchit de manière critique. Or la réflexion critique suppose de dire non aux idées reçues. Plus précisément, il s'agit d'abord de dire non aux idées vagues et confuses : réfléchir de manière critique, c'est refuser les termes imprécis et chercher à clarifier le sens des notions que l'on utilise, ce qui revient à analyser ses idées. Il faut également dire non aux idées simplistes : penser véritablement, c'est problématiser et remettre ainsi en question les idées étroites qui évacuent la complexité du réel. Enfin, il faut dire non aux idées affirmées sans justification. La réflexion critique doit nous conduire à refuser les paroles en l'air, le baratin sans fondement véritable : il faut argumenter.</details>
-2. Peut-on apprendre à penser ? -->
-
+1. Penser, est-ce dire non ?<!-- <details><summary>Un exemple d'utilisation du cours :</summary>On peut dire que penser, c'est dire non, si la pensée désigne la réflexion critique, car la réflexion critique suppose de dire non aux idées reçues.<br>Plus précisément, il s'agit d'abord de dire non aux idées vagues et confuses : réfléchir de manière critique, c'est refuser les idées vagues et confuses, chercher à clarifier le sens des notions que l'on utilise. Il faut comprendre de quoi on parle exactement, définir précisément les termes que l'on utilise, ce qui revient à analyser ses idées.<br>Il faut également dire non aux idées simplistes : penser véritablement, c'est remettre en question les idées étroites qui évacuent la complexité du réel, c'est être conscient des difficultés et questionner nos prétendues certitudes, ce qui revient à problématiser.<br> Enfin, il faut dire non aux idées affirmées sans justification. Il ne faut pas en rester simplement à donner son avis : si on affirme une idée, il faut être capable de donner des raisons de l'accepter, et répondre aux objections qu'on peut faire  contre cette idée  : il faut argumenter.<br>Par conséquent, si penser c'est analyser ses idées, problématiser et argumenter, et si cela revient à dire non aux idées vagues et confuses, non aux idées simplistes et non aux idées sans justification, alors on peut effectivement dire que penser c'est dire non.</details>-->
+2. Peut-on apprendre à penser ?
+3. Faut-il faire de la philosophie ?
+4. La philosophie est-elle abstraite ?
 
 ## Pistes d'approfondissement
 
