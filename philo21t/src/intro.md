@@ -11,10 +11,21 @@
 - I – Qu'est-ce que la philosophie ?
 	- A. Première approche
 	- B. Trois démarches essentielles
+		- 1/ Analyser
+		- 2/ Problématiser
+		- 3/ Argumenter
+		- 4/ Récapitulatif
 	- C. Une quatrième démarche importante
+		- Mobiliser ses connaissances
 - II – Le fonctionnement du cours
 	- A. Le cadre général
+		- 1/ Le programme officiel
+		- 2/ Les règles pour que le cours fonctionne bien
 	- B. Les aides pour réussir en philosophie
+		- 1/ Votre professeur
+		- 2/ Lectures
+		- 3/ Internet
+
 
 ## Le diaporama, support du cours
 
