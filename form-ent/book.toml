@@ -11,8 +11,8 @@ build-dir = "c"
 
 [output.html]
 no-section-label = true
-additional-css = ["custom.css"]
-additional-js = ["custom.js"]
+additional-css = ["custom.css", "sidebar-toc.css"]
+additional-js = ["custom.js", "sidebar-toc.js"]
 
 [output.html.fold]
 enable = true

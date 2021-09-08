@@ -27,6 +27,7 @@
 
         <!-- Custom theme stylesheets -->
         <link rel="stylesheet" href="custom.css">
+        <link rel="stylesheet" href="sidebar-toc.css">
     </head>
     <body>
         <!-- Provide site root to javascript -->
@@ -135,6 +136,8 @@
                 </script>
 
                 <div id="content" class="content">
+                    <nav class="pagetoc"></nav>
+
                     <main>
                         <h1 id="accueil"><a class="header" href="#accueil">Accueil</a></h1>
 <p>Bienvenue sur ce site, sur lequel vous trouverez des informations sur les usages pédagogiques de l'ENT.</p>
@@ -308,6 +311,7 @@
 
         <!-- Custom JS scripts -->
         <script type="text/javascript" src="custom.js"></script>
+        <script type="text/javascript" src="sidebar-toc.js"></script>
         <script type="text/javascript">
         window.addEventListener('load', function() {
             window.setTimeout(window.print, 100);
