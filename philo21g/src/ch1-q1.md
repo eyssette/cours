@@ -36,19 +36,27 @@
 
 ## Questions de révision
 
+### Niveau 1
+
 1. Quelles sont les différences entre le bonheur et le plaisir ?
 1. Quelle distinction peut-on faire entre le désir et le besoin ?
 1. Kant affirme que « le bonheur est un idéal, non de la raison, mais de l'imagination ». Quel est le sens de cette idée ?
+1. Que signifie le terme de “sagesse” ?
+1. D'après les sagesses antiques, il est important de réfléchir à ce qu'est une vie vraiment bonne. Qu'est-ce que cela veut dire ?
+
+### Niveau 2
+
+1. Il existe un nouveau métier que l'on appelle : “_happiness officer_”. Que fait-on dans ce métier ? Que pensez-vous de ce métier ?
+1. D'après les sagesses antiques, la philosophie devrait surtout être une forme de thérapie des désirs. Quel est le sens de cette métaphore médicale ?
+1. Choisissez un exemple de film ou de roman qui montre un personnage déçu après avoir pourtant réalisé ce qu'il désirait. Montrez que l'on peut proposer deux interprétations très différentes de cet exemple, selon que l'on se place dans la perspective de Kant ou dans la perspective des sagesses antiques. Quelle est la meilleure interprétation de cet exemple d'après vous ?
+
+### Niveau 3
+
 1. Qu'est-ce que le paternalisme ?
 1. Qu'est-ce qui semble pouvoir justifier le paternalisme ?
 1. Pourquoi le paternalisme semble-t-il critiquable ?
-1. Qu'est-ce qu'une conception normative du bonheur ?
-1. Il existe un nouveau métier que l'on appelle : “_happiness officer_”. Que fait-on dans ce métier ? Que pensez-vous de ce métier ?
-1. Que signifie le terme de “sagesse” ?
-1. Les philosophes de l'Antiquité cherchaient à définir un certain “art de vivre” qui permettrait d'atteindre le bonheur. Qu'est-ce que cela veut dire ?
-1. D'après les sagesses antiques, il est important de réfléchir à ce qu'est une vie vraiment bonne. Qu'est-ce que cela veut dire ?
-1. D'après les sagesses antiques, la philosophie devrait surtout être une forme de thérapie des désirs. Pourquoi ?
-1. Choisissez un exemple de film ou de roman qui montre un personnage déçu après avoir pourtant réalisé ce qu'il désirait. Montrez que l'on peut proposer deux interprétations très différentes de cet exemple, selon que l'on se place dans la perspective de Kant ou dans la perspective des sagesses antiques. Quelle est la meilleure interprétation de cet exemple d'après vous ?
+1. Qu'est-ce qu'une conception normative du bonheur ? D'après vous, est-ce légitime de défendre une conception normative du bonheur ?
+
 
 ## Exercices
 
