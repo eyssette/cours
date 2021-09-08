@@ -6,7 +6,7 @@
 2. Comprendre comment on va fonctionner ensemble dans l'année 📜
 3. Développer une envie de faire de la philosophie  😃
 
-## Plan du cours
+<!-- ## Plan du cours
 
 - I – Qu'est-ce que la philosophie ?
 	- A. Première approche
@@ -24,7 +24,7 @@
 	- B. Les aides pour réussir en philosophie
 		- 1/ Votre professeur
 		- 2/ Lectures
-		- 3/ Internet
+		- 3/ Internet -->
 
 
 ## Le diaporama, support du cours
