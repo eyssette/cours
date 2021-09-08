@@ -2,7 +2,7 @@
 
 ## Six 'Would You Rather' Dilemmas
 
-<iframe src="https://ladigitale.dev/digiplay/inc/video.php?videoId=dzmNoFnxu68&vignette=https://i.ytimg.com/vi/dzmNoFnxu68/hqdefault.jpg&debut=0&fin=682&largeur=200&hauteur=113" allowfullscreen frameborder="0" width="700" height="394"></iframe>
+<iframe src="https://ladigitale.dev/digiplay/inc/video.php?videoId=dzmNoFnxu68&vignette=https://i.ytimg.com/vi/dzmNoFnxu68/hqdefault.jpg&debut=0&fin=682" allowfullscreen frameborder="0" ></iframe>
 
 ## The definition of a moral dilemma
 
