@@ -23,7 +23,7 @@
 
 ## Le diaporama, support du cours
 
-<!-- <iframe src="" allow="fullscreen"></iframe> -->
+<iframe src="https://eyssette.github.io/marp-slides/slides/2021-2022/s1-ch1-q1-peut-on-savoir-ce-qu-est-le-bonheur.html"></iframe>
 
 ## Les connaissances à maîtriser
 
