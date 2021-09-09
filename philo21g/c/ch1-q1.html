@@ -1,0 +1,271 @@
+<!DOCTYPE HTML>
+<html lang="fr" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Q1 – Peut-on savoir ce qu&#x27;est le bonheur ? - Cours de philosophie (2021-2022) : séries générales</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="Cours de philosophie de M. Eyssette (2021-2022) : séries générales">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="custom.css">
+        <link rel="stylesheet" href="sidebar-toc.css">
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="index.html">Accueil</a></li><li class="chapter-item expanded "><a href="intro.html">Introduction à la philosophie</a></li><li class="chapter-item expanded "><a href="seq1.html">Séquence 1 : Éthique et philosophie morale</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="ch1.html">Chapitre 1 : Le bonheur</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="ch1-q1.html" class="active">Q1 – Peut-on savoir ce qu'est le bonheur ?</a></li></ol></li><li class="chapter-item "><div>Chapitre 2 : La morale</div></li></ol></li><li class="chapter-item expanded "><div>Séquence 2 : Philosophie du sujet</div><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><div>Chapitre 3 : Le libre arbitre</div></li><li class="chapter-item "><div>Chapitre 4 : L'identité</div></li></ol></li><li class="chapter-item expanded "><div>Séquence 3 : Philosophie de la culture</div><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><div>Chapitre 5 : L'art</div></li><li class="chapter-item "><div>Chapitre 6 : La technique</div></li><li class="chapter-item "><div>Chapitre 7 : Le langage</div></li></ol></li><li class="chapter-item expanded "><div>Séquence 4 : Philosophie sociale et politique</div><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><div>Chapitre 8 : Œuvre suivie</div></li><li class="chapter-item "><div>Chapitre 9 : La politique</div></li></ol></li><li class="chapter-item expanded "><div>Séquence 5 : Épistémologie et métaphysique</div><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><div>Chapitre 10 : La vérité</div></li><li class="chapter-item "><div>Chapitre 11 : La religion</div></li></ol></li><li class="chapter-item expanded "><a href="revisions.html">Révisions</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="frise-chronologique.html">Frise chronologique des philosophes vus en cours</a></li><li class="spacer"></li></ol></li><li class="chapter-item expanded "><div>Méthodologie et devoirs</div><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><div>Méthode de la dissertation</div></li><li class="chapter-item "><div>Méthode de l'explication de texte</div></li><li class="chapter-item "><div>Devoirs avec dossiers</div></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Cours de philosophie (2021-2022) : séries générales</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <nav class="pagetoc"></nav>
+                                        
+                    <main>
+                        <h1 id="q1--peut-on-savoir-ce-quest-le-bonheur-"><a class="header" href="#q1--peut-on-savoir-ce-quest-le-bonheur-">Q1 – Peut-on savoir ce qu'est le bonheur ?</a></h1>
+<h2 id="objectifs-de-ce-cours"><a class="header" href="#objectifs-de-ce-cours">Objectifs de ce cours</a></h2>
+<ol>
+<li>Être capable de définir la notion de bonheur 🔵</li>
+<li>Comprendre l'opposition principale entre Kant et les sagesses antiques 🔴</li>
+</ol>
+<h2 id="situation-initiale"><a class="header" href="#situation-initiale">Situation initiale</a></h2>
+<p><a href="https://drive.google.com/file/d/1tee8gsgxvwIQt8yHLuc22AofNq6BQslh/view"><img src="https://eyssette.github.io/marp-slides/slides/images/lesly-CHO.jpg" alt="Mini-reportage sur une personne qui est chief happiness officer" /></a></p>
+<h2 id="lectures-préalables"><a class="header" href="#lectures-préalables">Lectures préalables</a></h2>
+<h3 id="kant"><a class="header" href="#kant">Kant</a></h3>
+<blockquote>
+<p>« Le concept de bonheur est un concept si indéterminé, que, malgré le désir qu’a tout homme d’arriver à être heureux, personne ne peut jamais dire en termes précis et cohérents ce que véritablement il désire et il veut. La raison en est que tous les éléments qui font partie du concept du bonheur sont dans leur ensemble empiriques, c’est-à-dire qu’ils doivent être empruntés à l’expérience, et que cependant pour l’idée du bonheur un tout absolu, un maximum de bien-être dans mon état présent et dans toute ma condition future, est nécessaire. Or il est impossible qu’un être fini, si  perspicace et en même temps si puissant qu’on le suppose, se fasse un concept déterminé de ce qu’il veut ici véritablement. Veut-il la richesse ? Que de soucis, que d’envie, que de pièges ne peut-il pas par là attirer sur sa tête ! Veut-il beaucoup de connaissance et de lumières ? Peut-être cela ne fera-t-il que lui donner un regard plus pénétrant pour lui représenter d’une manière d’autant plus terrible les maux qui jusqu’à présent se dérobent encore à sa vue et qui sont pourtant inévitables, ou bien que charger de plus de besoins encore ses désirs qu’il a déjà bien assez de peine à satisfaire.[…] Bref, il est incapable de déterminer avec une entière certitude d’après quelque principe ce qui le rendrait véritablement heureux : pour cela il lui faudrait l’omniscience. […] [L]e problème qui consiste à déterminer de façon sûre et générale quelle action peut favoriser le bonheur d'un être raisonnable est un problème tout à fait insoluble ; il n'y a donc pas à cet égard d'impératif qui puisse commander, au sens strict du mot, de faire ce qui rend heureux, parce que le bonheur est un idéal non de la raison mais de l'imagination […]. » (Kant, <em>Fondements de la métaphysique de mœurs</em>)</p>
+</blockquote>
+<h3 id="hadot"><a class="header" href="#hadot">Hadot</a></h3>
+<blockquote>
+<p>« [Pour les philosophes de l'Antiquité], la philosophie ne consiste pas dans l'enseignement d'une théorie abstraite, encore moins dans une exégèse de textes, mais dans un art de vivre, dans une attitude concrète, dans un style de vie déterminé, qui engage toute l'existence. L'acte philosophique ne se situe pas seulement dans l'ordre de la connaissance, mais dans l'ordre du “soi” et de l'être : c'est un progrès qui nous fait plus être, qui nous rend meilleurs. C'est une conversion qui bouleverse toute la vie, qui change l'être de celui qui l'accomplit. Elle le fait passer d'un état de vie inauthentique, obscurci par l'inconscience, rongé par le souci, à un état de vie authentique, dans lequel l'homme atteint la conscience de soi, la vision exacte du monde, la paix et la liberté intérieures.<br>
+Pour toutes les écoles philosophiques, la principale cause de souffrance, de désordre, d'inconscience, pour l'homme, ce sont les passions : désirs désordonnés, craintes exagérées. La domination du souci l'empêche de vivre vraiment. La philosophie apparaîtra donc, en premier lieu, comme une thérapeutique des passions. » (Pierre Hadot, <em>Exercices spirituels et philosophie antique</em>)</p>
+</blockquote>
+<h2 id="le-diaporama-support-du-cours"><a class="header" href="#le-diaporama-support-du-cours">Le diaporama, support du cours</a></h2>
+<!-- <iframe src="" allow="fullscreen"></iframe> -->
+<h2 id="les-connaissances-à-maîtriser"><a class="header" href="#les-connaissances-à-maîtriser">Les connaissances à maîtriser</a></h2>
+<h3 id="niveau-1"><a class="header" href="#niveau-1">Niveau 1</a></h3>
+<ul>
+<li>La distinction entre bonheur et plaisir</li>
+<li>Kant : le bonheur comme idéal, non de la raison, mais de l'imagination</li>
+<li>Les sagesses antiques : l'importance de la réflexion sur la vie bonne</li>
+</ul>
+<h3 id="niveau-2"><a class="header" href="#niveau-2">Niveau 2</a></h3>
+<!-- - La distinction entre désir et besoin -->
+<ul>
+<li>L'exemple du métier de “<em>happiness officer</em>”</li>
+<li>Un exemple de film ou de roman qui montre un personnage déçu après avoir pourtant réalisé ce qu'il désirait</li>
+<li>La philosophie comme “thérapie des désirs”</li>
+</ul>
+<h3 id="niveau-3"><a class="header" href="#niveau-3">Niveau 3</a></h3>
+<ul>
+<li>Le paternalisme : définition, arguments pour et objections</li>
+<li>La notion de “conception normative du bonheur”</li>
+</ul>
+<h2 id="questions-de-révision"><a class="header" href="#questions-de-révision">Questions de révision</a></h2>
+<h3 id="niveau-1-1"><a class="header" href="#niveau-1-1">Niveau 1</a></h3>
+<ol>
+<li>Quelles sont les différences entre le bonheur et le plaisir ?</li>
+<li>Kant affirme que « le bonheur est un idéal, non de la raison, mais de l'imagination ». Quel est le sens de cette idée ?</li>
+<li>D'après les sagesses antiques, il est important de réfléchir à ce qu'est une vie vraiment bonne. Qu'est-ce que cela veut dire ?</li>
+</ol>
+<h3 id="niveau-2-1"><a class="header" href="#niveau-2-1">Niveau 2</a></h3>
+<ol>
+<li>Quelle distinction peut-on faire entre le désir et le besoin ?</li>
+<li>Il existe un nouveau métier que l'on appelle : “<em>happiness officer</em>”. Que fait-on dans ce métier ? Que pensez-vous de ce métier ?</li>
+<li>Choisissez un exemple de film ou de roman qui montre un personnage déçu après avoir pourtant réalisé ce qu'il désirait. Montrez que l'on peut proposer deux interprétations très différentes de cet exemple, selon que l'on se place dans la perspective de Kant ou dans la perspective des sagesses antiques. Quelle est la meilleure interprétation de cet exemple d'après vous ?</li>
+<li>D'après les sagesses antiques, la philosophie devrait surtout être une forme de thérapie des désirs. Quel est le sens de cette métaphore médicale ?</li>
+</ol>
+<h3 id="niveau-3-1"><a class="header" href="#niveau-3-1">Niveau 3</a></h3>
+<ol>
+<li>Qu'est-ce que le paternalisme ?</li>
+<li>Qu'est-ce qui semble pouvoir justifier le paternalisme ?</li>
+<li>Pourquoi le paternalisme semble-t-il critiquable ?</li>
+<li>Qu'est-ce qu'une conception normative du bonheur ? D'après vous, est-ce légitime de défendre une conception normative du bonheur ?</li>
+</ol>
+<h2 id="exercices"><a class="header" href="#exercices">Exercices</a></h2>
+<h3 id="petits-exercices"><a class="header" href="#petits-exercices">Petits exercices</a></h3>
+<ul>
+<li>Schéma à trous : La distinction entre le bonheur et le plaisir</li>
+<li>Étiquettes à placer : “le bonheur comme idéal, non de la raison, mais de l'imagination”</li>
+<li>Texte à trous : Les sagesses antiques</li>
+</ul>
+<h3 id="sujets-dapplication"><a class="header" href="#sujets-dapplication">Sujets d'application</a></h3>
+<ol>
+<li>Le bonheur est-il une affaire privée ?</li>
+<li>Suffit-il de réaliser ses désirs pour être heureux ?</li>
+<li>Ai-je le devoir de faire le bonheur des autres ?</li>
+<li>Le bonheur dépend-il de nous ?</li>
+</ol>
+<h2 id="pistes-dapprofondissement"><a class="header" href="#pistes-dapprofondissement">Pistes d'approfondissement</a></h2>
+<h3 id="les-conceptions-normatives-du-bonheur-et-la-critique-du-paternalisme"><a class="header" href="#les-conceptions-normatives-du-bonheur-et-la-critique-du-paternalisme">Les conceptions normatives du bonheur et la critique du paternalisme</a></h3>
+<ol>
+<li>Lire cet <a href="https://www.lemonde.fr/m-perso/article/2016/05/27/le-retour-de-la-mere-parfaite_4927830_4497916.html">article sur l'injonction au bonheur</a> que véhiculent les “mères parfaites” sur Instagram</li>
+<li>Regarder la vidéo de la chaîne <em>Méta</em> sur <a href="https://www.youtube.com/watch?v=oqq96UQAaXo">la dictature du bonheur</a></li>
+<li>Consulter ce lien sur <a href="https://docs.google.com/document/d/1Bo9T9oGNag4bkaGGVzyd5i-DDI19vf0smo-qq60H0_M/edit?usp=sharing">le bonheur comme norme sociale et économique</a></li>
+<li>Découvrir l'<a href="https://www.arte.tv/fr/videos/092170-010-A/philosophie/">analyse critique du développement personnel par Julia de Funès</a></li>
+<li>Lire le livre <a href="https://laviedesidees.fr/Bonheur-obligatoire.html">Happycratie d'Eva Illouz</a>, ou bien seulement des extraits sélectionnés (me les demander)</li>
+</ol>
+<h3 id="les-sagesses-antiques"><a class="header" href="#les-sagesses-antiques">Les sagesses antiques</a></h3>
+<ol>
+<li>Lire ce <a href="https://www.dropbox.com/s/9r4bag2dbkjwio5/HadotRapportAuTempsEpicurismeStoicisme.pdf?dl=0">texte de Pierre Hadot</a> sur la manière dont les sagesses antiques conçoivent le rapport à avoir avec le temps</li>
+<li>Lire des extraits du livre de Martha Nussbaum, <em>The Therapy of Desire: Theory and Practice in Hellenistic Ethics</em> (me les demander)</li>
+</ol>
+<!-- Ajouter quelque chose sur les exercices spirituels ? En restant général -->
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="ch1.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="revisions.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="ch1.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="revisions.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        <script type="text/javascript" src="custom.js"></script>
+        <script type="text/javascript" src="sidebar-toc.js"></script>
+    </body>
+</html>

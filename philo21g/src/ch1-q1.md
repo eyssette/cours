@@ -1,5 +1,10 @@
 # Q1 – Peut-on savoir ce qu'est le bonheur ?
 
+## Objectifs de ce cours
+
+1. Être capable de définir la notion de bonheur 🔵
+2. Comprendre l'opposition principale entre Kant et les sagesses antiques 🔴
+
 ## Situation initiale
 
 [![Mini-reportage sur une personne qui est chief happiness officer](https://eyssette.github.io/marp-slides/slides/images/lesly-CHO.jpg)](https://drive.google.com/file/d/1tee8gsgxvwIQt8yHLuc22AofNq6BQslh/view)
@@ -15,40 +20,44 @@
 >« [Pour les philosophes de l'Antiquité], la philosophie ne consiste pas dans l'enseignement d'une théorie abstraite, encore moins dans une exégèse de textes, mais dans un art de vivre, dans une attitude concrète, dans un style de vie déterminé, qui engage toute l'existence. L'acte philosophique ne se situe pas seulement dans l'ordre de la connaissance, mais dans l'ordre du “soi” et de l'être : c'est un progrès qui nous fait plus être, qui nous rend meilleurs. C'est une conversion qui bouleverse toute la vie, qui change l'être de celui qui l'accomplit. Elle le fait passer d'un état de vie inauthentique, obscurci par l'inconscience, rongé par le souci, à un état de vie authentique, dans lequel l'homme atteint la conscience de soi, la vision exacte du monde, la paix et la liberté intérieures.<br>
 >Pour toutes les écoles philosophiques, la principale cause de souffrance, de désordre, d'inconscience, pour l'homme, ce sont les passions : désirs désordonnés, craintes exagérées. La domination du souci l'empêche de vivre vraiment. La philosophie apparaîtra donc, en premier lieu, comme une thérapeutique des passions. » (Pierre Hadot, _Exercices spirituels et philosophie antique_)
 
-## Objectifs de ce cours
-
-### Opposition principale à maîtriser :
-- Kant : le bonheur comme idéal, non de la raison, mais de l'imagination
-- Les sagesses antiques : l'importance de la réflexion sur la vie bonne
-
-### Autres connaissances à maîtriser :
-- La distinction entre bonheur et plaisir
-- La distinction entre désir et besoin
-- Le paternalisme : définition, arguments pour et objections
-- La notion de “conception normative du bonheur”
-- L'exemple du métier de “_happiness officer_”
-- Un exemple de film ou de roman qui montre un personnage déçu après avoir pourtant réalisé ce qu'il désirait
-- La philosophie comme “thérapie des désirs”
 
 ## Le diaporama, support du cours
 
 <!-- <iframe src="" allow="fullscreen"></iframe> -->
+
+## Les connaissances à maîtriser
+
+### Niveau 1
+- La distinction entre bonheur et plaisir
+- Kant : le bonheur comme idéal, non de la raison, mais de l'imagination
+- Les sagesses antiques : l'importance de la réflexion sur la vie bonne
+
+### Niveau 2
+
+<!-- - La distinction entre désir et besoin -->
+- L'exemple du métier de “_happiness officer_”
+- Un exemple de film ou de roman qui montre un personnage déçu après avoir pourtant réalisé ce qu'il désirait
+- La philosophie comme “thérapie des désirs”
+
+### Niveau 3
+- Le paternalisme : définition, arguments pour et objections
+- La notion de “conception normative du bonheur”
+
 
 ## Questions de révision
 
 ### Niveau 1
 
 1. Quelles sont les différences entre le bonheur et le plaisir ?
-1. Quelle distinction peut-on faire entre le désir et le besoin ?
 1. Kant affirme que « le bonheur est un idéal, non de la raison, mais de l'imagination ». Quel est le sens de cette idée ?
-1. Que signifie le terme de “sagesse” ?
 1. D'après les sagesses antiques, il est important de réfléchir à ce qu'est une vie vraiment bonne. Qu'est-ce que cela veut dire ?
 
 ### Niveau 2
 
+1. Quelle distinction peut-on faire entre le désir et le besoin ?
 1. Il existe un nouveau métier que l'on appelle : “_happiness officer_”. Que fait-on dans ce métier ? Que pensez-vous de ce métier ?
-1. D'après les sagesses antiques, la philosophie devrait surtout être une forme de thérapie des désirs. Quel est le sens de cette métaphore médicale ?
 1. Choisissez un exemple de film ou de roman qui montre un personnage déçu après avoir pourtant réalisé ce qu'il désirait. Montrez que l'on peut proposer deux interprétations très différentes de cet exemple, selon que l'on se place dans la perspective de Kant ou dans la perspective des sagesses antiques. Quelle est la meilleure interprétation de cet exemple d'après vous ?
+1. D'après les sagesses antiques, la philosophie devrait surtout être une forme de thérapie des désirs. Quel est le sens de cette métaphore médicale ?
 
 ### Niveau 3
 

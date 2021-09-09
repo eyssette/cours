@@ -30,13 +30,16 @@
 
 <iframe src="https://eyssette.github.io/marp-slides/slides/2021-2022/introduction-philosophie-21.html"></iframe>
 
-## Les connaissances à maîtriser :
+## Les connaissances à maîtriser
 
-### L'essentiel
+### Niveau 1
 - Les quatre démarches en philosophie : analyser, problématiser, argumenter et mobiliser ses connaissances. Les connaître et savoir les définir, connaître la question-clef associée à chacune des ces démarches.
+
+### Niveau 2
+
 - Les analogies pour mieux comprendre ces démarches : regarder ses propres lunettes, être comme un taon qui pique un cheval un peu mou, placer les idées sur une balance, digérer et non pas vomir ce qu'on a appris. Savoir expliquer le sens de ces analogies.
 
-### Pour approfondir un peu
+### Niveau 3
 - Les moqueries classiques contre la philosophie : l'histoire de Thalès ou la représentation de Socrate dans _Les Nuées_ d'Aristophane.
 
 
