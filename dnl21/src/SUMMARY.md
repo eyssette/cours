@@ -1,6 +1,7 @@
 # Summary
 
 [Accueil](README.md)
+[Introduction](intro.md)
 - [Secondes : Human Rights](sec.md)
 	- [A. What are Human Rights?](what-are-human-rights.md)
 		- [1/ Introduction to the topic](what-are-human-rights-introduction.md)
