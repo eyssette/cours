@@ -10,4 +10,6 @@
 
 ## Activity
 
-Imagine a moral dilemma.
+Imagine a scenario where a character faces a moral dilemma. Describe the situation and the possible options.
+
+<!-- Ajouter les critères d'évaluation : précision de la description, dilemme moral intéressant, qualité de l'anglais (expressions idiomatiques) -->
