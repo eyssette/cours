@@ -1,11 +1,11 @@
 # Summary
 
-[Accueil](README.md)
-[Introduction](intro.md)
-- [A. Utiliser le numérique pour préparer ses cours](preparer-ses-cours.md)
+- [Accueil](README.md)
+- [Introduction](intro.md)
+ - [A. Utiliser le numérique pour préparer ses cours](preparer-ses-cours.md)
 	- [1/ Organiser son travail](organiser-son-travail.md)
 		- [a) Avant le début de l'année](organiser-son-travail-avant-le-debut-de-l-annee.md)
-		- [b) Pendant l'année](organiser-son-travail-pendant-l-annee.md)
+<!-- - [b) Pendant l'année](organiser-son-travail-pendant-l-annee.md)
 	- [2/ Faire des recherches](faire-des-recherches.md)
 		- [a) Rechercher et exploiter des ressources](faire-des-recherches-et-exploiter-des-ressources.md)
 		- [b) Collaborer avec ses collègues](faire-des-recherches-collaborer-avec-ses-collegues.md)
@@ -22,4 +22,4 @@
 		- [e) Faire travailler les élèves sur un site internet](faire-travailler-les-eleves-internet.md)
 		- [f) Faire travailler les élèves sur des exercices](faire-travailler-les-eleves-exercices.md)
 		- [g) Évaluer les élèves](faire-travailler-les-eleves-evaluation.md)
-[D'autres outils possibles](autres-outils.md)
+- [D'autres outils possibles](autres-outils.md) -->
