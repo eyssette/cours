@@ -5,8 +5,8 @@
 - [Séquence 1 : Éthique et philosophie morale](seq1.md)
 	- [Chapitre 1 : Le bonheur](ch1.md)
 		- [Q1 – Peut-on savoir ce qu'est le bonheur ?](ch1-q1.md)
-		<!-- - [Q2 – Que pouvons-nous face au tragique de l'existence ?]()
-		- [Q3 – Le désir est-il insatiable ?]()
+		- [Q2 – Désirer, est-ce souffrir ?](ch1-q2.md)
+		<!-- - [Q3 – Que pouvons-nous face au tragique de l'existence ?]()
 		- [Q4 – Le simple plaisir d'exister suffit-il pour être heureux ?]() -->
 	- [Chapitre 2 : La morale]()
 		<!-- - [Q1 – La morale se réduit-elle aux mœurs ?]()
