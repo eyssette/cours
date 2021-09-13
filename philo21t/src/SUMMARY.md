@@ -4,8 +4,8 @@
 - [Introduction à la philosophie](intro.md)
 - [Séquence 1 : Philosophie morale et politique](seq1.md)
 	- [Chapitre 1 : La liberté](ch1.md)
-		<!-- - [Q1 – Faire tout ce qui nous plaît, est-ce être esclave de ses désirs ?](ch1-q1.md)
-		- [Q2 – La liberté des autres est-elle un obstacle à ma liberté ?]()
+		- [Q1 – Faire tout ce qui nous plaît, est-ce être esclave de nos désirs ?](ch1-q1.md)
+		<!-- - [Q2 – La liberté des autres est-elle un obstacle à ma liberté ?]()
 		- [Q3 – Quelles sont les règles sociales qui ne portent pas atteinte à ma liberté ?]()
 		- [Q4 – Quel est notre devoir moral ?]()
 		- [Q5 – Quels devoirs avons-nous envers la nature ?]() -->
