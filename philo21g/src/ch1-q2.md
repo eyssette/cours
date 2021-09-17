@@ -45,4 +45,10 @@
 
 ### Sujets d'application
 
-## Pistes d'approfondissement -->
+## Pistes d'approfondissement
+
+1. Lire cette [analyse très précise de la publicité de Dior](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_analyse_dior.pdf)
+2. Faire l'analyse d'une image publicitaire
+3. Découvrir l'analyse que Baudrillard propose de la société de consommation sur le site Philitt : « [Baudrillard ou le triomphe du superflu](https://philitt.fr/2014/10/23/baudrillard-ou-le-triomphe-du-superflu/) »
+
+ -->
