@@ -8,6 +8,8 @@
 - Socrate (-470, -399)
 	- _Introduction à la philosophie :_
 		- Être comme un taon qui pique un cheval un peu mou
+- Épicure (-341, -270)
+	- Chapitre 1 (le bonheur) – _Question 2 : Désirer est-ce souffrir ?_
 - Épictète (50, 135)
 	- _Introduction à la philosophie :_
 		- Placer les idées sur la balance
@@ -15,6 +17,9 @@
 		- Devenir un·e athlète de la pensée 
 
 ## Philosophie moderne et contemporaine
+
+- Schopenhauer (1788,1860)
+	- Chapitre 1 (le bonheur) – _Question 2 : Désirer est-ce souffrir ?_
 
 <style>
 ul li {font-weight:bold; margin-bottom:10px;}
