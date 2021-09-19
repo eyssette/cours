@@ -38,7 +38,7 @@
 		- [Q3 – Peut-on prouver l'existence ou l'inexistence de Dieu ?]()
 		- [Q4 – Y a-t-il un conflit entre la raison et la foi religieuse ?]() -->
 - [Révisions](revisions.md)
-	- [Frise chronologique des philosophes vus en cours](frise-chronologique.md)
+	- [Les philosophes vus en cours](frise-chronologique.md)
 ---
 
 - [Méthodologie et devoirs]()
