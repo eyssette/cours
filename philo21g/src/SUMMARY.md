@@ -71,3 +71,5 @@
 	- [Méthode de la dissertation]()
 	- [Méthode de l'explication de texte]()
 	- [Devoirs avec dossiers]()
+- [Moteurs de recherche](moteurs-de-recherche.md)
+- [Sélection de chaînes vidéo](selection-chaines-video.md)

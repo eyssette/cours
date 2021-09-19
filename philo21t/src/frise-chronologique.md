@@ -1,5 +1,7 @@
 # Les philosophes vus en cours
 
+Vous trouverez ci-dessous une liste des philosophes vus en cours, mais vous pouvez aussi accéder à une [frise chronologique générale des philosophes](https://eyssette.github.io/frise-philo/).
+
 ## Philosophie antique et médiévale
 
 - Thalès (-625 / –545)
