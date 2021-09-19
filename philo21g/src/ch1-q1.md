@@ -4,6 +4,7 @@
 
 1. Être capable de définir la notion de bonheur 🔵
 2. Comprendre l'opposition principale entre Kant et les sagesses antiques 🔴
+3. Comprendre comment on construit son argumentation dans une sous-partie de dissertation 🟢
 
 ## Situation initiale
 
