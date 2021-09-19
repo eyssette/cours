@@ -5,7 +5,7 @@
 
 1. Comprendre différentes formes possibles de désir 🔵
 2. Comprendre l'opposition principale entre Schopenhauer et Épicure 🔴
-3. Comprendre comment on construit son argumentation dans une sous-partie de dissertation 🟢
+3. Comprendre comment on construit son argumentation dans une sous-partie de dissertation 🟢
 
 ## Situation initiale
 
