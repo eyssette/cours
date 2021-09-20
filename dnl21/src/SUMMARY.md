@@ -21,9 +21,9 @@
 		- [3/ Is the list of human rights too minimal or too maximal?](controversies-about-human-rights-list-minimal-or-maximal.md) -->
 - [Premières : Disagreements and Democracy](prem.md)
 	- [A. Ethical Dilemmas](ethical-dilemmas.md)
-		 - [1/ Introduction to the topic](ethical-dilemmas-introduction.md)
-		<!--- [2/ The trolley problem](ethical-dilemmas-trolley.md)
-		- [3/ New tech, new ethics](ethical-dilemmas-new-technology.md)
+		- [1/ Introduction to the topic](ethical-dilemmas-introduction.md)
+		- [2/ The trolley problem](ethical-dilemmas-trolley.md)
+		<!-- - [3/ New tech, new ethics](ethical-dilemmas-new-technology.md)
 		- [4/ Moral Theories](ethical-dilemmas-moral-theories.md) -->
 	- [B. The Importance of Critical Thinking](critical-thinking.md)
 		<!-- - [1/ Introduction to the topic](critical-thinking-introduction.md)
