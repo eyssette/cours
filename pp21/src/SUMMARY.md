@@ -10,6 +10,7 @@
 	- [5/ Les ressources de l'ONISEP](orientation-sites-onisep.md)
 	- [6/ Les sites du journal _L'Étudiant_](orientation-l-etudiant.md)
 	- [7/ Autres sites](orientation-sites-autres.md)
+	- [8/ MOOC sur l'orientation](orientation-mooc.md)
 <!-- - [C. Travailler de manière efficace](travailler-efficace.md)
 	- [1/ Un sondage](travailler-efficace-sondage.md)
 	- [2/ Autres ressources](travailler-efficace-autres-ressources.md)
