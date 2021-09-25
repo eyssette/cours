@@ -55,7 +55,7 @@
 
 ### Niveau 2
 
-1. Quelle distinction peut-on faire entre le désir et le besoin ?
+<!-- 1. Quelle distinction peut-on faire entre le désir et le besoin ? -->
 1. Il existe un nouveau métier que l'on appelle : “_happiness officer_”. Que fait-on dans ce métier ? Que pensez-vous de ce métier ?
 1. Choisissez un exemple de film ou de roman qui montre un personnage déçu après avoir pourtant réalisé ce qu'il désirait. Montrez que l'on peut proposer deux interprétations très différentes de cet exemple, selon que l'on se place dans la perspective de Kant ou dans la perspective des sagesses antiques. Quelle est la meilleure interprétation de cet exemple d'après vous ?
 1. D'après les sagesses antiques, la philosophie devrait surtout être une forme de thérapie des désirs. Quel est le sens de cette métaphore médicale ?
@@ -72,16 +72,16 @@
 
 ### Petits exercices
 
-- Schéma à trous : La distinction entre le bonheur et le plaisir
-- Étiquettes à placer : “le bonheur comme idéal, non de la raison, mais de l'imagination”
-- Texte à trous : Les sagesses antiques
+- La distinction entre le bonheur et le plaisir : [tableau à compléter](https://eyssette.github.io/marp-slides/slides/2021-2022/s1-ch1-q1-peut-on-savoir-ce-qu-est-le-bonheur.html#11)
+- Kant sur le bonheur comme idéal de l'imagination : [tableau à compléter](https://eyssette.github.io/marp-slides/slides/2021-2022/s1-ch1-q1-peut-on-savoir-ce-qu-est-le-bonheur.html#15)
 
 ### Sujets d'application
 
 1. Le bonheur est-il une affaire privée ?
 1. Suffit-il de réaliser ses désirs pour être heureux ?
-1. Ai-je le devoir de faire le bonheur des autres ?
 1. Le bonheur dépend-il de nous ?
+1. Le bonheur peut-il s’apprendre ?
+1. La réflexion est-elle un obstacle au bonheur ?
 
 ## Pistes d'approfondissement
 
@@ -98,4 +98,5 @@
 1. Lire ce [texte de Pierre Hadot](https://www.dropbox.com/s/9r4bag2dbkjwio5/HadotRapportAuTempsEpicurismeStoicisme.pdf?dl=0) sur la manière dont les sagesses antiques conçoivent le rapport à avoir avec le temps
 1. Lire des extraits du livre de Martha Nussbaum, _The Therapy of Desire: Theory and Practice in Hellenistic Ethics_ (me les demander)
 
-<!-- Ajouter quelque chose sur les exercices spirituels ? En restant général -->
+<!-- Ajouter quelque chose sur les exercices spirituels ? En restant général.
+Autres formes de sagesses : cf. Tao (= la voie) -->
