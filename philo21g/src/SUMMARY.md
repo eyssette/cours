@@ -6,8 +6,8 @@
 	- [Chapitre 1 : Le bonheur](ch1.md)
 		- [Q1 – Peut-on savoir ce qu'est le bonheur ?](ch1-q1.md)
 		- [Q2 – Désirer, est-ce souffrir ?](ch1-q2.md)
-		<!-- - [Q3 – Que pouvons-nous face au tragique de l'existence ?]()
-		- [Q4 – Le simple plaisir d'exister suffit-il pour être heureux ?]() -->
+		- [Q3 – Que pouvons-nous face au tragique de l'existence ?](ch1-q3.md)
+		<!-- - [Q4 – Le simple plaisir d'exister suffit-il pour être heureux ?]() -->
 	- [Chapitre 2 : La morale]()
 		<!-- - [Q1 – La morale se réduit-elle aux mœurs ?]()
 		- [Q2 – Est-ce le cœur ou la raison qui indique le bien et le mal ?]()
