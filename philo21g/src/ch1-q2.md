@@ -42,20 +42,43 @@
 
 ### Niveau 3
 
+ -->
 
 ## Exercices
 
 ### Petits exercices
 
+
+
+ 1. [Analyse d'une image publicitaire](https://eyssette.github.io/marp-slides/slides/2021-2022/s1-ch1-q2-Desirer-est-ce-souffrir.html#13)
+ 2. [Analyse de la comparaison avec un tonneau percé](https://eyssette.github.io/marp-slides/slides/2021-2022/s1-ch1-q2-Desirer-est-ce-souffrir.html?f=1#17)
+ 3. [Distinction entre l'hédonisme radical et l'hédonisme d'Épicure](https://eyssette.github.io/marp-slides/slides/2021-2022/s1-ch1-q2-Desirer-est-ce-souffrir.html#30)
+ 4. [Reconstitution du schéma sur les désirs vains](https://eyssette.github.io/marp-slides/slides/2021-2022/s1-ch1-q2-Desirer-est-ce-souffrir.html?f=1#36)
+ 5. [Attitude à avoir vis-à-vis des désirs vains et des désirs naturels](https://eyssette.github.io/marp-slides/slides/2021-2022/s1-ch1-q2-Desirer-est-ce-souffrir.html#37)
+
 ### Sujets d'application
 
+1. Le progrès technique rend-il heureux ?
+1. Le bonheur n'est-il qu'une illusion ?
+1. Le désir est-il la marque de notre imperfection ?
+1. Le désir peut-il se satisfaire de la réalité ?
+1. Satisfaire tous ses désirs, est-ce une bonne règle de vie ?
+1. La réflexion est-elle un obstacle au bonheur ?
+1. Le bonheur peut-il s’apprendre ?
+1. Y a-t-il des désirs naturels ?
+
 ## Pistes d'approfondissement
+
+### Sur le désir comme manque, frustration et sur le désir d'avoir toujours plus
 
 1. Lire cette [analyse très précise de la publicité de Dior](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_analyse_dior.pdf)
 2. Faire l'analyse d'une image publicitaire
 3. Découvrir l'analyse que Baudrillard propose de la société de consommation sur le site Philitt : « [Baudrillard ou le triomphe du superflu](https://philitt.fr/2014/10/23/baudrillard-ou-le-triomphe-du-superflu/) »
+4. Voir d'autres vidéos d'analyse de jeux vidéo sur la chaîne [Game Spectrum](https://www.youtube.com/c/gamespectrum)
+5. Voir d'autres vidéo d'analyse d'applications, dans la série [Dopamine](https://www.arte.tv/fr/videos/RC-017841/dopamine/)
 
-vidéo complète de Game Spectrum
-Autres analyses du désir d'avoir toujours plus ?
+### Sur Épicure
 
- -->
+1. Une émission des _Nouveaux chemins de la connaissance_ : [« L’hédonisme antique ou le calcul des plaisirs »](https://www.franceculture.fr/emissions/les-nouveaux-chemins-de-la-connaissance/pour-le-plaisir-14-l-hedonisme-antique-ou-le)
+2. [Un schéma sur les remèdes contre la crainte des dieux et la crainte de la mort](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-supprimer-croyances-fausses.svg)
+3. Un document à propos des [mouvements contemporains de “la simplicité volontaire”](https://docs.google.com/document/d/1bj-Z10wRiGp6H8erRwLmp8BmHtYTJgWaLBc3HalJT_A/edit?usp=sharing), qui se rapprochent en partie de la philosophie d'Épicure
