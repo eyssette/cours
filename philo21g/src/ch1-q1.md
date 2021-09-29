@@ -90,7 +90,8 @@
 1. Lire cet [article sur l'injonction au bonheur](https://www.lemonde.fr/m-perso/article/2016/05/27/le-retour-de-la-mere-parfaite_4927830_4497916.html) que véhiculent les “mères parfaites” sur Instagram
 1. Regarder la vidéo de la chaîne _Méta_ sur [la dictature du bonheur](https://www.youtube.com/watch?v=oqq96UQAaXo)
 1. Consulter ce lien sur [le bonheur comme norme sociale et économique](https://docs.google.com/document/d/1Bo9T9oGNag4bkaGGVzyd5i-DDI19vf0smo-qq60H0_M/edit?usp=sharing)
-1. Découvrir l'[analyse critique du développement personnel par Julia de Funès](https://www.arte.tv/fr/videos/092170-010-A/philosophie/)
+1. Regarder ce documentaire « [La recherche du bonheur tourne-t-elle à l’obsession ?](https://www.youtube.com/watch?v=6JhNZAZRR7A) »
+<!-- 1. Découvrir l'[analyse critique du développement personnel par Julia de Funès](https://www.arte.tv/fr/videos/092170-010-A/philosophie/) -->
 1. Lire le livre [Happycratie d'Eva Illouz](https://laviedesidees.fr/Bonheur-obligatoire.html), ou bien seulement des extraits sélectionnés (me les demander)
 
 ### Les sagesses antiques
