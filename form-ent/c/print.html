@@ -75,6 +75,23 @@
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
         </script>
+        <!-- Add : function to display links to subpages -->
+        <script >
+            function subPages() {
+                var el = document.getElementsByClassName('active')[0];
+                var elParent = el.parentNode;
+                var nextElParent = elParent.nextSibling;
+                if (nextElParent) {
+                    var childNextElParent = nextElParent.firstChild;
+                    var newEl = childNextElParent.cloneNode(true);
+                    var main = document.getElementsByTagName('main');
+                    main[0].appendChild(newEl);
+                    var toggle = document.querySelector('main a.toggle');
+                    if (toggle) {
+                        toggle.remove();
+                    }
+                }
+            }</script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
@@ -156,12 +173,11 @@
 <h2 id="prise-en-main-et-personnalisation"><a class="header" href="#prise-en-main-et-personnalisation">Prise en main et personnalisation</a></h2>
 <p>Document de la DRANE (pdf) : <a href="https://dane.ac-lyon.fr/spip/IMG/pdf/ent_priseenmain_personnalisation-prof_2020odt.pdf">https://dane.ac-lyon.fr/spip/IMG/pdf/ent_priseenmain_personnalisation-prof_2020odt.pdf</a></p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="a-le-cahier-de-textes"><a class="header" href="#a-le-cahier-de-textes">A. Le cahier de textes</a></h1>
-<p>Ce tutoriel va présenter : </p>
-<ol>
-<li>L'usage classique</li>
-<li>Des usages plus avancés</li>
-</ol>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="1-usage-classique-du-cahier-de-textes"><a class="header" href="#1-usage-classique-du-cahier-de-textes">1/ Usage classique du cahier de textes</a></h1>
+<!-- Ce tutoriel va présenter : 
+
+1. L'usage classique
+2. Des usages plus avancés -->
+<script>subPages()</script><div style="break-before: page; page-break-before: always;"></div><h1 id="1-usage-classique-du-cahier-de-textes"><a class="header" href="#1-usage-classique-du-cahier-de-textes">1/ Usage classique du cahier de textes</a></h1>
 <h2 id="diaporama"><a class="header" href="#diaporama">Diaporama</a></h2>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_We2XvXC92tmQ49RbE7TzXp4kZywBX_91RTd54drrqQLYUddCyqsH38niC3oowo08Tib395hzKW-1/embed?start=false&loop=false&delayms=60000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <h2 id="vidéos"><a class="header" href="#vidéos">Vidéos</a></h2>
@@ -195,12 +211,11 @@
 <h2 id="autre-tutoriel"><a class="header" href="#autre-tutoriel">Autre tutoriel</a></h2>
 <p>Tutoriel de la DRANE : <a href="https://dane.ac-lyon.fr/spip/IMG/pdf/ent_imprimer-cahierdetextes.pdf">https://dane.ac-lyon.fr/spip/IMG/pdf/ent_imprimer-cahierdetextes.pdf</a></p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="b-classeur-personnel-et-espaces-de-travail"><a class="header" href="#b-classeur-personnel-et-espaces-de-travail">B. Classeur personnel et espaces de travail</a></h1>
-<p>Ce tutoriel va présenter ici :</p>
-<ol>
-<li>L'utilisation du classeur personnel pour créer et diffuser des documents et des exercices</li>
-<li>L'utilisation des espaces de travail pour travailler de manière collaborative et interactive : entre les élèves et professeurs d'une classe, ou entre les membres d'un groupe quelconque (MDL, Chorale, …)</li>
-</ol>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="1-créer-organiser-et-diffuser-ses-documents--le-classeur-personnel"><a class="header" href="#1-créer-organiser-et-diffuser-ses-documents--le-classeur-personnel">1/ Créer, organiser et diffuser ses documents : le classeur personnel</a></h1>
+<!-- Ce tutoriel va présenter ici :
+
+1. L'utilisation du classeur personnel pour créer et diffuser des documents et des exercices
+2. L'utilisation des espaces de travail pour travailler de manière collaborative et interactive : entre les élèves et professeurs d'une classe, ou entre les membres d'un groupe quelconque (MDL, Chorale, …) -->
+<script>subPages()</script><div style="break-before: page; page-break-before: always;"></div><h1 id="1-créer-organiser-et-diffuser-ses-documents--le-classeur-personnel"><a class="header" href="#1-créer-organiser-et-diffuser-ses-documents--le-classeur-personnel">1/ Créer, organiser et diffuser ses documents : le classeur personnel</a></h1>
 <h2 id="diaporama-3"><a class="header" href="#diaporama-3">Diaporama</a></h2>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTP4yp3x94w3plwPUebE7wHmH1UzPHkmgTARoRGRt9B72sxplwjC2IL-k6ZLaJAOAPU3zUUOsa-HSuc/embed?start=false&loop=false&delayms=60000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <h2 id="vidéos-2"><a class="header" href="#vidéos-2">Vidéos</a></h2>
@@ -208,12 +223,11 @@
 <iframe sandbox="allow-same-origin allow-scripts allow-popups" src="https://tube.ac-lyon.fr/videos/embed/68f1c377-c49a-469b-9283-8a219b13f3a0" frameborder="0" allowfullscreen></iframe><div style="break-before: page; page-break-before: always;"></div><h1 id="2-travailler-de-manière-collaborative-et-interactive--les-espaces-de-travail"><a class="header" href="#2-travailler-de-manière-collaborative-et-interactive--les-espaces-de-travail">2/ Travailler de manière collaborative et interactive : les espaces de travail</a></h1>
 <h2 id="diaporama-4"><a class="header" href="#diaporama-4">Diaporama</a></h2>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbhwFiJunFdffD05TyuzJaj1OCdW_PnFJlPMYbTcOmsy_Sfi2-yHLtQzGP_COFPBW6yRGW2xy0ZQXC/embed?start=false&loop=false&delayms=60000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><div style="break-before: page; page-break-before: always;"></div><h1 id="communication-en-interne-et-publication-sur-le-site"><a class="header" href="#communication-en-interne-et-publication-sur-le-site">Communication en interne et publication sur le site</a></h1>
-<p>Ce tutoriel va présenter ici :</p>
-<ol>
-<li>L'usage de la messagerie interne</li>
-<li>Les fonctions de publication d'articles sur le site du lycée</li>
-</ol>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="1-la-messagerie-interne"><a class="header" href="#1-la-messagerie-interne">1/ La messagerie interne</a></h1>
+<!-- Ce tutoriel va présenter ici :
+
+1. L'usage de la messagerie interne
+2. Les fonctions de publication d'articles sur le site du lycée -->
+<script>subPages()</script><div style="break-before: page; page-break-before: always;"></div><h1 id="1-la-messagerie-interne"><a class="header" href="#1-la-messagerie-interne">1/ La messagerie interne</a></h1>
 <h2 id="précisions"><a class="header" href="#précisions">Précisions</a></h2>
 <p>On peut communiquer en interne grâce à l'ENT avec tous les membres de l'établissement, les élèves, les parents d'élèves.</p>
 <p>⚠️ Attention :</p>
@@ -231,12 +245,11 @@
 <h2 id="diaporama-6"><a class="header" href="#diaporama-6">Diaporama</a></h2>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRSGPs25lKqnvUJy95EBms5FrhZti_nne-S2_PfZW94szgoS3Qh7s1efDhN3wqnGoe02qb9nOf9eosA/embed?start=false&loop=false&delayms=60000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="d-accès-à-des-ressources"><a class="header" href="#d-accès-à-des-ressources">D. Accès à des ressources</a></h1>
-<p>Ce tutoriel va présenter ici :</p>
-<ol>
-<li>La réservation de ressources (salles informatiques, tablettes…)</li>
-<li>L'accès aux ressources numériques grâce à l'identification par l'ENT</li>
-</ol>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="réservation-de-ressources-salles-informatiques-tablettes-"><a class="header" href="#réservation-de-ressources-salles-informatiques-tablettes-">Réservation de ressources (salles informatiques, tablettes …)</a></h1>
+<!-- Ce tutoriel va présenter ici :
+
+1. La réservation de ressources (salles informatiques, tablettes…)
+2. L'accès aux ressources numériques grâce à l'identification par l'ENT -->
+<script>subPages()</script><div style="break-before: page; page-break-before: always;"></div><h1 id="réservation-de-ressources-salles-informatiques-tablettes-"><a class="header" href="#réservation-de-ressources-salles-informatiques-tablettes-">Réservation de ressources (salles informatiques, tablettes …)</a></h1>
 <ol>
 <li>La réservation se fait par Pronote : on clique sur l'onglet &quot;Scolarité&quot;, puis sur &quot;Pronote&quot;.</li>
 <li>Dans son agenda, on fait un clic droit sur une séance et on clique sur “Réservation de salles”, puis &quot;Remplacer la salle&quot; ou &quot;Réserver une salle supplémentaire&quot;</li>
@@ -249,14 +262,13 @@
 <p>Ces ressources sont disponibles dans le menu de gauche, dans &quot;Ressources numériques&quot; et dans &quot;E-Services&quot;.</p>
 <p>Certaines disciplines peuvent avoir accès à des ressources particulières, ou à des manuels en ligne : voir avec le référent numérique pour toute question à ce propos.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="e-outils-plus-avancés"><a class="header" href="#e-outils-plus-avancés">E. Outils plus avancés</a></h1>
-<p>Voici quelques outils plus compliqués à manipuler, mais qui peuvent être très utiles dans certains cas : </p>
-<ol>
-<li>Création d'exercices en ligne</li>
-<li>Les formulaires</li>
-<li>Les outils de collaboration : forums, chats, pads</li>
-<li>Les Jupyter Notebooks</li>
-</ol>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="1-création-dexercices-en-ligne"><a class="header" href="#1-création-dexercices-en-ligne">1/ Création d'exercices en ligne</a></h1>
+<!-- Voici quelques outils plus compliqués à manipuler, mais qui peuvent être très utiles dans certains cas : 
+
+1. Création d'exercices en ligne
+2. Les formulaires
+3. Les outils de collaboration : forums, chats, pads
+4. Les Jupyter Notebooks -->
+<script>subPages()</script><div style="break-before: page; page-break-before: always;"></div><h1 id="1-création-dexercices-en-ligne"><a class="header" href="#1-création-dexercices-en-ligne">1/ Création d'exercices en ligne</a></h1>
 <h2 id="avec-lent"><a class="header" href="#avec-lent">Avec l'ENT</a></h2>
 <p>Vous pouvez créer dans l'ENT des exercices en ligne interactifs.</p>
 <p>Tutoriel officiel : <a href="https://www.skolengo-academy.org/fr/enseignement-secondaire/cahier-de-textes/cahier-de-textes-de-lenseignant/exerciseur">https://www.skolengo-academy.org/fr/enseignement-secondaire/cahier-de-textes/cahier-de-textes-de-lenseignant/exerciseur</a></p>

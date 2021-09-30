@@ -1,6 +1,8 @@
 # A. Le cahier de textes
 
-Ce tutoriel va présenter : 
+<!-- Ce tutoriel va présenter : 
 
 1. L'usage classique
-2. Des usages plus avancés
+2. Des usages plus avancés -->
+
+<script>subPages()</script>

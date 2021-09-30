@@ -75,6 +75,23 @@
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
         </script>
+        <!-- Add : function to display links to subpages -->
+        <script >
+            function subPages() {
+                var el = document.getElementsByClassName('active')[0];
+                var elParent = el.parentNode;
+                var nextElParent = elParent.nextSibling;
+                if (nextElParent) {
+                    var childNextElParent = nextElParent.firstChild;
+                    var newEl = childNextElParent.cloneNode(true);
+                    var main = document.getElementsByTagName('main');
+                    main[0].appendChild(newEl);
+                    var toggle = document.querySelector('main a.toggle');
+                    if (toggle) {
+                        toggle.remove();
+                    }
+                }
+            }</script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
@@ -151,6 +168,7 @@ Vous pouvez aussi m'envoyer un message par mail : prénom.nom@ac-lyon.fr (en rem
 <p>L'icône <i class="fa fa-paint-brush"></i> vous permet de choisir entre différents thèmes (clairs ou sombres) pour que la lecture soit plus agréable sur votre écran.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="a-premier-jour"><a class="header" href="#a-premier-jour">A. Premier jour</a></h1>
 <iframe src="https://eyssette.github.io/marp-slides/slides/pp21-premier-jour.html"></iframe><div style="break-before: page; page-break-before: always;"></div><h1 id="c-lorientation"><a class="header" href="#c-lorientation">C. L'orientation</a></h1>
+<script>subPages()</script>
 <h2 id="le-diaporama"><a class="header" href="#le-diaporama">Le diaporama</a></h2>
 <iframe src="https://eyssette.github.io/marp-slides/slides/2021-2022/orientation.html"></iframe><div style="break-before: page; page-break-before: always;"></div><h1 id="1-une-démarche-active-de-réflexion-et-de-recherche-dinformations"><a class="header" href="#1-une-démarche-active-de-réflexion-et-de-recherche-dinformations">1/ Une démarche active de réflexion et de recherche d'informations</a></h1>
 <p>Pour construire votre projet d'orientation, il faut tout d'abord discuter avec vos parents, vos amis, vos connaissances.</p>

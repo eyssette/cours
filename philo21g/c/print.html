@@ -75,6 +75,23 @@
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
         </script>
+        <!-- Add : function to display links to subpages -->
+        <script >
+            function subPages() {
+                var el = document.getElementsByClassName('active')[0];
+                var elParent = el.parentNode;
+                var nextElParent = elParent.nextSibling;
+                if (nextElParent) {
+                    var childNextElParent = nextElParent.firstChild;
+                    var newEl = childNextElParent.cloneNode(true);
+                    var main = document.getElementsByTagName('main');
+                    main[0].appendChild(newEl);
+                    var toggle = document.querySelector('main a.toggle');
+                    if (toggle) {
+                        toggle.remove();
+                    }
+                }
+            }</script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
@@ -242,10 +259,11 @@
 <iframe src="https://eyssette.github.io/marp-slides/slides/2021-2022/sequence1-éthique-et-philosophie-morale.html"></iframe>
 <!-- ## Schéma récapitulatif
 
-![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/sequence1-ethique-et-morale-plan.dot.svg) --><div style="break-before: page; page-break-before: always;"></div><h1 id="chapitre-1--le-bonheur"><a class="header" href="#chapitre-1--le-bonheur">Chapitre 1 : Le bonheur</a></h1>
+![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/sequence1-ethique-et-morale-plan.dot.svg) -->
+<script>subPages()</script><div style="break-before: page; page-break-before: always;"></div><h1 id="chapitre-1--le-bonheur"><a class="header" href="#chapitre-1--le-bonheur">Chapitre 1 : Le bonheur</a></h1>
 <p>Question directrice : Le bonheur n'est-il qu'un idéal ?</p>
 <!--  ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/plans/plan-questions-bonheur.dot.svg) -->
-<div style="break-before: page; page-break-before: always;"></div><h1 id="q1--peut-on-savoir-ce-quest-le-bonheur-"><a class="header" href="#q1--peut-on-savoir-ce-quest-le-bonheur-">Q1 – Peut-on savoir ce qu'est le bonheur ?</a></h1>
+<script>subPages()</script><div style="break-before: page; page-break-before: always;"></div><h1 id="q1--peut-on-savoir-ce-quest-le-bonheur-"><a class="header" href="#q1--peut-on-savoir-ce-quest-le-bonheur-">Q1 – Peut-on savoir ce qu'est le bonheur ?</a></h1>
 <h2 id="objectifs-de-ce-cours"><a class="header" href="#objectifs-de-ce-cours">Objectifs de ce cours</a></h2>
 <ol>
 <li>Être capable de définir la notion de bonheur 🔵</li>
@@ -421,9 +439,23 @@ Autres formes de sagesses : cf. Tao (= la voie) -->
 1. On peut trouver une référence au stoïcisme dans certaines thérapies cognitives : vous pouvez lire cette [présentation des grands principes des thérapies cognitives](https://docs.google.com/document/d/1P-TIStOKS-7Xvvsuzg4U0OSdBglOF2Q7WBJYvxou-Uo/edit?usp=sharing), ou cet article : « [Le stoïcisme comme précurseur épistémologique de la thérapie cognitive](https://www.cairn.info/revue-psn-2014-2-page-65.htm) »
 2. Plusieurs personnes essaient de penser un stoïcisme contemporain : vous pouvez lire cette [présentation de l'association Stoa Gallica et de ses travaux](https://biospraktikos.hypotheses.org/5130)
  --><div style="break-before: page; page-break-before: always;"></div><h1 id="révisions"><a class="header" href="#révisions">Révisions</a></h1>
-<p>Vous trouverez dans cette catégorie différents outils pour réviser le cours.</p>
 <p>Avez-vous tout d'abord des bonnes pratiques pour vos révisions ? : <a href="https://eyssette.github.io/apprendre/bases.html">Faites ce sondage</a>.</p>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="les-philosophes-vus-en-cours"><a class="header" href="#les-philosophes-vus-en-cours">Les philosophes vus en cours</a></h1>
+<p>Vous trouverez dans cette catégorie différents outils pour réviser le cours :</p>
+<script>
+var el = document.getElementsByClassName('active')[0];
+var elParent = el.parentNode;
+var nextElParent = elParent.nextSibling;
+if (nextElParent) {
+var childNextElParent = nextElParent.firstChild;
+var newEl = childNextElParent.cloneNode(true);
+var main = document.getElementsByTagName('main');
+main[0].appendChild(newEl);
+var toggle = document.querySelector('main a.toggle');
+if (toggle) {
+toggle.remove();
+}
+}
+</script><div style="break-before: page; page-break-before: always;"></div><h1 id="les-philosophes-vus-en-cours"><a class="header" href="#les-philosophes-vus-en-cours">Les philosophes vus en cours</a></h1>
 <p>Vous trouverez ci-dessous une liste des philosophes vus en cours, mais vous pouvez aussi accéder à une <a href="https://eyssette.github.io/frise-philo/">frise chronologique générale des philosophes</a>.</p>
 <h2 id="philosophie-antique-et-médiévale"><a class="header" href="#philosophie-antique-et-médiévale">Philosophie antique et médiévale</a></h2>
 <ul>
@@ -472,11 +504,25 @@ Autres formes de sagesses : cf. Tao (= la voie) -->
 <li>Devenir un·e athlète de la pensée </li>
 </ul>
 </li>
+<li><em>Que pouvons-nous face au tragique de l'existence ?</em> (Chapitre 1 / Question 3)
+<ul>
+<li>Accepter ce qui ne dépend pas de nous / Maîtriser ce qui dépend de nous : être comme un roc face aux vagues</li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
 <h2 id="philosophie-moderne-et-contemporaine"><a class="header" href="#philosophie-moderne-et-contemporaine">Philosophie moderne et contemporaine</a></h2>
 <ul>
+<li>Pascal (1623-1662)
+<ul>
+<li><em>Que pouvons-nous face au tragique de l'existence ?</em> (Chapitre 1 / Question 3)
+<ul>
+<li>Tragique de l'impuissance, tragique de l'insignifiance, divertissement</li>
+</ul>
+</li>
+</ul>
+</li>
 <li>Kant (1742-1804)
 <ul>
 <li><em>Peut-on savoir ce qu'est le bonheur ?</em> (Chapitre 1 / Question 1)

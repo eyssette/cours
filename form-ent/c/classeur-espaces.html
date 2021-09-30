@@ -74,6 +74,23 @@
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
         </script>
+        <!-- Add : function to display links to subpages -->
+        <script >
+            function subPages() {
+                var el = document.getElementsByClassName('active')[0];
+                var elParent = el.parentNode;
+                var nextElParent = elParent.nextSibling;
+                if (nextElParent) {
+                    var childNextElParent = nextElParent.firstChild;
+                    var newEl = childNextElParent.cloneNode(true);
+                    var main = document.getElementsByTagName('main');
+                    main[0].appendChild(newEl);
+                    var toggle = document.querySelector('main a.toggle');
+                    if (toggle) {
+                        toggle.remove();
+                    }
+                }
+            }</script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
@@ -139,12 +156,11 @@
 
                     <main>
                         <h1 id="b-classeur-personnel-et-espaces-de-travail"><a class="header" href="#b-classeur-personnel-et-espaces-de-travail">B. Classeur personnel et espaces de travail</a></h1>
-<p>Ce tutoriel va présenter ici :</p>
-<ol>
-<li>L'utilisation du classeur personnel pour créer et diffuser des documents et des exercices</li>
-<li>L'utilisation des espaces de travail pour travailler de manière collaborative et interactive : entre les élèves et professeurs d'une classe, ou entre les membres d'un groupe quelconque (MDL, Chorale, …)</li>
-</ol>
+<!-- Ce tutoriel va présenter ici :
 
+1. L'utilisation du classeur personnel pour créer et diffuser des documents et des exercices
+2. L'utilisation des espaces de travail pour travailler de manière collaborative et interactive : entre les élèves et professeurs d'une classe, ou entre les membres d'un groupe quelconque (MDL, Chorale, …) -->
+<script>subPages()</script>
                     </main>
 
                     <nav class="nav-wrapper" aria-label="Page navigation">

@@ -9,3 +9,6 @@ Question directrice : Qu'est-ce qu'une vie bonne ?
 <!-- ## Schéma récapitulatif
 
 ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/sequence1-ethique-et-morale-plan.dot.svg) -->
+
+
+<script>subPages()</script>

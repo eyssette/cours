@@ -74,6 +74,23 @@
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
         </script>
+        <!-- Add : function to display links to subpages -->
+        <script >
+            function subPages() {
+                var el = document.getElementsByClassName('active')[0];
+                var elParent = el.parentNode;
+                var nextElParent = elParent.nextSibling;
+                if (nextElParent) {
+                    var childNextElParent = nextElParent.firstChild;
+                    var newEl = childNextElParent.cloneNode(true);
+                    var main = document.getElementsByTagName('main');
+                    main[0].appendChild(newEl);
+                    var toggle = document.querySelector('main a.toggle');
+                    if (toggle) {
+                        toggle.remove();
+                    }
+                }
+            }</script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
@@ -139,14 +156,13 @@
 
                     <main>
                         <h1 id="e-outils-plus-avancés"><a class="header" href="#e-outils-plus-avancés">E. Outils plus avancés</a></h1>
-<p>Voici quelques outils plus compliqués à manipuler, mais qui peuvent être très utiles dans certains cas : </p>
-<ol>
-<li>Création d'exercices en ligne</li>
-<li>Les formulaires</li>
-<li>Les outils de collaboration : forums, chats, pads</li>
-<li>Les Jupyter Notebooks</li>
-</ol>
+<!-- Voici quelques outils plus compliqués à manipuler, mais qui peuvent être très utiles dans certains cas : 
 
+1. Création d'exercices en ligne
+2. Les formulaires
+3. Les outils de collaboration : forums, chats, pads
+4. Les Jupyter Notebooks -->
+<script>subPages()</script>
                     </main>
 
                     <nav class="nav-wrapper" aria-label="Page navigation">

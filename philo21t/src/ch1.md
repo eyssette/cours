@@ -2,3 +2,4 @@
 
 Question directrice : Être libre, est-ce faire tout ce qui nous plaît ?
 
+<script>subPages()</script>

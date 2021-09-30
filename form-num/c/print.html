@@ -75,6 +75,23 @@
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
         </script>
+        <!-- Add : function to display links to subpages -->
+        <script >
+            function subPages() {
+                var el = document.getElementsByClassName('active')[0];
+                var elParent = el.parentNode;
+                var nextElParent = elParent.nextSibling;
+                if (nextElParent) {
+                    var childNextElParent = nextElParent.firstChild;
+                    var newEl = childNextElParent.cloneNode(true);
+                    var main = document.getElementsByTagName('main');
+                    main[0].appendChild(newEl);
+                    var toggle = document.querySelector('main a.toggle');
+                    if (toggle) {
+                        toggle.remove();
+                    }
+                }
+            }</script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
@@ -162,18 +179,8 @@
 <h2 id="plan-de-cette-formation"><a class="header" href="#plan-de-cette-formation">Plan de cette formation</a></h2>
 <p><img src="https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/plan-formation-numerique.svg" alt="" /></p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="a-utiliser-le-numérique-pour-préparer-ses-cours"><a class="header" href="#a-utiliser-le-numérique-pour-préparer-ses-cours">A. Utiliser le numérique pour préparer ses cours</a></h1>
-<ol>
-<li>
-<p>Organiser son travail</p>
-</li>
-<li>
-<p>Faire des recherches</p>
-</li>
-</ol>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="1-organiser-son-travail"><a class="header" href="#1-organiser-son-travail">1/ Organiser son travail</a></h1>
-<p>a) Avant le début de l'année</p>
-<p>b)  Pendant l'année</p>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="a-avant-le-début-de-lannée"><a class="header" href="#a-avant-le-début-de-lannée">a) Avant le début de l'année</a></h1>
+<script>subPages()</script><div style="break-before: page; page-break-before: always;"></div><h1 id="1-organiser-son-travail"><a class="header" href="#1-organiser-son-travail">1/ Organiser son travail</a></h1>
+<script>subPages()</script><div style="break-before: page; page-break-before: always;"></div><h1 id="a-avant-le-début-de-lannée"><a class="header" href="#a-avant-le-début-de-lannée">a) Avant le début de l'année</a></h1>
 <h2 id="se-faire-une-programmation-générale"><a class="header" href="#se-faire-une-programmation-générale">Se faire une programmation générale</a></h2>
 <ul>
 <li>Utiliser un tableur pour préparer son planning de l’année <a href="https://docs.google.com/spreadsheets/d/1ZJQn8ZNyncv9BA1cmWkf-uT3k_jZQR3ylywSdynabtU/edit?usp=sharing">🔗</a>

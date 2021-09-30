@@ -21,9 +21,14 @@ Vous trouverez ci-dessous une liste des philosophes vus en cours, mais vous pouv
 		- Placer les idées sur la balance
 		- Digérer, et non pas vomir, ce qu'on a appris
 		- Devenir un·e athlète de la pensée 
+	- _Que pouvons-nous face au tragique de l'existence ?_ (Chapitre 1 / Question 3)
+		- Accepter ce qui ne dépend pas de nous / Maîtriser ce qui dépend de nous : être comme un roc face aux vagues
 
 ## Philosophie moderne et contemporaine
 
+- Pascal (1623-1662)
+	- _Que pouvons-nous face au tragique de l'existence ?_ (Chapitre 1 / Question 3)
+		- Tragique de l'impuissance, tragique de l'insignifiance, divertissement
 - Kant (1742-1804)
 	- _Peut-on savoir ce qu'est le bonheur ?_ (Chapitre 1 / Question 1)
 		- Le bonheur comme idéal de l'imagination

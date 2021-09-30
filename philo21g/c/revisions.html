@@ -74,6 +74,23 @@
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
         </script>
+        <!-- Add : function to display links to subpages -->
+        <script >
+            function subPages() {
+                var el = document.getElementsByClassName('active')[0];
+                var elParent = el.parentNode;
+                var nextElParent = elParent.nextSibling;
+                if (nextElParent) {
+                    var childNextElParent = nextElParent.firstChild;
+                    var newEl = childNextElParent.cloneNode(true);
+                    var main = document.getElementsByTagName('main');
+                    main[0].appendChild(newEl);
+                    var toggle = document.querySelector('main a.toggle');
+                    if (toggle) {
+                        toggle.remove();
+                    }
+                }
+            }</script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
@@ -139,9 +156,23 @@
                                         
                     <main>
                         <h1 id="révisions"><a class="header" href="#révisions">Révisions</a></h1>
-<p>Vous trouverez dans cette catégorie différents outils pour réviser le cours.</p>
 <p>Avez-vous tout d'abord des bonnes pratiques pour vos révisions ? : <a href="https://eyssette.github.io/apprendre/bases.html">Faites ce sondage</a>.</p>
-
+<p>Vous trouverez dans cette catégorie différents outils pour réviser le cours :</p>
+<script>
+var el = document.getElementsByClassName('active')[0];
+var elParent = el.parentNode;
+var nextElParent = elParent.nextSibling;
+if (nextElParent) {
+var childNextElParent = nextElParent.firstChild;
+var newEl = childNextElParent.cloneNode(true);
+var main = document.getElementsByTagName('main');
+main[0].appendChild(newEl);
+var toggle = document.querySelector('main a.toggle');
+if (toggle) {
+toggle.remove();
+}
+}
+</script>
                     </main>
 
                     <nav class="nav-wrapper" aria-label="Page navigation">

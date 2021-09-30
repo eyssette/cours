@@ -74,6 +74,23 @@
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
         </script>
+        <!-- Add : function to display links to subpages -->
+        <script >
+            function subPages() {
+                var el = document.getElementsByClassName('active')[0];
+                var elParent = el.parentNode;
+                var nextElParent = elParent.nextSibling;
+                if (nextElParent) {
+                    var childNextElParent = nextElParent.firstChild;
+                    var newEl = childNextElParent.cloneNode(true);
+                    var main = document.getElementsByTagName('main');
+                    main[0].appendChild(newEl);
+                    var toggle = document.querySelector('main a.toggle');
+                    if (toggle) {
+                        toggle.remove();
+                    }
+                }
+            }</script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
@@ -187,11 +204,25 @@
 <li>Devenir un·e athlète de la pensée </li>
 </ul>
 </li>
+<li><em>Que pouvons-nous face au tragique de l'existence ?</em> (Chapitre 1 / Question 3)
+<ul>
+<li>Accepter ce qui ne dépend pas de nous / Maîtriser ce qui dépend de nous : être comme un roc face aux vagues</li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
 <h2 id="philosophie-moderne-et-contemporaine"><a class="header" href="#philosophie-moderne-et-contemporaine">Philosophie moderne et contemporaine</a></h2>
 <ul>
+<li>Pascal (1623-1662)
+<ul>
+<li><em>Que pouvons-nous face au tragique de l'existence ?</em> (Chapitre 1 / Question 3)
+<ul>
+<li>Tragique de l'impuissance, tragique de l'insignifiance, divertissement</li>
+</ul>
+</li>
+</ul>
+</li>
 <li>Kant (1742-1804)
 <ul>
 <li><em>Peut-on savoir ce qu'est le bonheur ?</em> (Chapitre 1 / Question 1)
