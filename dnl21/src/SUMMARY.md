@@ -5,6 +5,7 @@
 - [Secondes : Human Rights](sec.md)
 	- [A. What are Human Rights?](what-are-human-rights.md)
 		- [1/ Introduction to the topic](what-are-human-rights-introduction.md)
+		- [2/ Classification of human rights](what-are-human-rights-classification.md)
 		<!-- - [2/ Characteristics of human rights](what-are-human-rights-characteristics.md)
 		- [3/ The three generation of human rights](what-are-human-rights-three-generations.md)
 		- [4/ The history of human rights](what-are-human-rights-history.md)  -->
