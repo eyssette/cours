@@ -1,24 +1,24 @@
-# 2/ Do animals have minds?
+# 2/ Understanding the animal mind
+
+## Animal pain
+
+<iframe src="https://ladigitale.dev/digiplay/inc/video.php?videoId=5j9Syov0AAw&vignette=https://i.ytimg.com/vi/5j9Syov0AAw/hqdefault.jpg&debut=0&fin=307&largeur=200&hauteur=113" allowfullscreen frameborder="0" width="700" height="394"></iframe>
 
 
-## Inside the minds of animals – Bryan B Rasmussen
+## Animal intelligence and animal consciousness
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BDJ8xyQjyhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://ladigitale.dev/digiplay/inc/video.php?videoId=BDJ8xyQjyhM&vignette=https://i.ytimg.com/vi/BDJ8xyQjyhM/hqdefault.jpg&debut=0&fin=313&largeur=200&hauteur=113" allowfullscreen frameborder="0" width="700" height="394"></iframe>
 
-1. According to Aristotle and Descartes, what is the difference between animals and human beings?
+<!-- 1. According to Aristotle and Descartes, what is the difference between animals and human beings?
 2. Charles Darwin's theory of evolution challenged the traditional conception of animals and human beings. Explain.
 3. Do animals have minds?
-4. What is “the hard problem” ?
+4. What is “the hard problem” ? -->
 
 <!-- 
 
-Animal pain : How do animals experience pain? - Robyn J. Crook [Vidéo]
 Animal intelligence : Top 10 Most Intelligent Animals [Vidéo]
+https://ladigitale.dev/digiplay/#/v/61566796a5932
 
-    - Animal pain
-        - https://bigthink.com/surprising-science/do-animals-feel-pain
-    - Animal intelligence
-        - https://www.youtube.com/watch?v=eQMP74-XziI
     	- https://www.thinkinganimalsunited.org/what-is-animal-cognition/
     - Sur Philosophy Bites : 
         - Avec Tim Crane : 
@@ -27,3 +27,7 @@ Animal intelligence : Top 10 Most Intelligent Animals [Vidéo]
     - [https://www.economist.com/news/essays/21676961-inner-lives-animals-are-hard-study-there-evidence-they-may-be-lot-richer-science-once-thought](https://www.economist.com/news/essays/21676961-inner-lives-animals-are-hard-study-there-evidence-they-may-be-lot-richer-science-once-thought)
     - [https://plato.stanford.edu/entries/consciousness-animal/](https://plato.stanford.edu/entries/consciousness-animal/)
     - [https://plato.stanford.edu/entries/cognition-animal/](https://plato.stanford.edu/entries/cognition-animal/) -->
+
+<!-- The Cambridge Declaration on Consciousness
+https://docs.google.com/document/d/1qdRZYfbHMfJUXa3mixm0xS7u4QA85o4iNDiUcugBn7k/edit?usp=sharing
+     -->

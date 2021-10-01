@@ -35,7 +35,7 @@
 - [Terminales : Contemporary Issues in Moral and Political Philosophy](term.md)
 	- [A. Animal Ethics](animal-ethics.md)
 		 - [1/ Introduction to the topic](animal-ethics-introduction.md)
-		 - [2/ Do animals have minds?](animal-ethics-animal-mind.md)
+		 - [2/ Understanding the animal mind](animal-ethics-animal-mind.md)
 		<!---- [3/ Applied animal ethics: case studies](animal-ethics-case-studies.md)
 		- [4/ The moral status of animals and its implications ](animal-ethics-moral-status.md)
 		- [5/ Animal ethics : moral theories](animal-ethics-moral-theories.md) -->
