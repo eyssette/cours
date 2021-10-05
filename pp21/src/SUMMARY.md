@@ -11,6 +11,7 @@
 	- [6/ Les sites du journal _L'Étudiant_](orientation-l-etudiant.md)
 	- [7/ Autres sites](orientation-sites-autres.md)
 	- [8/ MOOC sur l'orientation](orientation-mooc.md)
+	- [9/ Les différentes filières post-bac](orientation-filieres-postbac.md)
 - [C. Élection des délégués et éco-délégués](election-delegues-eco-delegues.md)
 <!-- - [D. Travailler de manière efficace](travailler-efficace.md)
 	- [1/ Un sondage](travailler-efficace-sondage.md)
