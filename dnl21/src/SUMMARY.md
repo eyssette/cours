@@ -37,8 +37,8 @@
 	- [A. Animal Ethics](animal-ethics.md)
 		 - [1/ Introduction to the topic](animal-ethics-introduction.md)
 		 - [2/ Understanding the animal mind](animal-ethics-animal-mind.md)
-		<!---- [3/ Applied animal ethics: case studies](animal-ethics-case-studies.md)
-		- [4/ The moral status of animals and its implications ](animal-ethics-moral-status.md)
+		 - [3/ The moral status of animals](animal-ethics-moral-status.md)
+		<!---- [4/ Applied animal ethics: case studies](animal-ethics-case-studies.md)
 		- [5/ Animal ethics : moral theories](animal-ethics-moral-theories.md) -->
 	<!-- - [B. Environmental Ethics](environmental-ethics.md)
 		- [1/ Why should we care about the environment?](environmental-ethics-why.md)
