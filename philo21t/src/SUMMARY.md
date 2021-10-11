@@ -6,6 +6,7 @@
 	- [Chapitre 1 : La liberté](ch1.md)
 		- [Q1 – Faire tout ce qui nous plaît, est-ce être esclave de nos désirs ?](ch1-q1.md)
 		- [Q2 – Sommes-nous capables de maîtriser nos désirs ?](ch1-q2.md)
+		- [Q3 - Les autres sont-ils un obstacle à ma liberté ?](ch1-q3.md)
 		<!-- - [Q3 – Quelles sont les règles sociales qui ne portent pas atteinte à ma liberté ?]()
 		- [Q4 – Quel est notre devoir moral ?]()
 		- [Q5 – Quels devoirs avons-nous envers la nature ?]() -->
