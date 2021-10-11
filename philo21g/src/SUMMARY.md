@@ -67,8 +67,8 @@
 
 ---
 
-- [Méthodologie et devoirs]()
-	- [Méthode de la dissertation]()
+- [Méthodologie et devoirs](methode.md)
+	- [Méthode de la dissertation](methode-dissertation.md)
 	- [Méthode de l'explication de texte]()
 	- [Devoirs avec dossiers]()
 - [Moteurs de recherche](moteurs-de-recherche.md)
