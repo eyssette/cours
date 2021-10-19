@@ -13,6 +13,8 @@
 	- [8/ MOOC sur l'orientation](orientation-mooc.md)
 	- [9/ Les différentes filières post-bac](orientation-filieres-postbac.md)
 - [C. Élection des délégués et éco-délégués](election-delegues-eco-delegues.md)
+- [D. PIX](PIX.md)
+	- [1/ Inscription et découverte de la plateforme](PIX-inscription.md)
 <!-- - [D. Travailler de manière efficace](travailler-efficace.md)
 	- [1/ Un sondage](travailler-efficace-sondage.md)
 	- [2/ Autres ressources](travailler-efficace-autres-ressources.md)
