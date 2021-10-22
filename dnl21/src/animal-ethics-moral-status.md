@@ -10,3 +10,7 @@
 ## Speciesism and Anti-speciesism
 
 [Readings : Bentham and Nigel Warburton](https://docs.google.com/document/d/1RIMIzkQUW0pVWTe-5_8EabyI0vQe79wfap7oUQWEJRY/edit?usp=sharing)
+
+## Exceptionalism, Abolitionism and Welfarism
+
+[Jason Wyckoff : The Moral Status of Animals](https://docs.google.com/document/d/1SO2yhzpBBMWpL8JfIliG0auqFCHX0_f86ZzgMS5AAFs/edit?usp=sharing)
