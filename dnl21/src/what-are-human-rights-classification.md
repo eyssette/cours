@@ -16,3 +16,6 @@
 
 1. Form two groups : one which represents the first generation of human rights, one which represents the second & the third generation of human rights
 
+## Exercise on the first-generation and the second-generation of human rights
+
+<iframe src="https://learningapps.org/watch?v=pu84f9oat21" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
