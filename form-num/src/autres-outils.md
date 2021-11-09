@@ -1,5 +1,6 @@
 # D'autres outils possibles
 
+* Le parcours Magistère : “La philosophie et le numérique à l’adresse des professeurs de philosophie” [🔗](https://magistere.education.fr/ac-grenoble/course/view.php?id=15059)
 * La liste de Céline Tarrade et Fabrice Gallet [🔗](https://www.genial.ly/View/Index/59f270324fb71a0bfca22650#page-1)
 * Liste de François Jourde [🔗](https://www.mindmeister.com/fr/8940345/outils-usuels)
 * Liste de l'académie de Versailles [🔗](https://www.mindmeister.com/fr/557369575/outils-num-riques-pour-projets-d-l-ves-http-acver-fr-outilsnum)
