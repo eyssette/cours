@@ -1,8 +1,8 @@
 # e) Faire travailler les élèves sur un site internet
 
 ## Faire travailler les élèves sur des sites
-* Utiliser un raccourcisseur d’URL [🔗](https://bitly.com/)
-* Utiliser des QR-Codes [🔗](https://fr.qr-code-generator.com/)
+* Utiliser un raccourcisseur d’URL [🔗](https://bitly.com/) [🔗](https://ladigitale.dev/digilink/)
+* Utiliser des QR-Codes [🔗](https://fr.qr-code-generator.com/) [🔗](https://ladigitale.dev/digicode/)
 * Utiliser un outil de bookmarking en ligne [🔗](https://www.diigo.com/)
 
 ## Créer un site

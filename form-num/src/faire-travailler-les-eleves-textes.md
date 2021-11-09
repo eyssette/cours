@@ -21,12 +21,13 @@ http://www.ac-grenoble.fr/PhiloSophie/old2/articles.php?lng=fr&pg=17022
 * Utiliser une caméra de document (un “visualiseur”) pour projeter le travail que l'on accomplit sur le texte [🔗](https://profjourde.wordpress.com/2015/06/02/un-visualiseur-et-un-ideateur-pour-les-gestes-du-travail-intellectuel/)
 * Rendre le texte cliquable et interactif [🔗](https://www.genial.ly/)
 * Produire, éventuellement avec les élèves, un texte ou un livre enrichi
-* Discuter un texte ou une œuvre en ligne 
+* Discuter un texte ou une œuvre en ligne [🔗](https://dialoguea.fr/forum/)
 
 
 ## Faire écrire un texte aux élèves
-* Utiliser un canevas que les élèves doivent remplir à l'écrit (exemple de canevas pour la problématisation : [🔗](https://docs.google.com/presentation/d/11dQsRgOJ7z2o8lnyJOm9mlrRI314HPCT1ROuEwst3FA/edit?usp=sharing)), ou un modèle de document que les élèves doivent utiliser pour une production numérique
+* Utiliser un canevas que les élèves doivent remplir à l'écrit (exemple pour la problématisation : [🔗](https://docs.google.com/presentation/d/11dQsRgOJ7z2o8lnyJOm9mlrRI314HPCT1ROuEwst3FA/edit?usp=sharing)), ou un modèle de document que les élèves doivent utiliser pour une production numérique
 * Utiliser des outils de traitement de texte collaboratifs [🔗](https://apps.education.fr/applications/etherpad/) [🔗](https://apps.education.fr/applications/codi-md) 
 * Faire écrire un texte interactif [🔗](https://www.inklewriter.com/) [🔗](https://twinery.org/)
 * Récupérer les textes des élèves : utiliser l'ENT de préférence [🔗](https://dane.ac-reims.fr/index.php/usages-pedagogiques-ent/item/266-MBN-travail-a-faire) [🔗](https://tube-education.beta.education.fr/videos/watch/playlist/77c36bc8-e565-45a3-aff1-7e72c6232374?playlistPosition=5&resume=true) [🔗](https://tube-education.beta.education.fr/videos/watch/playlist/77c36bc8-e565-45a3-aff1-7e72c6232374?playlistPosition=6&resume=true), ou un outil de collecte de fichiers [🔗](https://help.dropbox.com/fr-fr/files-folders/share/create-file-request)
 * Produire un livre numérique à partir d’un fichier PDF pour valoriser les productions des élèves [🔗](https://fr.calameo.com/)
+* Faire participer les élèves à un débat écrit [🔗](https://fr.wikidebates.org/) [🔗](ttps://www.kialo-edu.com/)

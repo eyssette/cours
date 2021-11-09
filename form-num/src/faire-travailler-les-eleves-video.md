@@ -11,6 +11,7 @@
 * Proposer une vidéo avec des annotations [🔗](https://ant.umn.edu/)
 * Faire un exercice en ligne sur une vidéo [🔗](https://learningapps.org/)
 * Faire une capsule vidéo pour ses élèves [🔗](https://obsproject.com/fr)
+* Faire du montage vidéo [🔗](https://www.openshot.org/fr/)
 
 ## Faire produire une vidéo aux élèves
 * Faire faire une vidéo ou une animation

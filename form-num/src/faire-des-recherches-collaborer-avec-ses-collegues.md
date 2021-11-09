@@ -10,6 +10,6 @@
 * Sur twitter : utiliser le tag #TeamPhilo [🔗](https://twitter.com/search?q=%23TeamPhilo&src=saved_search_click&f=live), s'abonner à des comptes spécifiques et faire une recherche seulement sur ces comptes
 
 ### Utiliser des outils collaboratifs
-* Créer un espace de discussion en ligne [🔗](https://framateam.org)
+* Créer un espace de discussion en ligne [🔗](https://framateam.org)  [🔗](https://speakup.info/)
 * Travailler sur des dossiers collaboratifs : _Tribu_ [🔗](https://tribu.phm.education.gouv.fr/), _Drive_ [🔗](https://drive.google.com/drive/my-drive)
 * Trouver une date pour une réunion, en mettant automatiquement en évidence celles qui conviennent à le plus de personnes [🔗](https://framadate.org/)
