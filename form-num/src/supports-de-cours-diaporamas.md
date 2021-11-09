@@ -2,10 +2,17 @@
 
 ## De l'intérêt de faire un diaporama et des risques possibles
 
-- Si vous utilisez des diaporamas, quel est l'intérêt d'après vous ?
-- Si vous n'en utilisez pas, pour quelle raison ?
+### Intérêts de l'usage d'un diaporama
+1. Intégration possible de plusieurs contenus différents : texte, schéma, vidéo, exercice
+2. Clarification de la structure du cours avec des étapes facilement identifiables ou un code couleur
+3. Efficacité dans la gestion du temps, disponibilité pour l'interaction avec les élèves et la gestion de la classe, moins de charge mentale 
+4. Polyvalence des usages : pour la projection en classe, pour l'impression d'un support, pour les révisions des élèves, pour l'échange avec les collègues …
 
-![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/faire-un-diaporama-pour-son-cours.svg)
+### Risques possibles
+1. Diaporama surchargé en textes : contenu pas lisible, tendance au simple recopiage du diaporama, peu d'intérêt des élèves pour le suivi du cours<br>⇒ Faire attention à la lisibilité, mettre seulement l'essentiel, concevoir son diaporama principalement comme un support pour la mise en activité des élève
+2. Diaporama surchargé en images ou effets de transition<br>⇒ Focaliser le diaporama sur le contenu, ne pas perdre l'attention des élèves
+3. Cours trop directif, trop linéaire, trop rigide<br>⇒ Ménager des temps de questionnement, accepter certains détours, certaines digressions
+4. Temps de préparation trop important<br>⇒ Mettre dans un premier temps seulement la structure, les points les plus importants, quelques exercices
 
 ## Usages ordinaires
 * Utiliser un vidéoprojecteur : en HDMI, en VGA, savoir utiliser un adaptateur si nécessaire

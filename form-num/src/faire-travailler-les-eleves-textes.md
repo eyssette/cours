@@ -20,8 +20,8 @@ http://www.ac-grenoble.fr/PhiloSophie/old2/articles.php?lng=fr&pg=17022
 * Vidéoprojeter le texte et annoter le texte au tableau : penser à imprimer un texte pour les élèves avec la même mise en page)
 * Utiliser une caméra de document (un “visualiseur”) pour projeter le travail que l'on accomplit sur le texte [🔗](https://profjourde.wordpress.com/2015/06/02/un-visualiseur-et-un-ideateur-pour-les-gestes-du-travail-intellectuel/)
 * Rendre le texte cliquable et interactif [🔗](https://www.genial.ly/)
-* Produire, éventuellement avec les élèves, un texte ou un livre enrichi [🔗]()
-* Discuter un texte ou une œuvre en ligne [🔗]()
+* Produire, éventuellement avec les élèves, un texte ou un livre enrichi
+* Discuter un texte ou une œuvre en ligne 
 
 
 ## Faire écrire un texte aux élèves

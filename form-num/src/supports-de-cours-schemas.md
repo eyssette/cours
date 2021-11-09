@@ -1,5 +1,15 @@
 # c) Faire des schémas
 
+<!-- Ajouter : intérêts / risques possibles des schémas faits avec l'ordinateur
+Intérêts : 
+- clarté du schéma
+- possibilité d'imprimer le schéma ou de le partager (sur l'ENT, un site …)
+- pratique quand on veut simplement distribuer une synthèse sur un point du cours ou tout un chapitre (déjà fait => pas de perte de temps)
+Risques possibles :
+- schéma pas construit petit à petit, mais présenté d'un coup, en bloc
+=> Mais : une fois qu'on a fait le schéma final, on peut soit faire une version avec des vides à compléter au tableau, soit une version qui apparaît par étape. Avantage de la version numérique par étapes : les élèves voient à l'avance la place nécessaire pour faire le schéma (sinon : "Ça va prendre combien de place ?” ils risquent d'attendre que le schéma soit terminé avant le prendre en note)
+ -->
+
 ## Usages ordinaires
 * Utiliser un logiciel de dessin : [🔗](https://excalidraw.com/) [🔗](https://docs.google.com/drawings/u/0/create)
 * Utiliser un logiciel simple pour faire une carte mentale [🔗](http://mindmaps.app/) [🔗](https://coggle.it/) [🔗](https://www.zenmindmap.com/) [🔗](https://gitmind.com/)

@@ -9,4 +9,4 @@
 
 ## Faire faire aux élèves une production audio
 * Faire produire une analyse, une réflexion enregistrée via l'ENT, via leur propre téléphone (BYOD) ou via un outil en ligne (mot clé : “online recorder”)
-* Récupérer les fichiers audio : via l'ENT, ou une autre solution [🔗]() [🔗]() [🔗]()
+* Récupérer les fichiers audio : via l'ENT, ou une autre solution

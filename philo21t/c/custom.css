@@ -118,6 +118,10 @@ details summary {
   margin-bottom:3em;
 }
 
+iframe[width="700"] + .source-iframe {
+  margin-top:-100px;
+}
+
 #plan-du-cours+ul, #plan-du-cours+ul ul {
  list-style-type:none;
  font-size:0.95em;

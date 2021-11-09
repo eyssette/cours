@@ -101,7 +101,7 @@
             html.classList.add("sidebar-" + sidebar);
         </script>
         <!-- Add : function to display links to subpages -->
-        <script >
+         <script >
             function subPages() {
                 var el = document.getElementsByClassName('active')[0];
                 var elParent = el.parentNode;
@@ -111,10 +111,7 @@
                     var newEl = childNextElParent.cloneNode(true);
                     var main = document.getElementsByTagName('main');
                     main[0].appendChild(newEl);
-                    var toggle = document.querySelector('main a.toggle');
-                    if (toggle) {
-                        toggle.remove();
-                    }
+                    document.querySelectorAll('main a.toggle').forEach(e => e.remove());
                 }
             }</script>
 

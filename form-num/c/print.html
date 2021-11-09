@@ -86,16 +86,13 @@
                     var newEl = childNextElParent.cloneNode(true);
                     var main = document.getElementsByTagName('main');
                     main[0].appendChild(newEl);
-                    var toggle = document.querySelector('main a.toggle');
-                    if (toggle) {
-                        toggle.remove();
-                    }
+                    document.querySelectorAll('main a.toggle').forEach(e => e.remove());
                 }
             }</script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="index.html">Accueil</a></li><li class="chapter-item expanded "><a href="intro.html">Introduction</a></li><li class="chapter-item expanded "><a href="preparer-ses-cours.html">A. Utiliser le numérique pour préparer ses cours</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="organiser-son-travail.html">1/ Organiser son travail</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="organiser-son-travail-avant-le-debut-de-l-annee.html">a) Avant le début de l'année</a></li></ol></li></ol></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded "><a href="index.html">Accueil</a></li><li class="chapter-item expanded "><a href="intro.html">Introduction</a></li><li class="chapter-item expanded "><a href="preparer-ses-cours.html">A. Utiliser le numérique pour préparer ses cours</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="organiser-son-travail.html">1/ Organiser son travail</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="organiser-son-travail-avant-le-debut-de-l-annee.html">a) Avant le début de l'année</a></li><li class="chapter-item "><a href="organiser-son-travail-pendant-l-annee.html">b) Pendant l'année</a></li></ol></li><li class="chapter-item expanded "><a href="faire-des-recherches.html">2/ Faire des recherches</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="faire-des-recherches-et-exploiter-des-ressources.html">a) Rechercher et exploiter des ressources</a></li><li class="chapter-item "><a href="faire-des-recherches-collaborer-avec-ses-collegues.html">b) Collaborer avec ses collègues</a></li></ol></li><li class="chapter-item expanded "><a href="questionner-la-pertinence-pedagogique-de-ses-cours.html">3/ Questionner la pertinence pédagogique de ses cours</a></li></ol></li><li class="chapter-item expanded "><a href="faire-le-cours-avec-les-eleves.html">B. Utiliser le numérique pour faire le cours avec les élèves</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="supports-de-cours.html">1/ Utiliser des supports de cours</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="supports-de-cours-polycopies.html">a) Faire un polycopié</a></li><li class="chapter-item "><a href="supports-de-cours-diaporamas.html">b) Faire un diaporama</a></li><li class="chapter-item "><a href="supports-de-cours-schemas.html">c) Faire des schémas</a></li></ol></li><li class="chapter-item expanded "><a href="faire-travailler-les-eleves.html">2/ Faire travailler les élèves</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="faire-travailler-les-eleves-textes.html">a) Faire travailler les élèves sur un texte ou une œuvre suivie</a></li><li class="chapter-item "><a href="faire-travailler-les-eleves-video.html">b) Faire travailler les élèves sur une vidéo</a></li><li class="chapter-item "><a href="faire-travailler-les-eleves-image.html">c) Faire travailler les élèves sur une image</a></li><li class="chapter-item "><a href="faire-travailler-les-eleves-audio.html">d) Faire travailler les élèves sur un fichier audio</a></li><li class="chapter-item "><a href="faire-travailler-les-eleves-internet.html">e) Faire travailler les élèves sur un site internet</a></li><li class="chapter-item "><a href="faire-travailler-les-eleves-exercices.html">f) Faire travailler les élèves sur des exercices</a></li><li class="chapter-item "><a href="faire-travailler-les-eleves-evaluation.html">g) Évaluer les élèves</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="autres-outils.html">D'autres outils possibles</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -196,7 +193,323 @@
 <li>Utiliser un logiciel de révision : <em>Anki</em>  <a href="https://apps.ankiweb.net/">🔗</a>
 <a href="https://apps.ankiweb.net/"><img src="https://i.ibb.co/BPLpBN0/anki-site.png" alt="" /></a></li>
 </ul>
-<!-- Remember The Milk, Evernote ... -->
+<!-- Remember The Milk, Evernote ... --><div style="break-before: page; page-break-before: always;"></div><h1 id="b-pendant-lannée"><a class="header" href="#b-pendant-lannée">b) Pendant l'année</a></h1>
+<h2 id="gérer-son-calendrier"><a class="header" href="#gérer-son-calendrier">Gérer son calendrier</a></h2>
+<ul>
+<li>Intégrer automatiquement dans son calendrier son emploi du temps sur Pronote <a href="http://www.index-education.com/fr/tutoriels-video-pronote-1735-3-synchroniser-l-agenda-pronote-a-son-agenda-personnel-espace-professeurs.php">🔗</a></li>
+<li>Récupérer automatiquement les dates officielles du calendrier scolaire <a href="https://www.data.gouv.fr/fr/datasets/le-calendrier-scolaire/">🔗</a></li>
+<li>Recevoir des notifications, et un mail de rappel chaque matin <a href="http://www.blogdumoderateur.com/astuces-google-agenda/">🔗</a></li>
+</ul>
+<h2 id="gérer-des-tâches-multiples"><a class="header" href="#gérer-des-tâches-multiples">Gérer des tâches multiples</a></h2>
+<ul>
+<li>La méthode GTD : <em>Getting Things Done</em> quand on a un grand nombre de tâches à gérer <a href="http://toodledo.com/">🔗</a> <a href="https://marketplace.visualstudio.com/items?itemName=usernamehw.todo-md">🔗</a></li>
+<li>La méthode Kanban pour gérer de façon plus simple l'évolution d'un projet <a href="https://format30.com/2014/08/26/etudiants-organisez-votre-travail-avec-le-kanban-personnel-trello/">🔗</a> <a href="https://trello.com/">🔗</a> <a href="https://cryptpad.fr/kanban">🔗</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="2-faire-des-recherches"><a class="header" href="#2-faire-des-recherches">2/ Faire des recherches</a></h1>
+<script>subPages()</script><div style="break-before: page; page-break-before: always;"></div><h1 id="a-rechercher-et-exploiter-des-ressources"><a class="header" href="#a-rechercher-et-exploiter-des-ressources">a) Rechercher et exploiter des ressources</a></h1>
+<h2 id="trouver-des-ressources-numériques"><a class="header" href="#trouver-des-ressources-numériques">Trouver des ressources numériques</a></h2>
+<ul>
+<li>Utiliser les ressources de la bibliothèque Diderot <a href="http://www.bibliotheque-diderot.fr/discipline-260583.kjsp?DOMAINE=000000229&amp;DISCI=000000173&amp;CATEG_GENE=000000169">🔗</a></li>
+<li>Utiliser des moteurs de recherche spécialisés : Philpapers <a href="http://philpapers.org/">🔗</a></li>
+<li>Se faire ses propres moteurs de recherche <a href="https://cse.google.com/">🔗</a>
+<ul>
+<li>Recherche sur des sites d'introduction à la philosophie <a href="https://cse.google.com/cse?cx=005941353090358050370:-rxleq99qm0">🔗</a></li>
+<li>Recherche d'analyses de films <a href="https://cse.google.com/cse?cx=013022458855246154026:kvowwanvdza">🔗</a></li>
+<li>Recherche sur des thèmes d'autres disciplines : SES <a href="https://cse.google.com/cse?cx=000159438708945803198:c670n89xtv8">🔗</a> ; Mathématiques, physique, chimie, biologie <a href="https://cse.google.com/cse?cx=000159438708945803198:nhzecq54fyq">🔗</a></li>
+</ul>
+</li>
+<li>Suivre l’actualité de certains sites <a href="http://eduscol.education.fr/numerique/dossier/competences/rechercher/guides/flux">🔗</a> <a href="https://www.netvibes.com/eyssette#Blogs_francophones">🔗</a></li>
+<li>Utiliser des encyclopédies en ligne <a href="http://plato.stanford.edu">🔗</a> <a href="http://www.iep.utm.edu/">🔗</a> <a href="http://encyclo-philo.fr/">🔗</a></li>
+<li>Trouver des cours de niveau universitaire en ligne (mots clés : “syllabus”, “mooc”, “open course”) <a href="https://mediaserver.unige.ch/search/philosophie/permissions:public">🔗</a> <a href="https://www.fun-mooc.fr/">🔗</a> <a href="https://www.coursera.org/">🔗</a> <a href="https://ocw.mit.edu/courses/find-by-topic/">🔗</a></li>
+</ul>
+<h2 id="lire-et-prendre-des-notes"><a class="header" href="#lire-et-prendre-des-notes">Lire et prendre des notes</a></h2>
+<ul>
+<li>Lire des livres au format <em>ePub</em> <a href="https://play.google.com/books/ebooks">🔗</a></li>
+<li>Lire et annoter des articles en PDF</li>
+<li>Utiliser un dictionnaire intégré <a href="https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja">🔗</a> <a href="https://addons.mozilla.org/en-US/firefox/addon/dictionary-anyvhere/?utm_source=addons.mozilla.org&amp;utm_medium=referral&amp;utm_content=search">🔗</a></li>
+<li>Utiliser un logiciel pour prendre des notes de manière structurée <a href="http://dynalist.io">🔗</a> <a href="https://workflowy.com/">🔗</a></li>
+<li>Prendre des notes sur une vidéo, ou faire de la transcription</li>
+<li>Prendre des notes dans de simples fichiers textes, en mettant un maximum d'informations dans le titre lui-même pour pouvoir facilement retrouver ses notes sur un thème, un auteur …</li>
+</ul>
+<h2 id="gérer-ses-ressources"><a class="header" href="#gérer-ses-ressources">Gérer ses ressources</a></h2>
+<ul>
+<li>Scanner des articles avec son téléphone <a href="https://fossbytes.com/best-android-scanner-apps/">🔗</a>, avec un stylo scanner</li>
+<li>Utiliser un logiciel de gestion de références bibliographiques : <em>Zotero</em>  <a href="https://www.zotero.org/">🔗</a> <a href="https://zotero.hypotheses.org/">🔗</a></li>
+<li>Utiliser un catalogue en ligne <a href="https://www.worldcat.org/">🔗</a> <a href="https://ccfr.bnf.fr/portailccfr/jsp/public/index.jsp">🔗</a> <a href="http://www.sudoc.abes.fr/">🔗</a></li>
+<li>Stocker ses ressources et pouvoir y accéder en ligne <a href="https://www.dropbox.com/referrals/AADNRgRvYNK3-2FBnRd_mi-niwqSc6g-yUI?src=global9">🔗</a></li>
+<li>Classer des ressources avec une base de données <a href="https://airtable.com/">🔗</a></li>
+<li>Répertorier, cataloguer, partager, commenter des sites et des pages sur internet <a href="https://www.diigo.com/">🔗</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="b-collaborer-avec-ses-collègues"><a class="header" href="#b-collaborer-avec-ses-collègues">b) Collaborer avec ses collègues</a></h1>
+<h2 id="utiliser-les-réseaux-sociaux"><a class="header" href="#utiliser-les-réseaux-sociaux">Utiliser les réseaux sociaux</a></h2>
+<ul>
+<li>Le groupe “Enseigner la philosophie” <a href="https://www.facebook.com/groups/197192470301462/">🔗</a></li>
+<li>Le groupe “Enseigner la philosophie avec le cinéma et les séries télévisées” <a href="https://www.facebook.com/groups/enseignercinephilosophie/">🔗</a></li>
+<li>Le groupe “Enseigner HLP” <a href="https://www.facebook.com/groups/2364164770521489">🔗</a></li>
+<li>Les groupes propres à une académie <a href="https://www.facebook.com/groups/197192470301462/permalink/1319948451359186/">🔗</a></li>
+<li>D'autres groupes plus spécifiques : pour la DNL <a href="https://www.facebook.com/groups/enseigner.philosophie.DNL">🔗</a>, pour la préparation de l'agrégation interne <a href="https://www.facebook.com/groups/1032833423770790">🔗</a>, pour l'enseignement de l'option Cinéma Audiovisuel <a href="https://www.facebook.com/groups/2721744724714418/">🔗</a>, pour élargir le corpus et inclure davantage de textes de femmes philosophes <a href="https://www.facebook.com/groups/334838114318350">🔗</a>  …</li>
+<li>Sur twitter : utiliser le tag #TeamPhilo <a href="https://twitter.com/search?q=%23TeamPhilo&amp;src=saved_search_click&amp;f=live">🔗</a>, s'abonner à des comptes spécifiques et faire une recherche seulement sur ces comptes</li>
+</ul>
+<h3 id="utiliser-des-outils-collaboratifs"><a class="header" href="#utiliser-des-outils-collaboratifs">Utiliser des outils collaboratifs</a></h3>
+<ul>
+<li>Créer un espace de discussion en ligne <a href="https://framateam.org">🔗</a></li>
+<li>Travailler sur des dossiers collaboratifs : <em>Tribu</em> <a href="https://tribu.phm.education.gouv.fr/">🔗</a>, <em>Drive</em> <a href="https://drive.google.com/drive/my-drive">🔗</a></li>
+<li>Trouver une date pour une réunion, en mettant automatiquement en évidence celles qui conviennent à le plus de personnes <a href="https://framadate.org/">🔗</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="3-questionner-la-pertinence-pédagogique-de-ses-cours"><a class="header" href="#3-questionner-la-pertinence-pédagogique-de-ses-cours">3/ Questionner la pertinence pédagogique de ses cours</a></h1>
+<ul>
+<li>L'excellent blog de pédagogie générale de Didier Goudeseune : <em>Par temps clair. Pratiques enseignantes éclairées par la recherche</em> <a href="https://par-temps-clair.blogspot.com/">:link:</a></li>
+<li>Une checklist pour vérifier certains points importants quand on prépare un cours <a href="https://eyssette.github.io/ressources-generales-enseignement-philosophie/checklist">:link:</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="b-utiliser-le-numérique-pour-faire-le-cours-avec-les-élèves"><a class="header" href="#b-utiliser-le-numérique-pour-faire-le-cours-avec-les-élèves">B. Utiliser le numérique pour faire le cours avec les élèves</a></h1>
+<script>subPages()</script><div style="break-before: page; page-break-before: always;"></div><h1 id="1-utiliser-des-supports-de-cours"><a class="header" href="#1-utiliser-des-supports-de-cours">1/ Utiliser des supports de cours</a></h1>
+<script>subPages()</script><div style="break-before: page; page-break-before: always;"></div><h1 id="a-faire-un-polycopié"><a class="header" href="#a-faire-un-polycopié">a) Faire un polycopié</a></h1>
+<h2 id="usages-ordinaires"><a class="header" href="#usages-ordinaires">Usages ordinaires</a></h2>
+<ul>
+<li>Utiliser un logiciel libre : LibreOffice <a href="https://fr.libreoffice.org/download/telecharger-libreoffice/">🔗</a> ou OnlyOffice <a href="https://www.onlyoffice.com/fr/desktop.aspx">🔗</a> </li>
+<li>Utiliser un logiciel en ligne <a href="http://docs.google.com/">🔗</a></li>
+<li>Respecter les règles de la typographie et de la mise en page <a href="http://ufr3.univ-montp3.fr/IMG/pdf/Regle_d_or_edition_memoire_version_juin_2013_-_Masters_MOBILITES_Transport_cle81b1f6.pdf">🔗</a></li>
+<li>Utiliser une police lisible même en petit format <a href="http://www.dafont.com/fr/philosopher.font">🔗</a>, ou une police pour les élèves dyslexiques <a href="http://opendyslexic.org/">🔗</a></li>
+</ul>
+<h2 id="usages-avancés"><a class="header" href="#usages-avancés">Usages avancés</a></h2>
+<ul>
+<li>Utiliser les styles pour conserver une unité dans ses documents <a href="https://dane.ac-lyon.fr/spip/IMG/pdf/libreoffice_avance_pdf.pdf">🔗</a></li>
+<li>Utiliser des modèles de document : pour un recueil de textes <a href="https://docs.google.com/document/d/1x6Lntq4ajqTRN7ykKkjdPDwhUDTUVYvGc2vmqKvlHfE/edit?usp=sharing">🔗</a>, pour l'analyse d'un texte <a href="https://docs.google.com/document/d/1lAeOmIczj71GBYVnP09CzUdiR0nc_68pOeAVjqB8G2Y/edit?usp=sharing">🔗</a> <a href="https://docs.google.com/drawings/d/1DDuXTG256JtQXYgIas1Bn49cae18-ka_pscfBKfU6n0/edit?usp=sharing">🔗</a>, pour faire un “petit livre” <a href="http://petitslivres.free.fr/index_techniques.htm">🔗</a> <a href="https://www.dropbox.com/s/5i7aujquvihqi3x/Epicure-Lettre%20%C3%A0%20M%C3%A9n%C3%A9c%C3%A9e-format%20%20petitlivre.pdf?dl=0">🔗</a>, …</li>
+<li>Utiliser un logiciel adapté à des mises en page complexes : utiliser un logiciel de MAO <a href="https://scribus.fr/">🔗</a>, utiliser un logiciel de diaporamas pour faire de la mise en page facilement <a href="https://docs.google.com/presentation/u/0/">🔗</a></li>
+<li>Utiliser un logiciel adapté à la publication scientifique : $\LaTeX$ <a href="http://tug.ctan.org/info/latex-sciences-humaines.pdf">🔗</a> <a href="https://fr.overleaf.com/">🔗</a></li>
+</ul>
+<!-- modèles de document : A4 2 colonnes / modèle pour la correction des copies / sujets type bac / “petit livre” --><div style="break-before: page; page-break-before: always;"></div><h1 id="b-faire-un-diaporama"><a class="header" href="#b-faire-un-diaporama">b) Faire un diaporama</a></h1>
+<h2 id="de-lintérêt-de-faire-un-diaporama-et-des-risques-possibles"><a class="header" href="#de-lintérêt-de-faire-un-diaporama-et-des-risques-possibles">De l'intérêt de faire un diaporama et des risques possibles</a></h2>
+<h3 id="intérêts-de-lusage-dun-diaporama"><a class="header" href="#intérêts-de-lusage-dun-diaporama">Intérêts de l'usage d'un diaporama</a></h3>
+<ol>
+<li>Intégration possible de plusieurs contenus différents : texte, schéma, vidéo, exercice</li>
+<li>Clarification de la structure du cours avec des étapes facilement identifiables ou un code couleur</li>
+<li>Efficacité dans la gestion du temps, disponibilité pour l'interaction avec les élèves et la gestion de la classe, moins de charge mentale </li>
+<li>Polyvalence des usages : pour la projection en classe, pour l'impression d'un support, pour les révisions des élèves, pour l'échange avec les collègues …</li>
+</ol>
+<h3 id="risques-possibles"><a class="header" href="#risques-possibles">Risques possibles</a></h3>
+<ol>
+<li>Diaporama surchargé en textes : contenu pas lisible, tendance au simple recopiage du diaporama, peu d'intérêt des élèves pour le suivi du cours<br>⇒ Faire attention à la lisibilité, mettre seulement l'essentiel, concevoir son diaporama principalement comme un support pour la mise en activité des élève</li>
+<li>Diaporama surchargé en images ou effets de transition<br>⇒ Focaliser le diaporama sur le contenu, ne pas perdre l'attention des élèves</li>
+<li>Cours trop directif, trop linéaire, trop rigide<br>⇒ Ménager des temps de questionnement, accepter certains détours, certaines digressions</li>
+<li>Temps de préparation trop important<br>⇒ Mettre dans un premier temps seulement la structure, les points les plus importants, quelques exercices</li>
+</ol>
+<h2 id="usages-ordinaires-1"><a class="header" href="#usages-ordinaires-1">Usages ordinaires</a></h2>
+<ul>
+<li>Utiliser un vidéoprojecteur : en HDMI, en VGA, savoir utiliser un adaptateur si nécessaire</li>
+<li>Faire attention à la taille des polices, à la mise en page <a href="https://guy.pastre.org/?p=2405">🔗</a></li>
+<li>Utiliser un logiciel en ligne <a href="https://www.google.fr/intl/fr/slides/about/">🔗</a></li>
+<li>Imprimer un support de cours à partir d'un diaporama : 4 à 16 pages sur un A4, format “bandeau” <a href="https://goo.gl/photos/pbnnU2We4yPaNTtVA">🔗</a></li>
+</ul>
+<h2 id="usages-avancés-1"><a class="header" href="#usages-avancés-1">Usages avancés</a></h2>
+<ul>
+<li>Faire de la vidéoprojection sans fil</li>
+<li>Utiliser les fonctions interactives du vidéoprojecteur</li>
+<li>Utiliser un outil de “tableau blanc” numérique <a href="https://www.ralentirtravaux.com/le_blog/decouvrez-la-puissance-des-applications-de-tableau-blanc-pour-faire-vos-cours-en-presentiel-en-distanciel-ou-en-hybride/">🔗</a> <a href="https://ladigitale.dev/digiscreen/">🔗</a></li>
+<li>Utiliser un logiciel de diaporama moins ordinaire : Prezi <a href="https://prezi.com/view/xgeLGy31TnFlmQ7YuyuD/">🔗</a>, Slides <a href="https://slides.com/">🔗</a></li>
+<li>Écrire son diaporama en Markdown <a href="https://eyssette.github.io/marp-slides/">🔗</a></li>
+<li>Faire une capsule vidéo à partir d'un diaporama <a href="https://tube.ac-lyon.fr/videos/watch/a22c8512-2604-4ea9-8e19-d39d53109b6e">🔗</a></li>
+</ul>
+<!-- Sway, Genially --><div style="break-before: page; page-break-before: always;"></div><h1 id="c-faire-des-schémas"><a class="header" href="#c-faire-des-schémas">c) Faire des schémas</a></h1>
+<!-- Ajouter : intérêts / risques possibles des schémas faits avec l'ordinateur
+Intérêts : 
+- clarté du schéma
+- possibilité d'imprimer le schéma ou de le partager (sur l'ENT, un site …)
+- pratique quand on veut simplement distribuer une synthèse sur un point du cours ou tout un chapitre (déjà fait => pas de perte de temps)
+Risques possibles :
+- schéma pas construit petit à petit, mais présenté d'un coup, en bloc
+=> Mais : une fois qu'on a fait le schéma final, on peut soit faire une version avec des vides à compléter au tableau, soit une version qui apparaît par étape. Avantage de la version numérique par étapes : les élèves voient à l'avance la place nécessaire pour faire le schéma (sinon : "Ça va prendre combien de place ?” ils risquent d'attendre que le schéma soit terminé avant le prendre en note)
+ -->
+<h2 id="usages-ordinaires-2"><a class="header" href="#usages-ordinaires-2">Usages ordinaires</a></h2>
+<ul>
+<li>Utiliser un logiciel de dessin : <a href="https://excalidraw.com/">🔗</a> <a href="https://docs.google.com/drawings/u/0/create">🔗</a></li>
+<li>Utiliser un logiciel simple pour faire une carte mentale <a href="http://mindmaps.app/">🔗</a> <a href="https://coggle.it/">🔗</a> <a href="https://www.zenmindmap.com/">🔗</a> <a href="https://gitmind.com/">🔗</a></li>
+<li>Utiliser un logiciel simple qui convertit du texte en une carte mentale <a href="https://tobloef.com/text2mindmap/">🔗</a> <a href="https://flowchart.fun/">🔗</a></li>
+</ul>
+<h2 id="usages-avancés-2"><a class="header" href="#usages-avancés-2">Usages avancés</a></h2>
+<ul>
+<li>Créer des schémas pour représenter des arguments <a href="http://argument.mindmup.com">🔗</a> <a href="https://argdown.org/">🔗</a></li>
+<li>Utiliser un langage de programmation de graphiques : GraphViz <a href="https://github.com/eyssette/graphviz-examples">🔗</a></li>
+<li>Créer une frise chronologique <a href="https://outilstice.com/2020/06/outils-creer-frises-chronologiques/">🔗</a> <a href="https://dynalist.io/d/AVblXCS_wLyhYa5Vv09X0cFJ#z=lMqVNIBrVvEdqSVLcxavgyhY">🔗</a></li>
+<li>Rendre son schéma interactif avec des éléments à cliquer pour découvrir différentes informations  <a href="https://www.genial.ly/">🔗</a></li>
+<li>Utiliser un logiciel plus complet mais plus complexe de dessin vectoriel <a href="draw.io">🔗</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="2-faire-travailler-les-élèves"><a class="header" href="#2-faire-travailler-les-élèves">2/ Faire travailler les élèves</a></h1>
+<script>subPages()</script><div style="break-before: page; page-break-before: always;"></div><h1 id="a-faire-travailler-les-élèves-sur-un-texte-ou-une-œuvre-suivie"><a class="header" href="#a-faire-travailler-les-élèves-sur-un-texte-ou-une-œuvre-suivie">a) Faire travailler les élèves sur un texte ou une œuvre suivie</a></h1>
+<h2 id="trouver-un-texte-ou-une-œuvre-suivie"><a class="header" href="#trouver-un-texte-ou-une-œuvre-suivie">Trouver un texte ou une œuvre suivie</a></h2>
+<ul>
+<li>Utiliser les ressources des manuels <a href="https://eyssette.github.io/ressources-generales-enseignement-philosophie/manuels">🔗</a></li>
+<li>Utiliser des dossiers en ligne de textes classés par thèmes : Philo52 <a href="https://philo52.com/articles.php?lng=fr&amp;pg=2276">🔗</a>, Materia philosophica <a href="https://materiaphilosophica.blogspot.com/">🔗</a>, PhiloTextes <a href="http://philotextes.info/spip/spip.php?rubrique5">🔗</a>, ma sélection <a href="https://eyssette.github.io/dossiers/">🔗</a></li>
+<li>Utiliser des moteurs de recherche : Académie de Grenoble <a href="http://www.ac-grenoble.fr/PhiloSophie/old2/bases/search.php">🔗</a>, Philolabo <a href="https://philo-labo.fr/accueil/">🔗</a>, MaPhilosophie <a href="https://www.maphilosophie.fr/base_textes.php">🔗</a>, Explications de texte données au baccalauréat <a href="https://eyssette.github.io/sujets-philosophie-bac/explications.html">🔗</a></li>
+<li>Trouver une édition numérique d'une œuvre <a href="https://philo-labo.fr/pmwiki.php?n=Public.Ebooks?skin=minimal">🔗</a>  <a href="http://classiques.uqac.ca/classiques/">🔗</a>, et des enregistrements audio de lectures d'œuvres <a href="https://lecture-audio.fr/co/Bibli.html">🔗</a> <a href="http://www.litteratureaudio.com/livres-audio-gratuits-mp3/categorie/philosophie">🔗</a></li>
+<li>Utiliser le document collaboratif du groupe “Enseigner la philosophie” pour le partage de cours, de sélections de textes, … sur les œuvres suivies <a href="https://www.facebook.com/groups/enseignerlaphilosophie/permalink/1327381807282517">🔗</a></li>
+</ul>
+<!--
+Livres audio, mais payants :
+https://www.audible.fr/cat/Sciences-sociales-et-politiques/Philosophie-Livres-Audio/21228928031
+https://www.franceculture.fr/emissions/le-journal-de-la-philo/la-philosophie-a-voix-haute
+Quelques livres audio, mais pass beaucoup :
+https://www.audiocite.net/livres-audio-gratuits-philosophies/?
+http://www.ac-grenoble.fr/PhiloSophie/old2/articles.php?lng=fr&pg=17022
+ -->
+<h2 id="travailler-sur-le-texte"><a class="header" href="#travailler-sur-le-texte">Travailler sur le texte</a></h2>
+<ul>
+<li>Vidéoprojeter le texte et annoter le texte au tableau : penser à imprimer un texte pour les élèves avec la même mise en page)</li>
+<li>Utiliser une caméra de document (un “visualiseur”) pour projeter le travail que l'on accomplit sur le texte <a href="https://profjourde.wordpress.com/2015/06/02/un-visualiseur-et-un-ideateur-pour-les-gestes-du-travail-intellectuel/">🔗</a></li>
+<li>Rendre le texte cliquable et interactif <a href="https://www.genial.ly/">🔗</a></li>
+<li>Produire, éventuellement avec les élèves, un texte ou un livre enrichi</li>
+<li>Discuter un texte ou une œuvre en ligne </li>
+</ul>
+<h2 id="faire-écrire-un-texte-aux-élèves"><a class="header" href="#faire-écrire-un-texte-aux-élèves">Faire écrire un texte aux élèves</a></h2>
+<ul>
+<li>Utiliser un canevas que les élèves doivent remplir à l'écrit (exemple de canevas pour la problématisation : <a href="https://docs.google.com/presentation/d/11dQsRgOJ7z2o8lnyJOm9mlrRI314HPCT1ROuEwst3FA/edit?usp=sharing">🔗</a>), ou un modèle de document que les élèves doivent utiliser pour une production numérique</li>
+<li>Utiliser des outils de traitement de texte collaboratifs <a href="https://apps.education.fr/applications/etherpad/">🔗</a> <a href="https://apps.education.fr/applications/codi-md">🔗</a> </li>
+<li>Faire écrire un texte interactif <a href="https://www.inklewriter.com/">🔗</a> <a href="https://twinery.org/">🔗</a></li>
+<li>Récupérer les textes des élèves : utiliser l'ENT de préférence <a href="https://dane.ac-reims.fr/index.php/usages-pedagogiques-ent/item/266-MBN-travail-a-faire">🔗</a> <a href="https://tube-education.beta.education.fr/videos/watch/playlist/77c36bc8-e565-45a3-aff1-7e72c6232374?playlistPosition=5&amp;resume=true">🔗</a> <a href="https://tube-education.beta.education.fr/videos/watch/playlist/77c36bc8-e565-45a3-aff1-7e72c6232374?playlistPosition=6&amp;resume=true">🔗</a>, ou un outil de collecte de fichiers <a href="https://help.dropbox.com/fr-fr/files-folders/share/create-file-request">🔗</a></li>
+<li>Produire un livre numérique à partir d’un fichier PDF pour valoriser les productions des élèves <a href="https://fr.calameo.com/">🔗</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="b-faire-travailler-les-élèves-sur-une-vidéo"><a class="header" href="#b-faire-travailler-les-élèves-sur-une-vidéo">b) Faire travailler les élèves sur une vidéo</a></h1>
+<h2 id="travailler-sur-une-vidéo"><a class="header" href="#travailler-sur-une-vidéo">Travailler sur une vidéo</a></h2>
+<ul>
+<li>Trouver des vidéos intéressantes <a href="https://www.facebook.com/groups/enseignercinephilosophie">🔗</a> <a href="https://tvtropes.org/">🔗</a></li>
+<li>Récupérer une vidéo en ligne <a href="https://www.downloadhelper.net/">🔗</a> <a href="https://captvty.fr/fonctionnalites">🔗</a> <a href="https://github.com/ytdl-org/youtube-dl">🔗</a>, ou bien à partir d’un DVD <a href="https://www.mediaforma.com/vlc-ripper-dvd-vlc/">🔗</a> <a href="https://github.com/xenomachina/dvdrip">🔗</a> (législation : BO n°5 du 4 février 2010 <a href="https://www.education.gouv.fr/bo/2010/05/menj0901120x.html">🔗</a>)</li>
+<li>Découper un extrait directement sur Youtube et le partager de manière sécurisée, sans publicité, avec une interface neutre <a href="https://ladigitale.dev/digiplay/#/">🔗</a> <a href="https://video.link/">🔗</a></li>
+<li>Découper un extrait à partir d'un fichier avec Avidemux <a href="http://avidemux.sourceforge.net/download.html">🔗</a> <a href="https://www.ac-clermont.fr/disciplines/fileadmin/user_upload/LanguesVivantes/boite_a_outils_tice/BAC_accompagnement/Decouper_une_video_avec_avidemux.pdf">🔗</a>, Handbrake <a href="https://handbrake.fr/">🔗</a> <a href="https://drive.google.com/file/d/0BxtFzWgpTB8KaE5CMWpvNnlLVm8/view">🔗</a>, ou VLC <a href="https://www.futura-sciences.com/tech/questions-reponses/multimedia-decouper-media-vlc-11851/">🔗</a> <a href="https://www.videoproc.com/troubleshoot-vlc/cut-or-trim-video-in-vlc-on-mac.htm">🔗</a></li>
+<li>Stocker ses extraits vidéos <a href="https://drive.google.com/drive/my-drive">🔗</a></li>
+<li>Intégrer un extrait vidéo dans un diaporama</li>
+<li>Différents usages possibles du cinéma <a href="http://bit.ly/philocine">🔗</a></li>
+<li>Proposer une vidéo avec des annotations <a href="https://ant.umn.edu/">🔗</a></li>
+<li>Faire un exercice en ligne sur une vidéo <a href="https://learningapps.org/">🔗</a></li>
+<li>Faire une capsule vidéo pour ses élèves <a href="https://obsproject.com/fr">🔗</a></li>
+</ul>
+<h2 id="faire-produire-une-vidéo-aux-élèves"><a class="header" href="#faire-produire-une-vidéo-aux-élèves">Faire produire une vidéo aux élèves</a></h2>
+<ul>
+<li>Faire faire une vidéo ou une animation</li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="c-faire-travailler-les-élèves-sur-une-image"><a class="header" href="#c-faire-travailler-les-élèves-sur-une-image">c) Faire travailler les élèves sur une image</a></h1>
+<h2 id="travailler-avec-des-images"><a class="header" href="#travailler-avec-des-images">Travailler avec des images</a></h2>
+<ul>
+<li>Rechercher des images libres de droit <a href="https://images.google.com/">🔗</a> <a href="https://www.qwant.com/">🔗</a> <a href="https://commons.wikimedia.org/wiki/Main_Page">🔗</a> <a href="https://search.creativecommons.org/search?q=">🔗</a>, des photographies d'œuvres d'art <a href="https://artsandculture.google.com/">🔗</a> <a href="https://art.rmngp.fr/fr">🔗</a> <a href="https://www.nga.gov/open-access-images.html">🔗</a> <a href="https://histoiredesarts.culture.gouv.fr/">🔗</a>, des icônes <a href="https://thenounproject.com/">🔗</a></li>
+<li>Stocker et diffuser des images <a href="https://photos.google.com/share/AF1QipNQKekMM7q8v5VozjV-rqJpbgpQCRZnADf4QHp7-bmVQuSHS4EfnLzucdcu8M4tTg?key=bjBjUWE4bXBKalJITzhtVGdKd3hXSTdhUkZ1a0dn">🔗</a> <a href="">🔗</a></li>
+<li>Scanner une image ou la diffuser avec une caméra de document <a href="http://francois.bocquet.free.fr/universite/page17/page51/page51.html">🔗</a></li>
+<li>Imprimer une image sur plusieurs feuilles pour faire une affiche <a href="https://posterazor.sourceforge.io/online/">🔗</a></li>
+<li>Faire un exercice à partir d’une image, éventuellement intégrée à un diaporama ou via un site <a href="https://learningapps.org/">🔗</a></li>
+<li>Rendre son image interactive <a href="https://www.genial.ly/">🔗</a></li>
+</ul>
+<h2 id="faire-faire-aux-élèves-une-production-à-partir-dimages"><a class="header" href="#faire-faire-aux-élèves-une-production-à-partir-dimages">Faire faire aux élèves une production à partir d’images</a></h2>
+<ul>
+<li>Faire faire l'analyse d’une image : analyse d'une œuvre d'art, analyse de lieux communs, ou d'un stéréotype, problématisation d'une question à partir d'une image ou de deux images opposées</li>
+<li>Affichage en classe de l'image via une caméra de document <a href="http://francois.bocquet.free.fr/universite/page17/page51/page51.html">🔗</a>, ou récupération en ligne des images avec l'ENT</li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="d-faire-travailler-les-élèves-sur-un-fichier-audio"><a class="header" href="#d-faire-travailler-les-élèves-sur-un-fichier-audio">d) Faire travailler les élèves sur un fichier audio</a></h1>
+<h2 id="travailler-sur-un-fichier-audio"><a class="header" href="#travailler-sur-un-fichier-audio">Travailler sur un fichier audio</a></h2>
+<ul>
+<li>Récupérer des fichiers audio, par exemple de podcasts ou d'émissions de radio <a href="https://www.franceculture.fr/philosophie">🔗</a></li>
+<li>Stocker et diffuser des fichiers audio</li>
+<li>Faire un exercice à partir d’un fichier audio. Par exemple : un exercice de prise de notes, ou un travail d'approfondissement</li>
+<li>Faire de la balado-diffusion <a href="https://archivistesqc.wordpress.com/2020/08/17/baladodiffusion/">🔗</a>, ou une web-radio <a href="https://www.education.gouv.fr/creer-une-radio-lyceenne-4691">🔗</a> <a href="https://eduscol.education.fr/numerique/dossier/archives/baladodiffusion">🔗</a> <a href="https://blog.juliendelmas.fr/?mettre-en-place-une-webradio">🔗</a> <a href="https://padlet.com/cdi_siegfried67/l7s545626pbq">🔗</a>
+<ul>
+<li>Exemple : les usages de la webradio par Guillaume Lequien <a href="https://www.atelierphilo.fr/category/travaux/webradio/">🔗</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="faire-faire-aux-élèves-une-production-audio"><a class="header" href="#faire-faire-aux-élèves-une-production-audio">Faire faire aux élèves une production audio</a></h2>
+<ul>
+<li>Faire produire une analyse, une réflexion enregistrée via l'ENT, via leur propre téléphone (BYOD) ou via un outil en ligne (mot clé : “online recorder”)</li>
+<li>Récupérer les fichiers audio : via l'ENT, ou une autre solution</li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="e-faire-travailler-les-élèves-sur-un-site-internet"><a class="header" href="#e-faire-travailler-les-élèves-sur-un-site-internet">e) Faire travailler les élèves sur un site internet</a></h1>
+<h2 id="faire-travailler-les-élèves-sur-des-sites"><a class="header" href="#faire-travailler-les-élèves-sur-des-sites">Faire travailler les élèves sur des sites</a></h2>
+<ul>
+<li>Utiliser un raccourcisseur d’URL <a href="https://bitly.com/">🔗</a></li>
+<li>Utiliser des QR-Codes <a href="https://fr.qr-code-generator.com/">🔗</a></li>
+<li>Utiliser un outil de bookmarking en ligne <a href="https://www.diigo.com/">🔗</a></li>
+</ul>
+<h2 id="créer-un-site"><a class="header" href="#créer-un-site">Créer un site</a></h2>
+<ul>
+<li>Utiliser l'ENT</li>
+<li>Utiliser un outil simple de création de sites <a href="https://sites.google.com/">🔗</a> <a href="https://wordpress.com/fr/">🔗</a></li>
+<li>Créer une fausse page facebook, ou un site qui simule un échange sur twitter ou par sms, pour représenter une discussion entre différents points de vue philosophiques <a href="https://larryferlazzo.edublogs.org/2011/01/30/the-best-tools-for-creating-fake-stuff-for-learning/">🔗</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="f-faire-travailler-les-élèves-sur-des-exercices"><a class="header" href="#f-faire-travailler-les-élèves-sur-des-exercices">f) Faire travailler les élèves sur des exercices</a></h1>
+<h2 id="faire-ou-faire-des-exercices-en-ligne-pour-vérifier-la-compréhension-pour-des-révisions"><a class="header" href="#faire-ou-faire-des-exercices-en-ligne-pour-vérifier-la-compréhension-pour-des-révisions">Faire ou faire des exercices en ligne (pour vérifier la compréhension, pour des révisions)</a></h2>
+<ul>
+<li>avec LearningApps <a href="https://learningapps.org/">🔗</a></li>
+<li>avec Digistorm <a href="https://digistorm.app/">🔗</a></li>
+<li>avec la QuiZinière <a href="https://www.quiziniere.com/">🔗</a></li>
+<li>avec H5P, sur l'ENT <a href="https://www.skolengo.com/fr/blog/exerciseur-skolengo">🔗</a>, ou via Digiquiz <a href="https://ladigitale.dev/digiquiz/">🔗</a></li>
+<li>avec Pronote <a href="https://www.index-education.com/fr/tutoriels-video-pronote-1795-29-donner-un-qcm-a-faire-depuis-le-cahier-de-textes-espace-professeurs.php">🔗</a></li>
+</ul>
+<h2 id="créer-un-parcours-pédagogique-en-ligne-complet-avec-des-exercices-auto-correctifs"><a class="header" href="#créer-un-parcours-pédagogique-en-ligne-complet-avec-des-exercices-auto-correctifs">Créer un parcours pédagogique en ligne complet avec des exercices auto-correctifs</a></h2>
+<ul>
+<li>Un exemple <a href="https://sites.google.com/view/eyssette2021tg/s%C3%A9quence-3-%C3%A0-distance/chapitre-1-quest-ce-qui-fait-la-valeur-dune-%C5%93uvre-dart?authuser=0">🔗</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="g-Évaluer-les-élèves"><a class="header" href="#g-Évaluer-les-élèves">g) Évaluer les élèves</a></h1>
+<h2 id="trouver-un-sujet"><a class="header" href="#trouver-un-sujet">Trouver un sujet</a></h2>
+<ul>
+<li>Rechercher un sujet dans la base de données des sujets du baccalauréat : dissertations <a href="https://eyssette.github.io/sujets-philosophie-bac/dissertations.html">🔗</a> et explications de texte <a href="https://eyssette.github.io/sujets-philosophie-bac/explications.html">🔗</a></li>
+<li>Rechercher un sujet de dissertation dans une base de données générale (tous niveaux confondus) <a href="https://eyssette.github.io/sujets-philosophie/">🔗</a></li>
+</ul>
+<h2 id="faire-une-dissertation-ou-une-explication-avec-un-dossier-dapprofondissement"><a class="header" href="#faire-une-dissertation-ou-une-explication-avec-un-dossier-dapprofondissement">Faire une dissertation ou une explication avec un dossier d'approfondissement</a></h2>
+<ul>
+<li>Partager des dossiers avec l'ENT ou les publier en ligne <a href="https://www.dropbox.com/referrals/AADNRgRvYNK3-2FBnRd_mi-niwqSc6g-yUI?src=global9">🔗</a></li>
+<li>Collaborer avec des collègues pour faire un dossier <a href="https://www.facebook.com/groups/enseignerlaphilosophie/permalink/1273527589334606/?__cft__%5B0%5D=AZUzrLPV-5pyDXkTepeD4kn6OOhoEXlshkp2fMN8i57lFSHm-QZUMAf5EqRc3WDQF_XuKBJbXoGw8F5rVwgh7vZhChEXsFC19syo0OorSbmiLxUs1VF4KIYiaTrq4msiZiSaL2_axbW5E24gzNsQOntH&amp;__tn__=%2CO%2CP-R">🔗</a></li>
+</ul>
+<h2 id="calculer-le-temps-nécessaire-pour-une-évaluation"><a class="header" href="#calculer-le-temps-nécessaire-pour-une-évaluation">Calculer le temps nécessaire pour une évaluation</a></h2>
+<ul>
+<li>Utiliser un outil qui compte les mots pour déterminer le temps de lecture d'un texte ou d'une consigne, ou le temps d'écriture pour un certain nombre de mots attendu <a href="https://eyssette.github.io/combiendemots/">🔗</a></li>
+</ul>
+<h2 id="annoter-les-copies"><a class="header" href="#annoter-les-copies">Annoter les copies</a></h2>
+<h3 id="utiliser-des-grilles"><a class="header" href="#utiliser-des-grilles">Utiliser des grilles</a></h3>
+<ul>
+<li>Utiliser une grille d'évaluation <a href="https://docs.google.com/document/d/1OSiT5a-OuBb322IzWnO25u4zjwjXaD7tJYJwVVdVrvY/edit?usp=sharing">🔗</a> <a href="https://www.dropbox.com/s/x33q3xooeqde5ek/Rubrique%20simplifi%C3%A9e%20%E2%80%93%20Dissertation.pdf?dl=0">🔗</a> <a href="https://www.dropbox.com/s/7lhzq7d7vy47ssa/Grille%20d%27%C3%A9valuation%20crit%C3%A9ri%C3%A9e%20%28%27rubric%27%29%20pour%20la%20dissertation%20en%20philosophie.pdf?dl=0">🔗</a>
+* Utiliser une grille pour repérer les problèmes récurrents ou des pistes pertinentes dans un tas de copies <a href="https://www.dropbox.com/s/god8upxil8csbfw/commentaires-generaux-devoir.png?dl=0">🔗</a></li>
+</ul>
+<h3 id="annoter-numériquement-des-copies-physiques"><a class="header" href="#annoter-numériquement-des-copies-physiques">Annoter numériquement des copies physiques</a></h3>
+<ul>
+<li>Utiliser un modèle de document pour ses corrections <a href="https://docs.google.com/document/d/1Uf45WkVyRVUsNqL2UD6sNlI2n--xUriarYA8MEOfWbg/edit?usp=sharing">🔗</a>
+* Insérer des annotations prédéfinies <a href="https://github.com/eyssette/ressources-generales-enseignement-philosophie/blob/master/liste-appreciations-courantes.md">🔗</a>, dans un navigateur <a href="https://chrome.google.com/webstore/detail/magical-%E2%80%93-text-expansion/iibninhmiggehlcdolcilmhacighjamp?hl=fr">🔗</a> <a href="https://blaze.today/">🔗</a> <a href="https://addons.mozilla.org/en-US/firefox/addon/auto-text-expander/?">🔗</a>, avec LibreOffice <a href="https://help.libreoffice.org/latest/fr/text/swriter/guide/autotext.html">🔗</a>, avec Word <a href="https://support.microsoft.com/fr-fr/office/cr%C3%A9er-des-extraits-de-texte-r%C3%A9utilisables-0bc40cab-f49c-4e06-bcb2-cd43c1674d1b">🔗</a> <!-- ? fonction autotext text Snippets -->
+* Utiliser un formulaire pour corriger <a href="https://profjourde.wordpress.com/2016/06/21/corriger-des-copies-avec-un-formulaire/">🔗</a>
+* Faire des annotations vocales <a href="https://profjourde.wordpress.com/2012/07/27/annotations-vocales-de-copies-deleves/">🔗</a></li>
+</ul>
+<h3 id="annoter-numériquement-des-copies-numériques"><a class="header" href="#annoter-numériquement-des-copies-numériques">Annoter numériquement des copies numériques</a></h3>
+<ul>
+<li>Utiliser la fonction “commentaire” dans un traitement de texte 
+* Utiliser les fonctions d’annotation d’un fichier PDF <a href="https://pdf4teachers.org/">🔗</a> <!-- // https://github.com/ClementGre/PDF4Teachers -->
+* Utiliser un outil dédié pour corriger des copies <a href="https://eyssette.github.io/mark-down-papers/">🔗</a></li>
+</ul>
+<h2 id="vérifier-si-lélève-a-fait-un-plagiat"><a class="header" href="#vérifier-si-lélève-a-fait-un-plagiat">Vérifier si l'élève a fait un plagiat</a></h2>
+<ul>
+<li>Utiliser un moteur de recherche ordinaire et quelques astuces</li>
+<li>Utiliser un logiciel anti-plagiat <a href="https://www.ralentirtravaux.com/le_blog/comment-evaluer-en-ligne/">🔗</a></li>
+</ul>
+<h2 id="noter-les-copies"><a class="header" href="#noter-les-copies">Noter les copies</a></h2>
+<ul>
+<li>Utiliser Pronote pour différer la diffusion des notes et focaliser les élèves sur les annotations lorsque l’on rend les copies <a href="https://www.index-education.com/fr/tutoriels-video-pronote-1725-49-choisir-la-date-de-publication-d-une-note-espace-professeurs.php">🔗</a></li>
+<li>Transférer ses notes rapidement d'un tableur vers Pronote <a href="https://www.index-education.com/fr/tutoriels-video-pronote-668-49-recuperer-les-notes-depuis-un-tableur-mode-enseignant.php">🔗</a></li>
+<li>Utiliser un outil d’aide à l’évaluation <a href="https://eyssette.github.io/evaluation-rapide/">🔗</a></li>
+</ul>
+<h2 id="rendre-les-copies"><a class="header" href="#rendre-les-copies">Rendre les copies</a></h2>
+<ul>
+<li>Utiliser l'ENT pour rendre les copies <a href="https://dane.ac-reims.fr/index.php/usages-pedagogiques-ent/item/266-MBN-travail-a-faire">🔗</a></li>
+</ul>
+<h2 id="Évaluer-avec-des-qcm"><a class="header" href="#Évaluer-avec-des-qcm">Évaluer avec des QCM</a></h2>
+<ul>
+<li>Faire des QCM en philosophie ? <a href="https://web.archive.org/web/20200616164828/http://acireph.org:80/spip.php?article194">🔗</a> <a href="https://www.facebook.com/groups/197192470301462/search/?q=qcm">🔗</a> <a href="https://docs.google.com/document/d/1DCwbLprCLyC4V_e9_Uk7BXcRhQvv4VV91up8mzOx_Sw/edit?usp=sharing">🔗</a></li>
+<li>Utiliser un système de correction automatique de QCM <a href="https://www.quizscan.org/fr/#/">🔗</a> <a href="https://www.ticeman.fr/lecoutelas/?p=4718">🔗</a> <a href="https://play.google.com/store/apps/details?id=com.ekodroid.omrevaluator&amp;hl=en_US&amp;gl=US">🔗</a></li>
+<li>Faire des QCM avec Pronote <a href="https://www.index-education.com/fr/tutoriels-video-pronote-1795-29-donner-un-qcm-a-faire-depuis-le-cahier-de-textes-espace-professeurs.php">🔗</a> ou avec l'ENT <a href="https://www.skolengo.com/fr/blog/exerciseur-skolengo">🔗</a>, ou avec Google Forms <a href="https://support.google.com/docs/answer/7032287?hl=fr">🔗</a></li>
+<li>Intégrer des QCM dans le cours pour tester la compréhension du cours : en les intégrant dans un diaporama, avec réponses à l'oral, via des posts-it repositionnables <a href="https://bidouillesetmathscollege.blogspot.com/2016/10/qcm-en-classe.html">🔗</a>, par téléphone <a href="https://digistorm.app/">🔗</a> ou papier codé <a href="https://pi.ac3j.fr/plickers-au-college/">🔗</a> <a href="https://qcmcam.net/">🔗</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="dautres-outils-possibles"><a class="header" href="#dautres-outils-possibles">D'autres outils possibles</a></h1>
+<ul>
+<li>La liste de Céline Tarrade et Fabrice Gallet <a href="https://www.genial.ly/View/Index/59f270324fb71a0bfca22650#page-1">🔗</a></li>
+<li>Liste de François Jourde <a href="https://www.mindmeister.com/fr/8940345/outils-usuels">🔗</a></li>
+<li>Liste de l'académie de Versailles <a href="https://www.mindmeister.com/fr/557369575/outils-num-riques-pour-projets-d-l-ves-http-acver-fr-outilsnum">🔗</a></li>
+<li>Liste du Moodle Lab <a href="https://www.mindmeister.com/fr/78905114/enrichir-mon-cours-avec-les-outils-du-web">🔗</a></li>
+<li>Liste du portail Skoden <a href="https://outils-20-en-francais.zeef.com/fr/portail.skoden">🔗</a></li>
+</ul>
+<p>N’hésitez pas à contacter l’IAN (Interlocuteur Académique pour le Numérique) en philosophie dans votre académie !</p>
+
                     </main>
 
                     <nav class="nav-wrapper" aria-label="Page navigation">
