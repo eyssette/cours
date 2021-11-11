@@ -24,6 +24,8 @@
 	- [A. Ethical Dilemmas](ethical-dilemmas.md)
 		- [1/ Introduction to the topic](ethical-dilemmas-introduction.md)
 		- [2/ The trolley problem](ethical-dilemmas-trolley.md)
+		- [3/ Artificial Intelligence](ethical-dilemmas-AI.md)
+		- [4/ Biotechnology](ethical-dilemmas-biotechnology.md)
 		<!-- - [3/ New tech, new ethics](ethical-dilemmas-new-technology.md)
 		- [4/ Moral Theories](ethical-dilemmas-moral-theories.md)
 	<!-- - [B. The Importance of Critical Thinking](critical-thinking.md)
