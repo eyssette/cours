@@ -40,6 +40,7 @@
 		 - [1/ Introduction to the topic](animal-ethics-introduction.md)
 		 - [2/ Understanding the animal mind](animal-ethics-animal-mind.md)
 		 - [3/ The moral status of animals](animal-ethics-moral-status.md)
+		 - [4/ Moral theories : deontological ethics and consequentialism](animal-ethics-moral-theories-deontology-and-consequentialism.md)
 		<!---- [4/ Applied animal ethics: case studies](animal-ethics-case-studies.md)
 		- [5/ Animal ethics : moral theories](animal-ethics-moral-theories.md) -->
 	<!-- - [B. Environmental Ethics](environmental-ethics.md)
