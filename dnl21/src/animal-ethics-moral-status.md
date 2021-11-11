@@ -14,3 +14,7 @@
 ## Exceptionalism, Abolitionism and Welfarism
 
 [Jason Wyckoff : The Moral Status of Animals](https://docs.google.com/document/d/1SO2yhzpBBMWpL8JfIliG0auqFCHX0_f86ZzgMS5AAFs/edit?usp=sharing)
+
+## Activity
+
+Create a mindmap on the moral status of animals to summarize the documents we worked on.
