@@ -14,8 +14,8 @@
 		<!-- - [Q1 – La morale se réduit-elle aux mœurs ?]()
 		- [Q2 – Est-ce le cœur ou la raison qui indique le bien et le mal ?]()
 		- [Q3 - Comment la réflexion peut-elle nous aider à saisir notre devoir moral ?]() -->
-- [Séquence 2 : Philosophie du sujet]()
-	- [Chapitre 3 : Le libre arbitre]()
+- [Séquence 2 : Philosophie du sujet](seq2.md)
+	- [Chapitre 3 : Le libre arbitre](ch3.md)
 		<!-- - [Q1 – L'expérience d'agir par soi-même est-elle une preuve de notre liberté ?]()
 		- [Q2 – Notre capacité d'envisager plusieurs possibilités est-elle une preuve de notre liberté ?]()
 		- [Q3 – Notre responsabilité morale est-elle une preuve de notre liberté ?]()
