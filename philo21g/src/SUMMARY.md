@@ -17,7 +17,7 @@
 - [Séquence 2 : Philosophie du sujet](seq2.md)
 	- [Chapitre 3 : Le libre arbitre](ch3.md)
 		- [Q1 – L'expérience de l'action volontaire est-elle une preuve du libre arbitre ?](ch3-q1.md)
-		- [Q2 – Notre capacité d'envisager plusieurs possibilités est-elle une preuve du libre arbitre ?](ch3-q2.md)
+		- [Q2 – Nos choix sont-ils déterminés par des facteurs que nous ne maîtrisons pas ?](ch3-q2.md)
 		<!-- 
 		- [Q3 – Notre responsabilité morale est-elle une preuve de notre liberté ?]()
 		- [Q4 – Sommes-nous déterminés par des facteurs dont nous n'avons pas conscience ?]() -->
