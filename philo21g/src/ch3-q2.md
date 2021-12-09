@@ -2,4 +2,4 @@
 
 ## Le diaporama, support du cours
 
-<iframe src="https://eyssette.github.io/marp-slides/slides/2021-2022/s2-ch1-q2-choix-determines.html"></iframe>
+<iframe src="https://eyssette.github.io/marp-slides/slides/2021-2022/s2-ch3-q2-choix-determines.html"></iframe>
