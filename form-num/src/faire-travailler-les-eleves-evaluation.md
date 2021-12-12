@@ -30,7 +30,7 @@
 
 ## Vérifier si l'élève a fait un plagiat
 - Utiliser un moteur de recherche ordinaire et quelques astuces
-- Utiliser un logiciel anti-plagiat [🔗](https://www.ralentirtravaux.com/le_blog/comment-evaluer-en-ligne/)
+- Utiliser un logiciel anti-plagiat [🔗](https://www.ralentirtravaux.com/le_blog/comment-evaluer-en-ligne/) [🔗](https://outilstice.com/2021/12/plagiats-tous-les-outils-en-ligne-pour-detecter-plagiats/)
 
 ## Noter les copies
 - Utiliser Pronote pour différer la diffusion des notes et focaliser les élèves sur les annotations lorsque l’on rend les copies [🔗](https://www.index-education.com/fr/tutoriels-video-pronote-1725-49-choisir-la-date-de-publication-d-une-note-espace-professeurs.php)
