@@ -9,6 +9,8 @@
 		- [3/ The history of human rights](what-are-human-rights-history.md)
 		<!-- - [2/ Characteristics of human rights](what-are-human-rights-characteristics.md)
 		 -->
+	- [B. Specific Human Rights](specific-human-rights.md)
+		- [1/ Women's suffrage](specific-human-rights-women-s-suffrage.md)
 	<!-- - [B. Defending Human Rights: How?](defending-human-rights.md)
 		- [1/ Social movements and public figures](defending-human-rights-social-movements-and-public-figures.md)
 		- [2/ Main treaties and institutions](defending-human-rights-treaties-and-institutions.md)
@@ -41,12 +43,11 @@
 		 - [2/ Understanding the animal mind](animal-ethics-animal-mind.md)
 		 - [3/ The moral status of animals](animal-ethics-moral-status.md)
 		 - [4/ Moral theories : deontological ethics and consequentialism](animal-ethics-moral-theories-deontology-and-consequentialism.md)
+		 <!---- [4/ Applied animal ethics: case studies](animal-ethics-case-studies.md)
+		- [5/ Animal ethics : moral theories](animal-ethics-moral-theories.md) -->
 	- [B. Environmental Ethics](environmental-ethics.md)
 		- [1/ Why should we care about the environment?](environmental-ethics-why.md)
-		<!---- [4/ Applied animal ethics: case studies](animal-ethics-case-studies.md)
-		- [5/ Animal ethics : moral theories](animal-ethics-moral-theories.md) -->
-	<!-- - [B. Environmental Ethics](environmental-ethics.md)
-		- [1/ Why should we care about the environment?](environmental-ethics-why.md)
+	<!--
 		- [2/ Fighting climate change: How?](environmental-ethics-how.md)
 		- [3/ Environmental ethics : moral theories](environmental-ethics-moral-theories.md)
 		- [4/ Applied environmental ethics : case studies](environmental-ethics-case-studies.md) -->
