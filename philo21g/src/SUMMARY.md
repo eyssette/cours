@@ -23,6 +23,7 @@
 		- [Q4 – Sommes-nous déterminés par des facteurs dont nous n'avons pas conscience ?]() -->
 	- [Chapitre 4 : L'identité](ch4.md)
 		- [T1 - Locke](ch4-t1.md)
+		- [T2 – Sartre](ch4-t2.md)
 		<!-- - [Q1 – Le corps et l'esprit sont-ils deux réalités distinctes ?]()
 		- [Q2 – Y a-t-il une unité du Moi ?]()
 		- [Q3 – Les autres m'empêchent-ils d'être moi-même ?]()
