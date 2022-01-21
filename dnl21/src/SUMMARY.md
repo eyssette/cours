@@ -10,7 +10,7 @@
 		<!-- - [2/ Characteristics of human rights](what-are-human-rights-characteristics.md)
 		 -->
 	- [B. Specific Human Rights](specific-human-rights.md)
-		- [1/ Women's suffrage](specific-human-rights-women-s-suffrage.md)
+		- [1/ Women's right to vote](specific-human-rights-women-s-right-to-vote.md)
 	<!-- - [B. Defending Human Rights: How?](defending-human-rights.md)
 		- [1/ Social movements and public figures](defending-human-rights-social-movements-and-public-figures.md)
 		- [2/ Main treaties and institutions](defending-human-rights-treaties-and-institutions.md)

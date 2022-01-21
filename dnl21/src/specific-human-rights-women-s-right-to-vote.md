@@ -1,4 +1,4 @@
-# 1/ Women's suffrage
+# 1/ Women's right to vote
 
 ## First Activity
 
