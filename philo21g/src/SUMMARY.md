@@ -23,13 +23,13 @@
 		- [Q4 – Sommes-nous déterminés par des facteurs dont nous n'avons pas conscience ?]() -->
 	- [Chapitre 4 : L'identité](ch4.md)
 		- [T1 - Locke](ch4-t1.md)
-		- [T2 – Sartre](ch4-t2.md)
+		- [T2 – Sartre](ch4-t2.md)
 		<!-- - [Q1 – Le corps et l'esprit sont-ils deux réalités distinctes ?]()
 		- [Q2 – Y a-t-il une unité du Moi ?]()
 		- [Q3 – Les autres m'empêchent-ils d'être moi-même ?]()
 		- [Q4 – Mon identité se trouve-t-elle en moi ?]() -->
-- [Séquence 3 : Philosophie de la culture]()
-	- [Chapitre 5 : L'art]()
+- [Séquence 3 : Philosophie de la culture](seq3.md)
+	- [Chapitre 5 : L'art](ch5.md)
 		<!-- - [Q1 – L'artiste n'obéit-il à aucune règle ?]()
 		- [Q2 – Qu'est-ce que l'art nous apporte ?]()
 		- [Q3 – Les goûts sont-ils relatifs ?]() -->
