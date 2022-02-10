@@ -4,6 +4,6 @@
 
 ## Le diaporama, support du cours
 
-<iframe src="https://eyssette.github.io/marp-slides/slides/2021-2022/s3-ch5.md"></iframe>
+<iframe src="https://eyssette.github.io/marp-slides/slides/2021-2022/s3-ch5.html"></iframe>
 
 <script>subPages()</script>
