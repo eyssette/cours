@@ -1,7 +1,11 @@
-iframe {
-  border: none;
+iframe 
+{
+ display: block; 
+ width: 100%; 
+ border: none; 
+ overflow-y: auto; 
+ overflow-x: hidden;
 }
-
 @media screen and (min-width: 220px) and (min-height:160px) {
   iframe {
     width: 200px;
