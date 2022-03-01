@@ -29,7 +29,11 @@
 		- [3/ Artificial Intelligence](ethical-dilemmas-AI.md)
 		- [4/ Biotechnology](ethical-dilemmas-biotechnology.md)
 		<!-- - [3/ New tech, new ethics](ethical-dilemmas-new-technology.md)
-		- [4/ Moral Theories](ethical-dilemmas-moral-theories.md)
+		- [4/ Moral Theories](ethical-dilemmas-moral-theories.md)-->
+	- [B. Disagreements about facts](disagreements-facts.md)
+		- [1/ Debunking 'alternative facts'](disagreements-facts-debunking-alternative-facts.md)
+		- [2/ Conspiracy theories](disagreements-facts-conspiracy-theories.md)
+		- [3/ Epistemic Responsibility](disagreements-facts-epistemic-responsibility.md)
 	<!-- - [B. The Importance of Critical Thinking](critical-thinking.md)
 		- [1/ Introduction to the topic](critical-thinking-introduction.md)
 		- [2/ Conspiracy Theories](critical-thinking-conspiracy-theories.md)
