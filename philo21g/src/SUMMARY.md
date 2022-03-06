@@ -30,7 +30,8 @@
 		- [Q4 – Mon identité se trouve-t-elle en moi ?]() -->
 - [Séquence 3 : Philosophie de la culture](seq3.md)
 	- [Chapitre 5 : L'art](ch5.md)
-		<!-- - [Q1 – L'artiste n'obéit-il à aucune règle ?]()
+		- [Q1 – L'artiste n'obéit-il à aucune règle ?](ch5-q1.md)
+		<!-- 
 		- [Q2 – Qu'est-ce que l'art nous apporte ?]()
 		- [Q3 – Les goûts sont-ils relatifs ?]() -->
 	- [Chapitre 6 : La technique]()
