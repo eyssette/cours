@@ -51,6 +51,7 @@
 		- [5/ Animal ethics : moral theories](animal-ethics-moral-theories.md) -->
 	- [B. Environmental Ethics](environmental-ethics.md)
 		- [1/ Why should we care about the environment?](environmental-ethics-why.md)
+		- [2/ Climate Change](environmental-ethics-climate-change.md)
 	<!--
 		- [2/ Fighting climate change: How?](environmental-ethics-how.md)
 		- [3/ Environmental ethics : moral theories](environmental-ethics-moral-theories.md)
