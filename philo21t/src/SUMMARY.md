@@ -14,6 +14,7 @@
 		- [Q5 – Quels devoirs avons-nous envers la nature ?]() -->
 	- [Chapitre 2 : La politique](ch2.md)
 		- [Q1 – De quel droit l'État exerce-t-il un pouvoir sur nous ?](ch2-q1.md)
+		- [Q2 – Qu'est-ce que la justice sociale ?](ch2-q2.md)
 		<!-- - [Q1 – L'État est-il au service de l'intérêt général ?]()
 		- [Q2 – La raison d'être de l'État est-elle de garantir la sécurité ?]()
 		- [Q3 - La politique doit-elle être guidée par un idéal moral ?]() -->
