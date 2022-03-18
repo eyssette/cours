@@ -11,7 +11,7 @@
 		 -->
 	- [B. Specific Human Rights](specific-human-rights.md)
 		- [1/ Women's right to vote](specific-human-rights-women-s-right-to-vote.md)
-		- [2/ Refugees and migrants' rights](specific-human-rights-issues-refugees-and-migrants-s-rights.md)
+		- [2/ Refugees and migrants' rights](specific-human-rights-issues-refugees-and-migrants-rights.md)
 	<!-- - [B. Defending Human Rights: How?](defending-human-rights.md)
 		- [1/ Social movements and public figures](defending-human-rights-social-movements-and-public-figures.md)
 		- [2/ Main treaties and institutions](defending-human-rights-treaties-and-institutions.md)
