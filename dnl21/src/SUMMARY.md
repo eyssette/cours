@@ -57,8 +57,10 @@
 		- [2/ Fighting climate change: How?](environmental-ethics-how.md)
 		- [3/ Environmental ethics : moral theories](environmental-ethics-moral-theories.md)
 		- [4/ Applied environmental ethics : case studies](environmental-ethics-case-studies.md) -->
-	<!--- [C. Feminism](feminism.md)
-		 - [1/ Introduction to the topic](feminism-introduction.md)
+	- [C. Feminism](feminism.md)
+		- [1/ Introduction to the topic & Feminist glossary](feminism-introduction-glossary.md)
+		- [2/ The three waves of feminism](feminism-three-waves.md)
+	<!-- - [1/ Introduction to the topic](feminism-introduction.md)
 		- [2/ The three waves of feminism](feminism-three-waves.md)
 		- [3/ Inspiring feminists](feminism-inspiring-feminists.md)
 		- [4/ Feminist glossary](feminism-glossary.md)
