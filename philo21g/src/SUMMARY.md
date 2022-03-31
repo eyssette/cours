@@ -34,7 +34,10 @@
 		- [Q2 – Qu'est-ce que l'art nous apporte ?](ch5-q2.md)
 		<!-- 
 		- [Q3 – Les goûts sont-ils relatifs ?]() -->
-	<!-- - [Chapitre 6 : La technique]() -->
+	- [Chapitre 6 : La technique](ch6.md)
+		- [Q1 – La technique permet-elle de maîtriser la nature ?](ch6-q1.md)
+		- [Q2 – Le développement technique transforme-t-il les êtres humains ?](ch6-q2.md)
+		- [Q3 – Peut-on contrôler le développement technique ?](ch6-q3.md)
 <!-- - [Q1 – La technique est-elle le propre des humains ?]()
 		- [Q2 – La technologie permet-elle de maîtriser la nature ?]()
 		- [Q3 – Les machines nous libèrent-elles du travail ?]()
