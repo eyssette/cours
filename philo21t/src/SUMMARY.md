@@ -18,8 +18,8 @@
 		<!-- - [Q1 – L'État est-il au service de l'intérêt général ?]()
 		- [Q2 – La raison d'être de l'État est-elle de garantir la sécurité ?]()
 		- [Q3 - La politique doit-elle être guidée par un idéal moral ?]() -->
-<!-- - [Séquence 2 : Philosophie de la culture]()
-	- [Chapitre 3 : La technique]() -->
+- [Séquence 2 : Philosophie de la culture](seq2.md)
+	- [Chapitre 3 : La technique](ch3.md)
 <!-- - [Q1 – La technique est-elle le propre des humains ?]()
 		- [Q2 – La technologie permet-elle de maîtriser la nature ?]()
 		- [Q3 – Les machines nous libèrent-elles du travail ?]()
