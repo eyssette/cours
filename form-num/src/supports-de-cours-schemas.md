@@ -11,8 +11,8 @@ Risques possibles :
  -->
 
 ## Usages ordinaires
-* Utiliser un logiciel de dessin : [🔗](https://excalidraw.com/) [🔗](https://docs.google.com/drawings/u/0/create)
-* Utiliser un logiciel simple pour faire une carte mentale [🔗](http://mindmaps.app/) [🔗](https://coggle.it/) [🔗](https://www.zenmindmap.com/) [🔗](https://gitmind.com/)
+* Utiliser un logiciel de dessin : [🔗](https://excalidraw.com/) [🔗](https://docs.google.com/drawings/u/0/create) [🔗](https://www.tldraw.com/)
+* Utiliser un logiciel simple pour faire une carte mentale [🔗](http://mindmaps.app/) [🔗](https://coggle.it/) [🔗](https://www.zenflowchart.com/) [🔗](https://gitmind.com/)
 * Utiliser un logiciel simple qui convertit du texte en une carte mentale [🔗](https://tobloef.com/text2mindmap/) [🔗](https://flowchart.fun/)
 
 ## Usages avancés

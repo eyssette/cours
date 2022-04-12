@@ -1,6 +1,7 @@
 # f) Faire travailler les élèves sur des exercices
 
 ## Faire ou faire des exercices en ligne (pour vérifier la compréhension, pour des révisions)
+- avec Text2quiz [🔗](https://text2quiz.vercel.app/)
 - avec LearningApps [🔗](https://learningapps.org/)
 - avec Digistorm [🔗](https://digistorm.app/)
 - avec la QuiZinière [🔗](https://www.quiziniere.com/)
