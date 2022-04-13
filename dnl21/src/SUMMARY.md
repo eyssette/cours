@@ -35,6 +35,7 @@
 		- [1/ Debunking 'alternative facts'](disagreements-facts-debunking-alternative-facts.md)
 		- [2/ Conspiracy theories](disagreements-facts-conspiracy-theories.md)
 		- [3/ Epistemic Responsibility](disagreements-facts-epistemic-responsibility.md)
+		- [4/ The scientific method](disagreements-facts-the-scientific-method.md)
 	<!-- - [B. The Importance of Critical Thinking](critical-thinking.md)
 		- [1/ Introduction to the topic](critical-thinking-introduction.md)
 		- [2/ Conspiracy Theories](critical-thinking-conspiracy-theories.md)
