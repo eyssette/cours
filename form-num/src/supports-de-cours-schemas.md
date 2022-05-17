@@ -22,4 +22,4 @@ Risques possibles :
 * Utiliser un langage de programmation de graphiques : GraphViz [🔗](https://github.com/eyssette/graphviz-examples)
 * Créer une frise chronologique [🔗](https://outilstice.com/2020/06/outils-creer-frises-chronologiques/) [🔗](https://dynalist.io/d/AVblXCS_wLyhYa5Vv09X0cFJ#z=lMqVNIBrVvEdqSVLcxavgyhY)
 * Rendre son schéma interactif avec des éléments à cliquer pour découvrir différentes informations  [🔗](https://www.genial.ly/)
-* Utiliser un logiciel plus complet mais plus complexe de dessin vectoriel [🔗](draw.io)
+* Utiliser un logiciel plus complet mais plus complexe de dessin vectoriel [🔗](https://www.diagrams.net/)
