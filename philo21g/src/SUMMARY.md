@@ -39,21 +39,23 @@
 		- [Q2 – Le développement technique transforme-t-il les êtres humains ?](ch6-q2.md)
 		<!-- 
 		- [Q3 – Peut-on contrôler le développement technique ?](ch6-q3.md) -->
-<!-- - [Q1 – La technique est-elle le propre des humains ?]()
+		<!-- - [Q1 – La technique est-elle le propre des humains ?]()
 		- [Q2 – La technologie permet-elle de maîtriser la nature ?]()
 		- [Q3 – Les machines nous libèrent-elles du travail ?]()
 		- [Q4 – Vivons-nous sous l'emprise des technologies de l'information ?]()
 		- [Q5 – La technologie peut-elle améliorer les capacités des êtres humains ?]()
 		- [Q6 – Peut-on contrôler le développement technologique ?]() -->
-<!-- - [Chapitre 7 : Le langage]() -->
+	- [Chapitre 7 : Le langage](ch7.md)
+		- [Q1 – Le langage permet-il de tout dire ?](ch7-q1.md)
+		- [Q2 – Le langage exerce-t-il un pouvoir sur nous ?](ch7-q2.md)
 <!-- - [Q1 – Les animaux ont-ils un langage ?]()
 		- [Q2 – Qu'est-ce qui fait le sens d'un énoncé linguistique ?]()
 		- [Q3 – Le langage permet-il de tout exprimer ?]()
 		- [Q4 – La parole est-elle ce qui fait de moi un sujet ?]()
 		- [Q5 – Sommes-nous prisonniers de la langue que nous parlons ?]() -->
-<!-- - [Séquence 4 : Philosophie sociale et politique]()
-	- [Chapitre 8 : Œuvre suivie]()
-	- [Chapitre 9 : La politique]() -->
+- [Séquence 4 : Philosophie sociale et politique](seq4.md)
+	- [Chapitre 8 : Œuvre suivie (Rousseau, _Discours sur l'économie politique_)](ch8.md)
+	<!--- [Chapitre 9 : La politique]() -->
 <!-- - [Q1 – L’État est-il au service de l'intérêt général ?]()
 		- [Q2 – La raison d'être de l'État est-elle de garantir la sécurité ?]()
 		- [Q3 – La politique doit-elle être guidée par un idéal moral ?]()
