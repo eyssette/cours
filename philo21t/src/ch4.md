@@ -1,5 +1,5 @@
 # Chapitre 4 : L'art
 
-Question directrice : Peut-on définir ce qui fait la valeur d'une œuvre d'art ?
+## Le diaporama, support du cours
 
-<script>subPages()</script>
+<iframe src="https://eyssette.github.io/marp-slides/slides/2021-2022/ST-s2-ch4.html"></iframe>

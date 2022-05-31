@@ -20,6 +20,10 @@
 		- [Q3 - La politique doit-elle être guidée par un idéal moral ?]() -->
 - [Séquence 2 : Philosophie de la culture](seq2.md)
 	- [Chapitre 3 : La technique](ch3.md)
+		- [Q1 - La technique permet-elle de maîtriser la nature ?](ch3-q1.md)
+		- [Q2 - Le développement technique transforme-t-il les êtres humains ?](ch3-q2.md)
+	- [Chapitre 4 : L'art](ch4.md)
+		- [Qu'est-ce qui fait la valeur d'une œuvre d'art ?](ch4.md)
 <!-- - [Q1 – La technique est-elle le propre des humains ?]()
 		- [Q2 – La technologie permet-elle de maîtriser la nature ?]()
 		- [Q3 – Les machines nous libèrent-elles du travail ?]()
