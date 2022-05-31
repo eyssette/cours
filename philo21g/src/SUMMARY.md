@@ -55,6 +55,8 @@
 		- [Q5 – Sommes-nous prisonniers de la langue que nous parlons ?]() -->
 - [Séquence 4 : Philosophie sociale et politique](seq4.md)
 	- [Chapitre 8 : Œuvre suivie (Rousseau, _Discours sur l'économie politique_)](ch8.md)
+	- [Chapitre 9 : La politique](ch9.md)
+		- [Q1 - De quel droit l'État exerce-t-il un pouvoir sur nous ?](ch9-q1.md)
 	<!--- [Chapitre 9 : La politique]() -->
 <!-- - [Q1 – L’État est-il au service de l'intérêt général ?]()
 		- [Q2 – La raison d'être de l'État est-elle de garantir la sécurité ?]()
