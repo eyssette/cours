@@ -49,18 +49,18 @@
 		 - [2/ Understanding the animal mind](animal-ethics-animal-mind.md)
 		 - [3/ The moral status of animals](animal-ethics-moral-status.md)
 		 - [4/ Moral theories : deontological ethics and consequentialism](animal-ethics-moral-theories-deontology-and-consequentialism.md)
-		 <!---- [4/ Applied animal ethics: case studies](animal-ethics-case-studies.md)
-		- [5/ Animal ethics : moral theories](animal-ethics-moral-theories.md) -->
 	- [B. Environmental Ethics](environmental-ethics.md)
 		- [1/ Why should we care about the environment?](environmental-ethics-why.md)
 		- [2/ Climate Change](environmental-ethics-climate-change.md)
+	- [C. Feminism](feminism.md)
+		- [1/ Introduction to the topic & Feminist glossary](feminism-introduction-glossary.md)
+		- [2/ The three waves of feminism](feminism-three-waves.md)
+		 <!---- [4/ Applied animal ethics: case studies](animal-ethics-case-studies.md)
+		- [5/ Animal ethics : moral theories](animal-ethics-moral-theories.md) -->
 	<!--
 		- [2/ Fighting climate change: How?](environmental-ethics-how.md)
 		- [3/ Environmental ethics : moral theories](environmental-ethics-moral-theories.md)
 		- [4/ Applied environmental ethics : case studies](environmental-ethics-case-studies.md) -->
-	- [C. Feminism](feminism.md)
-		- [1/ Introduction to the topic & Feminist glossary](feminism-introduction-glossary.md)
-		- [2/ The three waves of feminism](feminism-three-waves.md)
 	<!-- - [1/ Introduction to the topic](feminism-introduction.md)
 		- [2/ The three waves of feminism](feminism-three-waves.md)
 		- [3/ Inspiring feminists](feminism-inspiring-feminists.md)
