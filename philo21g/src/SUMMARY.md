@@ -57,14 +57,16 @@
 	- [Chapitre 8 : Œuvre suivie (Rousseau, _Discours sur l'économie politique_)](ch8.md)
 	- [Chapitre 9 : La politique](ch9.md)
 		- [Q1 - De quel droit l'État exerce-t-il un pouvoir sur nous ?](ch9-q1.md)
+		- [Q2 - Qu'est-ce que la justice sociale ?](ch9-q2.md)
 	<!--- [Chapitre 9 : La politique]() -->
 <!-- - [Q1 – L’État est-il au service de l'intérêt général ?]()
 		- [Q2 – La raison d'être de l'État est-elle de garantir la sécurité ?]()
 		- [Q3 – La politique doit-elle être guidée par un idéal moral ?]()
 		- [Q4 – L'économie doit-elle être organisée selon le principe de la libre concurrence ?]()
 		- [Q5 – Faut-il prendre en compte les particularités des individus pour que la société soit plus inclusive ?]() -->
-<!-- - [Séquence 5 : Épistémologie et métaphysique]()
-	- [Chapitre 10 : La vérité]() -->
+- [Séquence 5 : Épistémologie et métaphysique](seq5.md)
+	- [Chapitre 10 : La vérité](ch10.md)
+		- [Q1 - Peut-on dire « à chacun sa vérité » ?](ch10-q1.md)
 <!-- - [Q1 – À quoi bon chercher la vérité ?]()
 		- [Q2 – Peut-on dire « à chacun sa vérité ! » ?]()
 		- [Q3 – Faut-il douter de tout ?]()
