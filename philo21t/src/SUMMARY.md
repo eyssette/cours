@@ -34,8 +34,9 @@
 <!-- - [Q1 – L'artiste n'obéit-il à aucune règle ?]()
 		- [Q2 – Qu'est-ce que l'art nous apporte ?]()
 		- [Q3 – Les goûts sont-ils relatifs ?]() -->
-<!-- - [Séquence 3 : Épistémologie et métaphysique]()
-	- [Chapitre 5 : La vérité]() -->
+- [Séquence 3 : Épistémologie et métaphysique](seq3.md)
+	- [Chapitre 5 : La vérité](ch5.md)
+		- [Q1 - Peut-on dire « à chacun sa vérité » ?](ch5-q1.md)
 <!-- - [Q1 – À quoi bon chercher la vérité ?]()
 		- [Q2 – Peut-on dire « à chacun sa vérité ! » ?]()
 		- [Q3 – Faut-il douter de tout ?]()
