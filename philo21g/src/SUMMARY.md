@@ -67,6 +67,7 @@
 - [Séquence 5 : Épistémologie et métaphysique](seq5.md)
 	- [Chapitre 10 : La vérité](ch10.md)
 		- [Q1 - Peut-on dire « à chacun sa vérité » ?](ch10-q1.md)
+		- [Q2 - Faut-il douter de tout ?](ch10-q2.md)
 <!-- - [Q1 – À quoi bon chercher la vérité ?]()
 		- [Q2 – Peut-on dire « à chacun sa vérité ! » ?]()
 		- [Q3 – Faut-il douter de tout ?]()
