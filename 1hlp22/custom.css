@@ -1,0 +1,202 @@
+#content {
+  font-size:2rem;
+}
+
+.sidebar {
+  font-size:1.6rem;
+}
+
+.pagetoc {
+  font-size:1.4rem;
+}
+
+.pagetoc a:hover {
+  text-decoration:none;
+}
+
+.admonition {
+  font-size: 1.6rem;
+}
+.admonition-title + div {
+padding:5px 8px 0;
+text-align:justify;
+}
+
+main {
+  margin-top:4vh;
+}
+
+@media screen and (max-width: 650px) {
+  #content {
+    font-size:1.6rem;
+  }
+  .sidebar {
+    font-size:1.4rem;
+  }
+}
+
+@media screen and (min-width:651px) and (max-width: 1000px) {
+  #content {
+    font-size:1.8rem;
+  }
+  .sidebar {
+    font-size:1.5rem;
+  }
+}
+
+@media screen and (min-width:1901px) {
+  #content, .menu-title {
+    margin-left:-200px;
+  }
+}
+
+iframe 
+{
+ display: block; 
+ width: 100%; 
+ border: none; 
+ overflow-y: auto; 
+ overflow-x: hidden;
+}
+
+@media screen and (min-width: 220px) and (min-height:160px) {
+  iframe {
+    width: 200px;
+    height: 150px;
+  }
+}
+
+@media screen and (min-width: 320px) and (min-height:235px) {
+  iframe {
+    width: 300px;
+    height: 225px;
+  }
+}
+
+
+@media screen and (min-width: 420px) and (min-height:315px) {
+  iframe {
+    width: 400px;
+    height: 300px;
+  }
+}
+
+
+@media screen and (min-width: 520px) and (min-height:385px) {
+  iframe {
+    width: 500px;
+    height: 375px;
+  }
+}
+
+@media screen and (min-width: 620px) and (min-height:460px) {
+  iframe {
+    width: 600px;
+    height: 450px;
+  }
+}
+
+@media screen and (min-width: 720px)  and (min-height:535px) {
+  iframe {
+    width: 700px;
+    height: 525px;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  iframe {
+    width: var(--content-max-width);
+    height: calc(var(--content-max-width)*3/4);
+  }
+}
+
+code {
+  white-space: pre-wrap;
+}
+
+/* Font Et-Book pour les blockquotes */
+
+@font-face {
+  font-family: "et-book";
+  src: url('https://cdn.jsdelivr.net/npm/typeface-et-book@0.0.2/et-book/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "et-book";
+  src: url('https://cdn.jsdelivr.net/npm/typeface-et-book@0.0.2/et-book/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "et-book";
+  src: url('https://cdn.jsdelivr.net/npm/typeface-et-book@0.0.2/et-book/et-book/et-book-bold-line-figures/et-book-bold-line-figures.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+blockquote {
+  font-family: "et-book";
+  font-size: 1.15em;
+  text-align: justify;
+}
+
+blockquote * {
+  line-height:1.35em!important;
+}
+
+@media screen and (max-width: 450px) {
+  blockquote {
+    font-size: 1em;
+  }
+}
+
+li details {
+margin-left:2em;
+margin-bottom:0.5em;
+font-size:0.95em;
+}
+
+@media screen and (max-width: 650px) {
+  li details {
+    margin-left:1em;
+    } 
+}
+
+
+details summary {
+  color: var(--icons);
+}
+
+.source-iframe {
+  display:block;
+  margin:auto;
+  margin-bottom:3em;
+}
+
+iframe[width="700"] + .source-iframe {
+  margin-top:-100px;
+}
+
+#plan-du-cours+ul, #plan-du-cours+ul ul {
+ list-style-type:none;
+ font-size:0.95em;
+}
+#plan-du-cours+ul li {
+  margin-left:-0.9em;
+  font-weight:600;
+}
+#plan-du-cours+ul li ul li {
+  margin-left:-0.5em;
+  font-weight:500;
+}
+#plan-du-cours+ul li ul li ul li {
+  margin-left:-0.2em;
+}
+
+details p {text-indent:2em!important; text-align:justify;} details p:last-of-type {margin-bottom:2em;}
