@@ -7,15 +7,23 @@ Pour un accès à d'autres ressources, vous pouvez voir ma [page de présentatio
 
 ### Année en cours
 
-- [Cours de philosophie (2021-2022) pour les séries générales](https://eyssette.github.io/cours/philo21g/c/)
-- [Cours de philosophie (2021-2022) pour les séries technologiques](https://eyssette.github.io/cours/philo21t/c/)
+- [Cours de philosophie (2022-2023) pour les séries générales](https://eyssette.github.io/cours/philo22g/c/)
+- [Cours de philosophie (2022-2023) pour les séries technologiques](https://eyssette.github.io/cours/philo22t/c/)
 
 ### Années précédentes
 
+- [Cours de philosophie (2021-2022) pour les séries générales](https://eyssette.github.io/cours/philo21g/c/)
+- [Cours de philosophie (2021-2022) pour les séries technologiques](https://eyssette.github.io/cours/philo21t/c/)
 - [Cours de philosophie (2020-2021) pour les séries générales](https://sites.google.com/view/eyssette2021tg)
 - [Cours de philosophie (2018-2019) pour les séries générales](https://sites.google.com/view/eyssette)
 - [Questions de révisions du cours de philosophie (2018-2019) pour les séries générales](https://dynalist.io/d/179Y1nSvDKEutZgXlR61xnI8)
 - [Ancien blog de partage de cours](https://eyssette.github.io/ancien-blog/)
+
+---
+
+## HLP
+
+- [HLP Premières (2022-2023](https://eyssette.github.io/cours/1hlp22/c/)
 
 ---
 

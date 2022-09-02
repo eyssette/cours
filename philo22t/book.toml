@@ -1,0 +1,26 @@
+[book]
+authors = ["Cédric Eyssette"]
+language = "fr"
+multilingual = false
+src = "src"
+title = "STMG2 : Cours de philosophie (2022-2023) - M. Eyssette"
+description = "Cours de philosophie en série technologique de M. Eyssette (2022-2023)"
+
+[build]
+build-dir = "c"
+
+[output.html]
+no-section-label = true
+additional-css = ["custom.css", "sidebar-toc.css", "././mdbook-admonish.css"]
+additional-js = ["custom.js", "sidebar-toc.js"]
+git-repository-url = "https://github.com/eyssette/cours/"
+
+[output.html.fold]
+enable = true
+level = 1
+
+[preprocessor]
+
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "2.0.0" # do not edit: managed by `mdbook-admonish install`
