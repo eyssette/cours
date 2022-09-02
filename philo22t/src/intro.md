@@ -2,4 +2,4 @@
 
 ## Le diaporama, support du cours
 
-<iframe src="https://eyssette.github.io/marp-slides/slides/2021-2022/introduction-philosophie-21.html"></iframe>
+<iframe src="https://eyssette.github.io/marp-slides/slides/2022-2023/introduction-philosophie-22.html"></iframe>
