@@ -33,7 +33,8 @@ Pour un accès à d'autres ressources, vous pouvez voir ma [page de présentatio
 
 ## Site en tant que professeur principal
 
-- [TG8 : le site de votre professeur principal](https://eyssette.github.io/cours/pp21/c/)
+- [TG5 : le site de votre professeur principal (2022-2023)](https://eyssette.github.io/cours/pp22/c/) 
+- [TG8 : le site de votre professeur principal (2021-2022)](https://eyssette.github.io/cours/pp21/c/)
 
 ---
 
