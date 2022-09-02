@@ -1,0 +1,382 @@
+<!DOCTYPE HTML>
+<html lang="fr" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Suivi de la classe de TG5 – M. Eyssette (2022-2023)</title>
+        <meta name="robots" content="noindex" />
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="Site pour la classe de TG5 en tant que professeur principal (2022-2023)">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="custom.css">
+        <link rel="stylesheet" href="sidebar-toc.css">
+        <link rel="stylesheet" href="././mdbook-admonish.css">
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+        <!-- Add : function to display links to subpages -->
+         <script >
+            function subPages() {
+                var el = document.getElementsByClassName('active')[0];
+                var elParent = el.parentNode;
+                var nextElParent = elParent.nextSibling;
+                if (nextElParent) {
+                    var childNextElParent = nextElParent.firstChild;
+                    var newEl = childNextElParent.cloneNode(true);
+                    var main = document.getElementsByTagName('main');
+                    main[0].appendChild(newEl);
+                    document.querySelectorAll('main a.toggle').forEach(e => e.remove());
+                }
+            }</script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="index.html">Accueil</a></li><li class="chapter-item expanded "><a href="A-premier-jour.html">A. Premier jour</a></li><li class="chapter-item expanded "><a href="B-travailler-efficace.html">B. Travailler de manière efficace</a></li><li class="chapter-item expanded "><a href="C-orientation.html">C. L'orientation</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Suivi de la classe de TG5 – M. Eyssette (2022-2023)</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/eyssette/cours/" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <nav class="pagetoc"></nav>
+                                        
+                    <main>
+                        <h1 id="accueil"><a class="header" href="#accueil">Accueil</a></h1>
+<p>Bienvenue sur ce site, sur lequel vous retrouverez toutes les informations importantes que je dois vous communiquer en tant que professeur principal.</p>
+<h2 id="me-contacter"><a class="header" href="#me-contacter">Me contacter</a></h2>
+<p>Pour me contacter, le mieux est d'utiliser la messagerie interne de l'ENT et de m'envoyer un message.
+Vous pouvez aussi m'envoyer un message par mail : prénom.nom@ac-lyon.fr (en remplaçant bien sûr &quot;prénom&quot; et &quot;nom&quot; par mon prénom et mon nom). Attention : vérifiez l'orthographe de mon nom quand vous écrivez mon mail.</p>
+<h2 id="mode-demploi-de-ce-site"><a class="header" href="#mode-demploi-de-ce-site">Mode d'emploi de ce site</a></h2>
+<div id="admonition-info" class="admonition info">
+<div class="admonition-title">
+<p>Info</p>
+<p><a class="admonition-anchor-link" href="index.html#admonition-info"></a></p>
+</div>
+<div>
+<p>L'icône <i class="fa fa-bars"></i> dans la barre de navigation en haut vous permet d'afficher ou de masquer le plan du site.</p>
+<p>Vous pouvez cliquer sur les flèches ou bien utiliser les flèches de navigation → et ← de votre clavier pour passer d'une page à une autre.</p>
+<p>Vous pouvez appuyer sur la touche <em>s</em> ou cliquer sur l'icône <i class="fa fa-search"></i> pour faire une recherche par mots-clés sur ce site.</p>
+<p>L'icône <i class="fa fa-paint-brush"></i> vous permet de choisir entre différents thèmes (clairs ou sombres) pour que la lecture soit plus agréable sur votre écran.</p>
+</div>
+</div><div style="break-before: page; page-break-before: always;"></div><h1 id="a-premier-jour"><a class="header" href="#a-premier-jour">A. Premier jour</a></h1>
+<iframe src="https://eyssette.github.io/marp-slides/slides/2022-2023/pp22-premier-jour.html"></iframe><div style="break-before: page; page-break-before: always;"></div><h1 id="b-travailler-de-manière-efficace"><a class="header" href="#b-travailler-de-manière-efficace">B. Travailler de manière efficace</a></h1>
+<p>Cliquer sur l'image pour accéder à la carte mentale interactive :</p>
+<p><a href="https://eyssette.github.io/mindmap/Comment-apprendre-de-maniere-efficace.html"><img src="https://eyssette.github.io/mindmap/Comment-apprendre-de-maniere-efficace.svg" alt="" /></a></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="c-lorientation"><a class="header" href="#c-lorientation">C. L'orientation</a></h1>
+<h2 id="1-une-démarche-active-de-réflexion-et-de-recherche-dinformations"><a class="header" href="#1-une-démarche-active-de-réflexion-et-de-recherche-dinformations">1/ Une démarche active de réflexion et de recherche d'informations</a></h2>
+<p>Pour construire votre projet d'orientation, il faut tout d'abord discuter avec vos parents, vos amis, vos connaissances.</p>
+<p>Discutez également avec votre professeur principal et et les autres enseignant·e·s de l'équipe pédagogique !</p>
+<p>Dès que vous avez une idée d'un domaine, d'une formation, essayez de trouver des contacts d'étudiant·e·s qui sont dans la formation qui vous intéresse, ou de professionnel·le·s qui travaillent dans le secteur.</p>
+<p>Deux sites utiles pour trouver des contacts :</p>
+<ol>
+<li><a href="https://www.inspire-orientation.org/">https://www.inspire-orientation.org/</a></li>
+<li><a href="https://www.studyadvisor.fr/">https://www.studyadvisor.fr/</a></li>
+</ol>
+<h2 id="2-des-dates-à-ne-pas-manquer"><a class="header" href="#2-des-dates-à-ne-pas-manquer">2/ Des dates à ne pas manquer</a></h2>
+<p>Il y aura plusieurs temps forts sur l'orientation dans l'académie cette année. Il faudra notamment noter les dates des grands salons de l'orientation quand elles seront publiées.</p>
+<ul>
+<li><a href="http://www.onisep.fr/Pres-de-chez-vous/Auvergne-Rhone-Alpes/Lyon/Agenda-de-l-orientation/Salons-et-Forums/Calendrier-des-salons">ONISEP : agenda de l'orientation, des salons et forums</a></li>
+<li><a href="https://orientation.public.ac-lyon.fr/actions-information/">Liste des actions d'information et d'orientation dans l'académie de Lyon</a></li>
+</ul>
+<p>Des informations seront régulièrement diffusées sur l'ENT :</p>
+<ul>
+<li><a href="https://aiguerande.ent.auvergnerhonealpes.fr/les-ressources-pedagogiques/les-ressources-pour-l-orientation/blog.do">https://aiguerande.ent.auvergnerhonealpes.fr/les-ressources-pedagogiques/les-ressources-pour-l-orientation/blog.do</a></li>
+</ul>
+<p>Enfin, les lieux de formation font souvent des journées portes ouvertes : renseignez-vous auprès des écoles, des facultés pour obtenir la date.</p>
+<h2 id="3-les-conseillers-conseillères-dorientation"><a class="header" href="#3-les-conseillers-conseillères-dorientation">3/ Les conseillers-conseillères d'orientation</a></h2>
+<p>Au lycée : pensez à prendre un RV rapidement (bureau à côté du CDI).</p>
+<p>Vous pouvez aussi vous rendre dans un CIO (Centre d’Information et d’Orientation) :</p>
+<ul>
+<li>À Villefranche sur Saône :
+<ul>
+<li><a href="https://villefranche.cio.ac-lyon.fr/spip/">https://villefranche.cio.ac-lyon.fr/spip/</a></li>
+</ul>
+</li>
+<li>Ailleurs dans l’Académie :
+<ul>
+<li><a href="https://www.education.gouv.fr/annuaire">https://www.education.gouv.fr/annuaire</a></li>
+</ul>
+</li>
+</ul>
+<p>Il est enfin possible de discuter avec des conseillers-conseillères d'orientation en ligne :</p>
+<ul>
+<li><a href="http://www.monorientationenligne.fr/">http://www.monorientationenligne.fr/</a></li>
+</ul>
+<p>Dans l'année, les conseillères d'orientation du lycée une présentation dans la classe des différentes filières post-bac.</p>
+<p>En attendant, vous pouvez consulter leur diaporama de l'année dernière :</p>
+<iframe src="https://drive.google.com/file/d/1IvUiAFNcRYdG6_Be7c3niqe0tlnUqx4Q/preview"></iframe>
+<h2 id="4-parcoursup-et-terminales-2021-2022"><a class="header" href="#4-parcoursup-et-terminales-2021-2022">4/ Parcoursup et Terminales 2021-2022</a></h2>
+<h3 id="parcoursup"><a class="header" href="#parcoursup">Parcoursup</a></h3>
+<p><em>Parcoursup</em> est le site sur lequel vous ferez votre dossier d'orientation (nous ferons les démarches ensemble), mais c'est aussi un site qui regroupe tout un ensemble d'informations sur les lieux de formations.</p>
+<ul>
+<li><a href="https://www.parcoursup.fr/">https://www.parcoursup.fr/</a></li>
+</ul>
+<p>Attention, il y a quelques lieux de formation pour lesquels l'inscription se fait selon des procédures propres (il faut alors bien se renseigner pour connaître les dates et les modalités de l'inscription).</p>
+<h3 id="terminales-2022-2023"><a class="header" href="#terminales-2022-2023">Terminales 2022-2023</a></h3>
+<p>Le ministère a également créé un site dédié à l'information sur l'orientation pour les terminales. La version 2022-2023 n'est pas encore en ligne, mais vous pouvez pour le moment accéder au site de l'année dernière :</p>
+<ul>
+<li><a href="http://www.terminales2021-2022.fr/">http://www.terminales2021-2022.fr/</a></li>
+</ul>
+<h2 id="5-les-ressources-de-lonisep"><a class="header" href="#5-les-ressources-de-lonisep">5/ Les ressources de l'ONISEP</a></h2>
+<p>Vous pouvez consulter les brochures de l’ONISEP au CDI.</p>
+<!-- http://www.onisep.fr/Guides-d-orientation
+http://www.onisep.fr/Pres-de-chez-vous/Auvergne-Rhone-Alpes/Lyon/Telechargement-des-guides-d-orientation -->
+<p>En ligne, le site de l'ONISEP propose plusieurs ressources intéressantes :</p>
+<h3 id="par-métiers"><a class="header" href="#par-métiers">Par métiers</a></h3>
+<ul>
+<li><a href="http://www.onisep.fr/Decouvrir-les-metiers">http://www.onisep.fr/Decouvrir-les-metiers</a></li>
+</ul>
+<h3 id="par-domaines-détude"><a class="header" href="#par-domaines-détude">Par domaines d'étude</a></h3>
+<ul>
+<li><a href="https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac#Principaux-domaines-d-etudes">https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac#Principaux-domaines-d-etudes</a></li>
+</ul>
+<h3 id="par-types-de-formation-licence-but-bts-"><a class="header" href="#par-types-de-formation-licence-but-bts-">Par types de formation (licence, BUT, BTS …)</a></h3>
+<ul>
+<li><a href="https://www.onisep.fr/Sites-annexes/Terminales-2020-2021/J-explore-les-possibles/Que-faire-apres-le-bac/Que-faire-apres-un-bac-general">https://www.onisep.fr/Sites-annexes/Terminales-2020-2021/J-explore-les-possibles/Que-faire-apres-le-bac/Que-faire-apres-un-bac-general</a></li>
+</ul>
+<h3 id="par-géolocalisation"><a class="header" href="#par-géolocalisation">Par géolocalisation</a></h3>
+<ul>
+<li><a href="http://geolocalisation.onisep.fr/">http://geolocalisation.onisep.fr/</a></li>
+</ul>
+<h2 id="6-les-sites-du-journal-lÉtudiant"><a class="header" href="#6-les-sites-du-journal-lÉtudiant">6/ Les sites du journal <em>L'Étudiant</em></a></h2>
+<h3 id="les-classements-des-lieux-de-formation"><a class="header" href="#les-classements-des-lieux-de-formation">Les classements des lieux de formation</a></h3>
+<ul>
+<li><a href="https://www.letudiant.fr/tag/classements.html">https://www.letudiant.fr/tag/classements.html</a></li>
+</ul>
+<h3 id="des-informations-et-des-conseils-sur-les-différentes-formations-dans-le-supérieur"><a class="header" href="#des-informations-et-des-conseils-sur-les-différentes-formations-dans-le-supérieur">Des informations et des conseils sur les différentes formations dans le supérieur</a></h3>
+<ul>
+<li><a href="http://www.letudiant.fr/etudes.html">http://www.letudiant.fr/etudes.html</a></li>
+</ul>
+<h3 id="des-informations-sur-différents-métiers"><a class="header" href="#des-informations-sur-différents-métiers">Des informations sur différents métiers</a></h3>
+<ul>
+<li><a href="http://www.letudiant.fr/metiers.html">http://www.letudiant.fr/metiers.html</a></li>
+</ul>
+<h2 id="7-autres-sites"><a class="header" href="#7-autres-sites">7/ Autres sites</a></h2>
+<p>Deux sites du ministère pour les jeunes et les étudiants :</p>
+<ol>
+<li><a href="http://www.etudiant.gouv.fr/">http://www.etudiant.gouv.fr/</a></li>
+<li><a href="http://www.jeunes.gouv.fr/">http://www.jeunes.gouv.fr/</a></li>
+</ol>
+<p>Le site de l’académie de Lyon sur l’orientation : </p>
+<ul>
+<li><a href="https://www.ac-lyon.fr/l-orientation-et-l-acces-a-l-enseignement-superieur-121725">Nouveau site</a></li>
+<li><a href="http://saio.ac-lyon.fr/spip/">Ancien site</a></li>
+</ul>
+<p>Un site de la région Île de France sur l'orientation :</p>
+<ul>
+<li><a href="https://www.oriane.info/">https://www.oriane.info/</a></li>
+</ul>
+<p>Pour se renseigner sur les études et les formations à l’étranger :</p>
+<ol>
+<li>Centre d’information internationale de l’académie de Lyon :
+<ul>
+<li><a href="http://cii.ac-lyon.fr/spip/">http://cii.ac-lyon.fr/spip/</a></li>
+</ul>
+</li>
+<li>Euroguidance :
+<ul>
+<li><a href="http://www.euroguidance-france.org/fr/">http://www.euroguidance-france.org/fr/</a></li>
+</ul>
+</li>
+</ol>
+<h2 id="8-mooc-sur-lorientation"><a class="header" href="#8-mooc-sur-lorientation">8/ MOOC sur l'orientation</a></h2>
+<p>Les <em>MOOC</em> sont des <em>Massive Open Online Course</em>, c'est-à-dire des cours en ligne ouverts à tout le monde.</p>
+<p>Voici une sélection de MOOC qui portent tous sur l'orientation et sont dédiés aux élèves de Terminale qui se posent des questions sur des filières spécifiques.</p>
+<p>Ils sont gratuits, avec parfois une option payante pour obtenir un certificat. Mais bien sûr, vous n'avez pas besoin de cela, et vous pourrez donc accéder gratuitement aux MOOC ci-dessous.</p>
+<p>⚠️  <b>Certains cours sont parfois fermés pour le moment, il faut regarder les périodes d'inscription et guetter s'il y en a de nouvelles.</b></p>
+<h3 id="pour-le-droit"><a class="header" href="#pour-le-droit">Pour le droit</a></h3>
+<p><a href="https://www.fun-mooc.fr/en/cours/le-droit-est-ce-pour-moi/">Le droit, est-ce pour moi ?</a></p>
+<h3 id="pour-les-études-de-santé"><a class="header" href="#pour-les-études-de-santé">Pour les études de santé</a></h3>
+<p><a href="https://www.fun-mooc.fr/en/cours/mooc-mms-mon-metier-de-la-sante/">Mon métier de la santé</a></p>
+<h3 id="pour-staps"><a class="header" href="#pour-staps">Pour STAPS</a></h3>
+<p><a href="https://www.fun-mooc.fr/en/cours/introduction-aux-staps/">Introduction aux STAPS</a></p>
+<h3 id="la-psychologie-à-luniversité"><a class="header" href="#la-psychologie-à-luniversité">La psychologie à l'université</a></h3>
+<p><a href="https://www.fun-mooc.fr/en/cours/introduction-a-la-psychologie-a-luniversite/">Introduction à la psychologie à l'université</a></p>
+<h3 id="la-prépa-classes-préparatoires-scientifiques-littéraires-ou-commerciales"><a class="header" href="#la-prépa-classes-préparatoires-scientifiques-littéraires-ou-commerciales">La prépa (classes préparatoires scientifiques, littéraires ou commerciales)</a></h3>
+<p><a href="https://www.fun-mooc.fr/en/cours/la-prepa-pour-tous-oser-et-reussir/">La prépa pour tous : oser et réussir</a></p>
+<h3 id="la-faculté"><a class="header" href="#la-faculté">La faculté</a></h3>
+<p><a href="https://www.fun-mooc.fr/fr/cours/la-fac-est-ce-pour-moi/">La Fac, est-ce pour moi ?</a></p>
+<p><a href="https://www.fun-mooc.fr/en/cours/projet-fac-les-recettes-pour-reussir-en-sciences-humaines/">Projet FAC : les recettes pour réussir en Sciences Humaines</a></p>
+<p><a href="https://www.fun-mooc.fr/fr/cours/le-metier-de-letudiant-pour-une-adaptation-reussie-luniversite/">Le métier de l'étudiant : pour une adaptation réussie à l'université</a></p>
+<h3 id="les-iut"><a class="header" href="#les-iut">Les IUT</a></h3>
+<p><a href="https://www.fun-mooc.fr/en/cours/entrer-a-liut-les-codes-pour-booster-ton-dossier/">Entrer à l'IUT : les codes pour booster ton dossier</a></p>
+<h3 id="la-formation-par-apprentissage"><a class="header" href="#la-formation-par-apprentissage">La formation par apprentissage</a></h3>
+<p><a href="https://www.fun-mooc.fr/fr/cours/la-formation-par-apprentissage-dans-lenseignement-superieur/">La formation par apprentissage dans l'enseignement supérieur</a></p>
+<h3 id="les-mathématiques-dans-lenseignement-supérieur"><a class="header" href="#les-mathématiques-dans-lenseignement-supérieur">Les mathématiques dans l'enseignement supérieur</a></h3>
+<p><a href="https://www.fun-mooc.fr/en/cours/introduction-au-raisonnement-mathematique-preparation-a-lentree-dans-lenseignement-superieur/">Introduction au raisonnement mathématique : préparation à l'entrée dans l'enseignement supérieur</a></p>
+<p><a href="https://www.fun-mooc.fr/en/cours/mathematiques-preparation-a-lentree-dans-lenseignement-superieur/">Mathématiques : préparation à l'entrée dans l'enseignement supérieur</a></p>
+<p><a href="https://www.fun-mooc.fr/en/cours/socle-en-mathematiques/">Socle en Mathématiques</a></p>
+<h3 id="les-sciences-dans-lenseignement-supérieur"><a class="header" href="#les-sciences-dans-lenseignement-supérieur">Les sciences dans l'enseignement supérieur</a></h3>
+<p><a href="https://www.fun-mooc.fr/en/cours/de-latome-a-lhumain-a-la-racine-des-mots-scientifiques/">De l'atome à l'humain : la racine des mots scientifiques</a></p>
+<p><a href="https://www.fun-mooc.fr/fr/cours/chimie-ouvrez-les-portes-de-lenseignement-superieur/">Chimie : ouvrez les portes de l’enseignement supérieur !</a></p>
+<p><a href="https://www.fun-mooc.fr/fr/cours/physique-mecanique-bien-entamer-lenseignement-superieur/">La physique générale pour bien entamer l'enseignement supérieur</a></p>
+<h3 id="larchitecture"><a class="header" href="#larchitecture">L'architecture</a></h3>
+<p><a href="https://www.fun-mooc.fr/fr/cours/sengager-dans-larchitecture-de-notre-cadre-de-vie/">S'engager dans l'architecture de notre cadre de vie</a></p>
+<h3 id="léconomie-et-le-commerce"><a class="header" href="#léconomie-et-le-commerce">L'économie et le commerce</a></h3>
+<p><a href="https://www.fun-mooc.fr/fr/cours/leco-pour-qui-pour-quoi/">L'éco, pour qui, pour quoi ?</a></p>
+<p><a href="https://www.fun-mooc.fr/fr/cours/de-la-prepa-aux-grandes-ecoles-de-commerce-le-bon-parcours-pour-moi/">De la Prépa aux Grandes Ecoles de Commerce: le bon parcours pour moi?</a></p>
+<h3 id="présentation-de-métiers-dans-différentes-filières"><a class="header" href="#présentation-de-métiers-dans-différentes-filières">Présentation de métiers dans différentes filières</a></h3>
+<p><a href="https://www.fun-mooc.fr/en/cours/les-metiers-du-numerique-pour-inventer-le-monde-de-demain/">Les métiers du numérique pour inventer le monde de demain</a></p>
+<p><a href="https://www.fun-mooc.fr/fr/cours/tetes-chercheuses-les-metiers-de-la-recherche/">Têtes chercheuses, les métiers de la recherche</a></p>
+<p><a href="https://www.fun-mooc.fr/en/cours/metiers-du-patrimoine-culturel/">Les métiers du patrimoine culturel</a></p>
+<p><a href="https://www.fun-mooc.fr/en/cours/les-metiers-de-la-geographie/">Les métiers de la géographie</a></p>
+<p><a href="https://www.fun-mooc.fr/en/cours/les-metiers-du-vivant/">Les métiers du vivant</a></p>
+<p><a href="https://www.fun-mooc.fr/en/cours/les-metiers-de-la-comptabilite-et-de-la-gestion/">Les métiers de la comptabilité et de la gestion</a></p>
+<p><a href="https://www.fun-mooc.fr/fr/cours/a-la-decouverte-des-metiers-de-lingenierie-industrielle-de-demain/">À la découverte des métiers de l’ingénierie industrielle de demain</a></p>
+<p><a href="https://www.fun-mooc.fr/en/cours/cap-sur-les-metiers-de-la-chimie-de-demain/">Cap sur les métiers de la chimie de demain</a></p>
+<p><a href="https://www.fun-mooc.fr/fr/cours/la-decouverte-des-metiers-de-la-transition-ecologique-creatrice/">À la découverte des métiers de la transition écologique, créatrice d'emplois</a></p>
+<p><a href="https://www.fun-mooc.fr/fr/cours/les-metiers-de-lenvironnement-et-de-lamenagement-du-territoire/">Les métiers de l'environnement et de l'aménagement du territoire</a></p>
+<p><a href="https://www.fun-mooc.fr/fr/cours/les-metiers-de-la-mer/">Les métiers de la mer</a></p>
+<p><a href="https://www.fun-mooc.fr/fr/cours/ose-les-metiers-de-lindustrie-du-futur/">Ose les métiers de l'industrie du futur</a></p>
+<p><a href="https://www.fun-mooc.fr/fr/cours/trop-robot-pour-etre-vrai/">La robotique : « Trop robot pour être vrai »</a></p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        <script type="text/javascript" src="custom.js"></script>
+        <script type="text/javascript" src="sidebar-toc.js"></script>
+        <script type="text/javascript">
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
+    </body>
+</html>
