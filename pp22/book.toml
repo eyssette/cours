@@ -9,6 +9,15 @@ description = "Site pour la classe de TG5 en tant que professeur principal (2022
 [build]
 build-dir = "c"
 
+[preprocessor]
+
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "2.0.0" # do not edit: managed by `mdbook-admonish install`
+
+[preprocessor.emojis]
+command = "python3 emojis.py"
+
 [output.html]
 no-section-label = true
 additional-css = ["custom.css", "sidebar-toc.css", "././mdbook-admonish.css"]
@@ -18,9 +27,3 @@ git-repository-url = "https://github.com/eyssette/cours/"
 [output.html.fold]
 enable = true
 level = 1
-
-[preprocessor]
-
-[preprocessor.admonish]
-command = "mdbook-admonish"
-assets_version = "2.0.0" # do not edit: managed by `mdbook-admonish install`

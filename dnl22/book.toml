@@ -3,8 +3,8 @@ authors = ["Cédric Eyssette"]
 language = "fr"
 multilingual = false
 src = "src"
-title = "STMG2 : Cours de philosophie (2022-2023) - M. Eyssette"
-description = "Cours de philosophie en série technologique de M. Eyssette (2022-2023)"
+title = "Section Euro Anglais : DNL Philosophie (2022-2023) - Cours de M. Eyssette"
+description = "Section Euro Anglais : DNL Philosophie (2022-2023) - Cours de M. Eyssette"
 
 [build]
 build-dir = "c"
