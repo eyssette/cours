@@ -29,6 +29,7 @@ Pour un accès à d'autres ressources, vous pouvez voir ma [page de présentatio
 
 ## Section Euro Anglais : DNL
 
+- [Cours de DNL Philo/Anglais (2022-2023)](https://eyssette.github.io/cours/dnl22/c/)
 - [Cours de DNL Philo/Anglais (2021-2022)](https://eyssette.github.io/cours/dnl21/c/)
 
 ## Site en tant que professeur principal
