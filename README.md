@@ -23,7 +23,7 @@ Pour un accès à d'autres ressources, vous pouvez voir ma [page de présentatio
 
 ## HLP
 
-- [HLP Premières (2022-2023](https://eyssette.github.io/cours/1hlp22/c/)
+- [HLP Premières (2022-2023)](https://eyssette.github.io/cours/1hlp22/c/)
 
 ---
 
