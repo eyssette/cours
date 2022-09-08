@@ -2,7 +2,7 @@
 
 Avez-vous tout d'abord des bonnes pratiques pour vos révisions ? : [faites ce sondage](https://eyssette.github.io/apprendre/bases.html).
 
-Vous trouverez dans cette catégorie différents outils pour réviser le cours :
+Vous trouverez dans cette catégorie différents outils pour réviser le cours.
 
 <script>
 var el = document.getElementsByClassName('active')[0];
