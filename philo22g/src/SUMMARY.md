@@ -2,6 +2,7 @@
 
 [Accueil](README.md)
 - [Introduction](intro.md)
+- [Séquence 1 : Éthique et philosophie morale](s1.md)
 
 ---
 

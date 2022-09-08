@@ -18,6 +18,17 @@ assets_version = "2.0.0" # do not edit: managed by `mdbook-admonish install`
 [preprocessor.emojis]
 command = "python3 emojis.py"
 
+[preprocessor.regex-replacer]
+command="mdbook-regex-replacer"
+
+[[preprocessor.regex-replacer.items]]
+regex="==(?P<c>.+?)=="
+rep="<mark>$c</mark>"
+
+[[preprocessor.regex-replacer.items]]
+regex="\\[diapo:(.*)\\]"
+rep='<h2 id="diaporama"><a class="header" href="#diaporama">Diaporama</a></h2><iframe src="https://eyssette.github.io/marp-slides//slides/2022-2023/$1.html"></iframe>'
+
 [output.html]
 no-section-label = true
 additional-css = ["custom.css", "sidebar-toc.css", "././mdbook-admonish.css"]
