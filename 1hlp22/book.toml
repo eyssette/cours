@@ -27,7 +27,7 @@ rep="<mark>$c</mark>"
 
 [[preprocessor.regex-replacer.items]]
 regex="\\[diapo:(.*)\\]"
-rep='<h2 id="le-diaporama-support-du-cours"><a class="header" href="#le-diaporama-support-du-cours">Le diaporama, support du cours</a></h2><iframe src="https://eyssette.github.io/marp-slides//slides/2022-2023/$1.html"></iframe>'
+rep='<h2 id="diaporama-$1"><a class="header header-h2" href="#diaporama-$1">Diaporama</a></h2><iframe src="https://eyssette.github.io/marp-slides//slides/2022-2023/$1.html"></iframe>'
 
 [output.html]
 no-section-label = true

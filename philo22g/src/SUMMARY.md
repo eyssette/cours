@@ -3,6 +3,8 @@
 [Accueil](README.md)
 - [Introduction](intro.md)
 - [Séquence 1 : Éthique et philosophie morale](s1.md)
+	- [Chap. 1 : Le bonheur, le temps](s1-ch1.md)
+		- [Q1 – Pouvons-nous parvenir au bonheur ?](s1-ch1-q1.md)
 
 ---
 
