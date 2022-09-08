@@ -3,8 +3,8 @@ authors = ["Cédric Eyssette"]
 language = "fr"
 multilingual = false
 src = "src"
-title = "TITRE_COURS (20xx-20xx) - Cours de M. Eyssette"
-description = "Cours de TITRE_COURS de M. Eyssette (20xx-20xx)"
+title = "Cours de philosophie en série générale (2022-2023) - M. Eyssette"
+description = "Cours de philosophie en série générale (2022-2023) - M. Eyssette"
 
 [build]
 build-dir = "c"
