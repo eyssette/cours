@@ -61,6 +61,7 @@ iframe
  border: none; 
  overflow-y: auto; 
  overflow-x: hidden;
+ padding-top:1em;
 }
 
 @media screen and (min-width: 220px) and (min-height:160px) {
