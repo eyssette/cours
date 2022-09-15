@@ -1,6 +1,8 @@
 # Introduction
 
+[diapo:introduction-HLP-22]
 
-## Le diaporama, support du cours
+## Documents distribués
 
-<iframe src="https://eyssette.github.io/marp-slides/slides/2022-2023/introduction-HLP-22.html"></iframe>
+- [Trois textes sur les humanités](https://nuage03.apps.education.fr/index.php/s/iTtSx5Yg9T92tfd)
+- [Trois textes sur la notion de tradition](https://nuage03.apps.education.fr/index.php/s/gbB9T3y4tsgeMG2)
