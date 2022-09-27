@@ -43,6 +43,10 @@ Tout d'abord, on ne dit pas “langage des signes”, mais “langue des signes�
 
 Le terme de “parole” évoque souvent l'usage de la voix, l'oralité par rapport à l'écriture. Cependant, on peut très bien “parler en langue des signes”, ce qui permet de comprendre que la parole n'est pas essentiellement l'usage de la voix, mais plus généralement l'usage d'une langue.
 
+#### Pour approfondir
+
+Un épisode du podcast “Parler comme jamais” : [Quand la langue fait signes](https://www.binge.audio/podcast/parler-comme-jamais/quand-la-langue-fait-signes)
+Un épisode du podcast “Programme B” : [La langue des signes ne se tait plus](https://www.binge.audio/podcast/programme-b/la-langue-des-signes-ne-se-tait-plus)
 
 ## Les pouvoirs de la parole
 
