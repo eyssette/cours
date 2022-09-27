@@ -26,6 +26,10 @@ regex="==(?P<c>.+?)=="
 rep="<mark>$c</mark>"
 
 [[preprocessor.regex-replacer.items]]
+regex="(.*)\\n: (.*)"
+rep="<dl><dt>$1</dt><dd>$2</dd></dl>"
+
+[[preprocessor.regex-replacer.items]]
 regex="\\[diapo:(.*),h(\\d)\\]"
 rep='<h$2 id="diaporama-$1"><a class="header header-h$2" href="#diaporama-$1">Diaporama</a></h$2><iframe src="https://eyssette.github.io/marp-slides//slides/2022-2023/$1.html"></iframe>'
 

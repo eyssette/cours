@@ -205,3 +205,5 @@ iframe[width="700"] + .source-iframe {
 }
 
 details p {text-indent:2em!important; text-align:justify;} details p:last-of-type {margin-bottom:2em;}
+
+dt {font-style: italic}
