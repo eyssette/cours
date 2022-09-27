@@ -38,10 +38,13 @@ rep='<h$2 id="diaporama-$1"><a class="header header-h$2" href="#diaporama-$1">Di
 regex="\\[diapo:(.*)\\]"
 rep='<h2 id="diaporama-$1"><a class="header header-h2" href="#diaporama-$1">Diaporama</a></h2><iframe src="https://eyssette.github.io/marp-slides//slides/2022-2023/$1.html"></iframe>'
 
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
 [output.html]
 no-section-label = true
 additional-css = ["custom.css", "sidebar-toc.css", "././mdbook-admonish.css"]
-additional-js = ["custom.js", "sidebar-toc.js"]
+additional-js = ["custom.js", "sidebar-toc.js", "mermaid.min.js", "mermaid-init.js"]
 git-repository-url = "https://github.com/eyssette/cours/"
 
 [output.html.fold]

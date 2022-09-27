@@ -210,3 +210,5 @@ details p {text-indent:2em!important; text-align:justify;} details p:last-of-typ
 dt {font-style: italic}
 
 html:not(.light) img[alt~="bg-white"] {background: hsl(60, 9%, 87%);}
+
+.mermaid {text-align:center}
