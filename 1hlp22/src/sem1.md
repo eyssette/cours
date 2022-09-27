@@ -4,7 +4,7 @@
 
 ### Distinction : langage, langue, parole
 
-![](https://raw.githubusercontent.com/eyssette/mindmap/main/Langage-Langue-Parole.svg)
+![bg-white](https://raw.githubusercontent.com/eyssette/mindmap/main/Langage-Langue-Parole.svg)
 
 ```admonish abstract collapsible=true title="Afficher le texte de cette carte mentale"
 
@@ -27,7 +27,7 @@ On peut mieux comprendre la distinction entre langage, langue et parole en s'int
 
 Tout d'abord, on ne dit pas “langage des signes”, mais “langue des signes”. Pourquoi ?
 
-[![](https://eyssette.github.io/mindmap/Langue-des-signes-et-non-pas-langage-des-signes.svg)](https://eyssette.github.io/mindmap/Langue-des-signes-et-non-pas-langage-des-signes.html)
+[![bg-white](https://eyssette.github.io/mindmap/Langue-des-signes-et-non-pas-langage-des-signes.svg)](https://eyssette.github.io/mindmap/Langue-des-signes-et-non-pas-langage-des-signes.html)
 
 
 ```admonish abstract collapsible=true title="Afficher le texte de cette carte mentale"
@@ -46,7 +46,7 @@ Le terme de “parole” évoque souvent l'usage de la voix, l'oralité par rapp
 
 ## Les pouvoirs de la parole
 
-![](https://raw.githubusercontent.com/eyssette/mindmap/main/Les-pouvoirs-de-la-parole.svg)
+![bg-white](https://raw.githubusercontent.com/eyssette/mindmap/main/Les-pouvoirs-de-la-parole.svg)
 
 ```admonish abstract collapsible=true title="Afficher le texte de cette carte mentale"
 
