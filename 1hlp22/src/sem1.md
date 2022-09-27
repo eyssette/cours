@@ -63,5 +63,6 @@ On peut comprendre le "de" de deux manières :
 
 Ces trois axes seront travaillés dans chaque séquence.
 
+## Plan de ce semestre
 
 <script>subPages()</script>
