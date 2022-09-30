@@ -3,3 +3,7 @@
 ## Q1a – La liberté consiste-t-elle à satisfaire tous ses désirs ?
 
 [diapo:ST-s1-ch1-q1a,h3]
+
+## Q1b – Suis-je vraiment maître de moi-même ?
+
+[diapo:ST-s1-ch1-q1b,h3]
