@@ -7,3 +7,7 @@
 ## Q1b – Le désir nous fait-il nécessairement souffrir ?
 
 [diapo:s1-ch1-q1b,h3]
+
+## Q1c – Que pouvons-nous face au tragique de l'existence ?
+
+[diapo:s1-ch1-q1c,h3]
