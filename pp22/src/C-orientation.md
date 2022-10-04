@@ -45,7 +45,7 @@ En attendant, vous pouvez consulter leur diaporama de l'année dernière :
 
 <iframe src="https://drive.google.com/file/d/1IvUiAFNcRYdG6_Be7c3niqe0tlnUqx4Q/preview"></iframe>
 
-## 4/ Parcoursup et Terminales 2021-2022
+## 4/ Parcoursup et Terminales 2022-2023
 
 ### Parcoursup
 
@@ -54,6 +54,14 @@ _Parcoursup_ est le site sur lequel vous ferez votre dossier d'orientation (nous
 - [https://www.parcoursup.fr/](https://www.parcoursup.fr/)
 
 Attention, il y a quelques lieux de formation pour lesquels l'inscription se fait selon des procédures propres (il faut alors bien se renseigner pour connaître les dates et les modalités de l'inscription).
+
+#### Les dates pour la procédure Parcoursup
+
+- 20 décembre 2022 : ouverture du site avec le moteur de recherche des formations ;
+- 18 janvier 2023 : ouverture de la plateforme Parcoursup et formulation des vœux ;
+- 8 mars 2023 : date limite de la formulation des vœux ;
+- 6 avril 2023 : date limite pour compléter son dossier et confirmation des vœux ;
+- 1er juin 2023 : lancement de la phase principale d’admission (réponses des formations).
 
 ### Terminales 2022-2023
 
