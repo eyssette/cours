@@ -8,13 +8,10 @@
 		- [Q2 - Le bonheur est-il le but de l'existence ?](s1-ch1-q2.md)
 
 ---
-
-- [Méthodologie et devoirs](methode.md)
-	<!-- - [Méthode de la dissertation](methode-dissertation.md)
-	- [Méthode de l'explication de texte](methode-explication.md)
-	- [Devoirs avec dossiers](devoirs.md) -->
+- [Méthode de la dissertation](methode-dissertation.md)
 - [Moteurs de recherche](moteurs-de-recherche.md)
 - [Sélection de chaînes vidéo](selection-chaines-video.md)
+<!--	- [Méthode de l'explication de texte](methode-explication.md)-->
 
 ---
 
