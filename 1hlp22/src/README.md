@@ -5,7 +5,7 @@ Bienvenue sur ce site, sur lequel vous retrouverez :
 1. Les cours
 2. La méthodologie et les devoirs
 
-## Mode d'emploi de ce site
+### Mode d'emploi de ce site
 
 ```admonish info
 L'icône <i class="fa fa-bars"></i> dans la barre de navigation en haut vous permet d'afficher ou de masquer le plan du site.
