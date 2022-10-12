@@ -110,7 +110,8 @@ Travail sur un [texte à propos de la sociolinguistique](https://nuage03.apps.ed
 
 ### Exercice
 
-- Analyse d'un extrait du documentaire _Baisemain et Mocassins_ : [lien](https://drive.google.com/file/d/1mekwiTlJzmrMroH9K26U7szn66uXTXJF/view?usp=sharing) : qu'est-ce qui dans la parole de cet adolescent révèle son appartenance à une classe sociale particulière ?
+- Analyse d'un extrait du documentaire _Baisemain et Mocassins_ : [lien](https://drive.google.com/file/d/1mekwiTlJzmrMroH9K26U7szn66uXTXJF/view?usp=sharing)
+	- Qu'est-ce qui dans la parole de cet adolescent révèle son appartenance à une classe sociale particulière ?
 
 <!-- ## Question 3 – La parole exprime-t-elle mon identité ?
 
