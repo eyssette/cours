@@ -70,8 +70,7 @@ Nous avons besoin de parler :
 ### Exercices
 
 1. Classer une série de textes : quels sont les textes qui expriment l'importance de la parole pour penser, pour vivre en société, pour affirmer son existence ?
-	- [Textes à classer](https://nuage03.apps.education.fr/index.php/s/fKLWCM5ACJmS3kf)
-[R] (les textes avaient été préalablement découpées pour être mélangés)
+	- [Textes à classer](https://nuage03.apps.education.fr/index.php/s/fKLWCM5ACJmS3kf) (les textes avaient été préalablement découpées pour être mélangés)
 
 2. Dans le texte d'Isocrate, retrouvez les trois dimensions de l'importance de la parole : parler pour penser, parler pour vivre en société, parler pour affirmer son existence
 	- [Texte d'Isocrate](https://nuage03.apps.education.fr/index.php/s/YHH696PWxscy3bH)
