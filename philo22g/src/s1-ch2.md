@@ -1,4 +1,6 @@
-# Chapitre 1 : Le bonheur, le temps
+# Chap. 2 : La morale
+
+[diapo:s1-ch2,h3]
 
 ### Contenu de ce chapitre
 

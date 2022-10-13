@@ -6,6 +6,7 @@
 	- [Chap. 1 : Le bonheur, le temps](s1-ch1.md)
 		- [Q1 – Pouvons-nous parvenir au bonheur ?](s1-ch1-q1.md)
 		- [Q2 - Le bonheur est-il le but de l'existence ?](s1-ch1-q2.md)
+	- [Chap. 2 : La morale](s1-ch2.md)
 
 ---
 - [Méthode de la dissertation](methode-dissertation.md)
