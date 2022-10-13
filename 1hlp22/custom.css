@@ -210,7 +210,7 @@ dt {font-style: italic}
 
 html:not(.light) img[alt~="bg-white"], html:not(.light) .mermaid {background: hsl(60, 9%, 87%);}
 
-.mermaid {text-align:center; background:}
+.mermaid {text-align:center;}
 
 li li {font-size:0.9em}
 
