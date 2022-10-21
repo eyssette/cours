@@ -5,3 +5,4 @@
 - [Séquence 1 : Philosophie morale et politique](s1.md)
 	- [Chapitre 1 : La liberté](ch1.md)
 		- [Question 1 : Comment peut-on être libre ?](s1-ch1-q1.md)
+		- [Question 2 : Y a-t-il des limites morales à la liberté ?](s1-ch1-q2.md)
