@@ -16,11 +16,13 @@ A1(["Different ways<br>we use animals"])
 B1("For food")
 B2("For pharmaceuticals, <br>medical or pseudo-<br>medical products")
 B3("For clothing")
-B4["For entertainment"]
-B5["For labor"]
-B6["For experimentation"]
-B7["As pets"]
-B8["In contemporary<br>artwork"]
+B4("For entertainment")
+B5("For labor")
+B6("For experimentation")
+B7("As pets or
+companions")
+B8("In contemporary<br>artwork")
+B9("In rituals")
 
 C1["Meat, milk, cheese,
 eggs, honey, foie gras,
@@ -33,7 +35,8 @@ C3["Leather, fur, wool,
 silk, feathers, wax …"]
 C4["Zoos, circuses, hunting, sport fishing,
 bullfighting and other entertainment
-using bulls, cockfighting, dog fighting …"]
+using bulls, cockfighting, dog fighting,
+horse racing, greyhound racing …"]
 C5["Transport or traction,
 police dogs, guide dogs …"]
 C6["Cosmetic and household
@@ -44,6 +47,9 @@ C8["Animals in filmed media,
 Damien Hirst : <i>Mother and Child Divided</i> (1993),
 Sun Yuan & Peng Yu : <i>Aquatic Wall</i> (1998)
 Marco Evaristti : <i>Helena</i> (2000) …"]
+C9["Animal sacrifice,
+animal festival,
+animal mummification"]
 
 B1 --- C1
 B2 --- C2
@@ -53,8 +59,9 @@ B5 --- C5
 B6 --- C6
 B7 --- C7
 B8 --- C8
+B9 --- C9
 
-A1 === B1 & B2 & B3 & B4 & B5 & B6 & B7 & B8
+A1 === B1 & B2 & B3 & B4 & B5 & B6 & B7 & B8 & B9
 ```
 
 ## Essay
