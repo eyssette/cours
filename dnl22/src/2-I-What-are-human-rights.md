@@ -21,6 +21,7 @@ Human rights are :
 2. High-priority rights
 
 - [Exercise](https://docs.google.com/document/d/10rx93e-FIk1IF0S5NfEo4lxS9ilOd3bECa04S7iMPrI/edit?usp=sharing)
+- [Mindmap](https://eyssette.github.io/mindmap/what-are-human-rights.svg)
 
 ### Three generation of human rights
 
