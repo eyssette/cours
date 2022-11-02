@@ -134,7 +134,7 @@ Lecture d'un texte de Ruth Amossy sur la [notion d'ethos chez Aristote et Goffma
 - Qu'est-ce que l'ethos selon Aristote ?
 - Qu'est-ce que l'ethos selon Goffman ?
 
-#### Tableau récapitulatif
+##### Tableau récapitulatif
 
 ||La notion d'_ethos_ <br>selon Aristote|La notion d'_ethos_ <br>d'après Goffman|
 |:-:|:-:|:-:|
@@ -143,7 +143,36 @@ Lecture d'un texte de Ruth Amossy sur la [notion d'ethos chez Aristote et Goffma
 |**Précisions**|Il y a des techniques du discours, un art de bien parler (= rhétorique) dont l'_ethos_ fait partie|Cette image de soi n'est pas le produit d'une technique, d'un calcul, elle est véhiculée de manière largement inconsciente et spontanée|
 |**Concepts importants**|- _Logos_ : discours rationnel fondé sur des arguments <br><br>- _Pathos_ : appel aux émotions, aux sentiments, à la sensibilité <br><br>- _Ethos_ : image de soi véhiculée dans le discours|- _Représentation_ : nous jouons un certains personnage <span>(_persona_ en latin = le masque de l'acteur)</span>, un certain rôle social <span>(métaphore théâtrale)</span><br><br>- _Gestion des impressions_ : nous suivons des normes sociales, des attentes (≠ un calcul conscient) et nous avons tendance à nous conformer à des règles implicites|
 
+#### La notion d'identité narrative
 
+Lecture d'un [texte sur la notion d'identité narrative](https://nuage03.apps.education.fr/index.php/s/e9XrBfg6CHkoLzL).
+
+Il y a différentes conceptions de l'identité personnelle.
+
+##### Les conceptions substantialistes
+Idée : Il y a en moi quelque chose qui reste le même et qui est le support de mon identité (= la substance du moi)
+- conceptions biologiques de l'identité :
+	- le moi = mon cerveau
+	- le moi = mes gènes
+- conceptions psychiques de l'identité :
+	- le moi = mon âme
+	- le moi = mon caractère
+
+Ces conceptions correspondent à ce que Ricœur nomme _l'idem_ ou la mêmeté.
+
+##### Les conceptions non-substantialistes
+Idée : L'identité n'est pas une chose qui serait déjà là quelque part, mais une construction
+
+- conception de l'identité comme engagement
+	- le moi = mes choix, mon projet (liés à des valeurs qui sont importantes pour moi)
+- conception mémorielle de l'identité
+	- le moi = un ensemble de souvenirs (qui comptent pour moi)
+
+Ces conceptions correspondent en partie à ce que Ricœur nomme _l'ipse_ ou l'ipséité.
+
+##### L'identité narrative
+
+Le concept d'identité narrative correspond à l'idée suivante : à travers un récit à propos de soi, chacun unifie l'ensemble de ses expériences vécues et se construit en se réappropriant son passé et ce qu'il est.
 
 ## Point méthode : construction d'un paragraphe argumentatif
 
