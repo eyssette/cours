@@ -113,7 +113,7 @@ Travail sur un [texte à propos de la sociolinguistique](https://nuage03.apps.ed
 - Analyse d'un extrait du documentaire _Baisemain et Mocassins_ : [lien](https://drive.google.com/file/d/1mekwiTlJzmrMroH9K26U7szn66uXTXJF/view?usp=sharing)
 	- Qu'est-ce qui dans la parole de cet adolescent révèle son appartenance à une classe sociale particulière ?
 
-<!-- ## Question 3 – La parole exprime-t-elle mon identité ?
+## Question 3 – La parole exprime-t-elle mon identité ?
 
 ### Mise en situation
 
@@ -130,5 +130,27 @@ Discussion en groupes autour de 6 questions :
 #### La notion d'_ethos_
 
 Lecture d'un texte de Ruth Amossy sur la [notion d'ethos chez Aristote et Goffman](https://nuage03.apps.education.fr/index.php/s/ybKAGnipM9qG5op)
-	- Qu'est-ce que l'ethos selon Aristote ?
-	- Qu'est-ce que l'ethos selon Goffman ? -->
+
+- Qu'est-ce que l'ethos selon Aristote ?
+- Qu'est-ce que l'ethos selon Goffman ?
+
+#### Tableau récapitulatif
+
+||La notion d'_ethos_ <br>selon Aristote|La notion d'_ethos_ <br>d'après Goffman|
+|:-:|:-:|:-:|
+|**Contexte**|La réflexion philosophique sur la parole en démocratie dans l'Antiquité|La sociologie contemporaine|
+|**Idée principale**|Quand nous prenons la parole en public, nous devons véhiculer une certaine image de nous-même pour pouvoir convaincre les autres <span>(confiance, crédibilité + engagement, dynamisme, activité + écoute, attention)</span>|Dans toutes les interactions sociales, nous véhiculons une certaine image de nous-même, et pas seulement à travers notre manière de parler <span>(ex. : les postures du corps)</span>|
+|**Précisions**|Il y a des techniques du discours, un art de bien parler (= rhétorique) dont l'_ethos_ fait partie|Cette image de soi n'est pas le produit d'une technique, d'un calcul, elle est véhiculée de manière largement inconsciente et spontanée|
+|**Concepts importants**|- _Logos_ : discours rationnel fondé sur des arguments <br><br>- _Pathos_ : appel aux émotions, aux sentiments, à la sensibilité <br><br>- _Ethos_ : image de soi véhiculée dans le discours|- _Représentation_ : nous jouons un certains personnage <span>(_persona_ en latin = le masque de l'acteur)</span>, un certain rôle social <span>(métaphore théâtrale)</span><br><br>- _Gestion des impressions_ : nous suivons des normes sociales, des attentes (≠ un calcul conscient) et nous avons tendance à nous conformer à des règles implicites|
+
+
+
+## Point méthode : construction d'un paragraphe argumentatif
+
+Pour rédiger un paragraphe argumentatif, on peut suivre le modèle ARES :
+- **A** : On formule son **A**rgument à partir de l'**A**nalyse des notions
+- **R** : On utilise une **R**éférence théorique (auteur·e, courant de pensée, vocabulaire philosophique précis) pour approfondir son idée
+- **E** : On montre la pertinence concrète de cette idée, à l'aide d'un **E**xemple
+- **S** : On fait une **S**ynthèse de son argument et on formule une réponse explicite à la question posée
+
+<style>table {font-size:0.8em;} table span {font-size:0.9em} td {text-align:left!important; padding:10px 20px!important;}</style>
