@@ -7,7 +7,7 @@
 - [Transcription dans le désordre : exercice de classement](https://docs.google.com/document/d/1aKxcSiYYrMAOMOv7_M6CJ2nP2lVdbHYsmovF9kxqd7s/edit?usp=sharing)
 - [Transcription dans l'ordre](https://docs.google.com/document/d/1QKGX159QHebX3CsE_R2VPi9fJrwkWk1tJ9Zbv5fZHWU/edit?usp=sharing)
 
-### Vocabulaire intéressants dans ce texte :
+### Vocabulaire intéressant dans ce texte :
 
 #### Vocabulaire général
 - What marks the difference between … and …?
