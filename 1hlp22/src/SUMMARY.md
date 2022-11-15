@@ -5,3 +5,4 @@
 - [Semestre 1 : Les pouvoirs de la parole](sem1.md)
 	- [Séquence 1 : Parler de soi](s1.md)
 		- [Chapitre 1 : La parole révélatrice et constitutive de notre identité](s1-ch1.md)
+		- [Chapitre 2 : L'expression des sentiments](s1-ch2.md)
