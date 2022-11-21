@@ -17,6 +17,7 @@ Deux sites utiles pour trouver des contacts :
 
 Il y aura plusieurs temps forts sur l'orientation dans l'académie cette année. Il faudra notamment noter les dates des grands salons de l'orientation quand elles seront publiées.
 
+- [Auvergne-Rhône-Alpes Orientation](https://www.auvergnerhonealpes-orientation.fr/)
 - [ONISEP : agenda de l'orientation, des salons et forums](http://www.onisep.fr/Pres-de-chez-vous/Auvergne-Rhone-Alpes/Lyon/Agenda-de-l-orientation/Salons-et-Forums/Calendrier-des-salons)
 - [Liste des actions d'information et d'orientation dans l'académie de Lyon](https://orientation.public.ac-lyon.fr/actions-information/)
 
@@ -96,10 +97,10 @@ En ligne, le site de l'ONISEP propose plusieurs ressources intéressantes :
 - [https://www.letudiant.fr/tag/classements.html](https://www.letudiant.fr/tag/classements.html)
 
 ### Des informations et des conseils sur les différentes formations dans le supérieur
-	- [http://www.letudiant.fr/etudes.html](http://www.letudiant.fr/etudes.html)
+- [http://www.letudiant.fr/etudes.html](http://www.letudiant.fr/etudes.html)
 
 ### Des informations sur différents métiers
-	- [http://www.letudiant.fr/metiers.html](http://www.letudiant.fr/metiers.html)
+- [http://www.letudiant.fr/metiers.html](http://www.letudiant.fr/metiers.html)
 
 ## 7/ Autres sites
 
@@ -133,35 +134,35 @@ Ils sont gratuits, avec parfois une option payante pour obtenir un certificat. M
 
 ### Pour le droit
 
-[Le droit, est-ce pour moi ?](https://www.fun-mooc.fr/en/cours/le-droit-est-ce-pour-moi/)
+[Le droit, est-ce pour moi ?](https://www.fun-mooc.fr/fr/cours/le-droit-est-ce-pour-moi/)
 
 ### Pour les études de santé
 
-[Mon métier de la santé](https://www.fun-mooc.fr/en/cours/mooc-mms-mon-metier-de-la-sante/)
+[Mon métier de la santé](https://www.fun-mooc.fr/fr/cours/mooc-mms-mon-metier-de-la-sante/)
 
 ### Pour STAPS
 
-[Introduction aux STAPS](https://www.fun-mooc.fr/en/cours/introduction-aux-staps/)
+[Introduction aux STAPS](https://www.fun-mooc.fr/fr/cours/introduction-aux-staps/)
 
 ### La psychologie à l'université
 
-[Introduction à la psychologie à l'université](https://www.fun-mooc.fr/en/cours/introduction-a-la-psychologie-a-luniversite/)
+[Introduction à la psychologie à l'université](https://www.fun-mooc.fr/fr/cours/introduction-a-la-psychologie-a-luniversite/)
 
 ### La prépa (classes préparatoires scientifiques, littéraires ou commerciales)
 
-[La prépa pour tous : oser et réussir](https://www.fun-mooc.fr/en/cours/la-prepa-pour-tous-oser-et-reussir/)
+[La prépa pour tous : oser et réussir](https://www.fun-mooc.fr/fr/cours/la-prepa-pour-tous-oser-et-reussir/)
 
 ### La faculté
 
 [La Fac, est-ce pour moi ?](https://www.fun-mooc.fr/fr/cours/la-fac-est-ce-pour-moi/)
 
-[Projet FAC : les recettes pour réussir en Sciences Humaines](https://www.fun-mooc.fr/en/cours/projet-fac-les-recettes-pour-reussir-en-sciences-humaines/)
+[Projet FAC : les recettes pour réussir en Sciences Humaines](https://www.fun-mooc.fr/fr/cours/projet-fac-les-recettes-pour-reussir-en-sciences-humaines/)
 
 [Le métier de l'étudiant : pour une adaptation réussie à l'université](https://www.fun-mooc.fr/fr/cours/le-metier-de-letudiant-pour-une-adaptation-reussie-luniversite/)
 
 ### Les IUT
 
-[Entrer à l'IUT : les codes pour booster ton dossier](https://www.fun-mooc.fr/en/cours/entrer-a-liut-les-codes-pour-booster-ton-dossier/)
+[Entrer à l'IUT : les codes pour booster ton dossier](https://www.fun-mooc.fr/fr/cours/entrer-a-liut-les-codes-pour-booster-ton-dossier/)
 
 ### La formation par apprentissage
 
@@ -169,15 +170,15 @@ Ils sont gratuits, avec parfois une option payante pour obtenir un certificat. M
 
 ### Les mathématiques dans l'enseignement supérieur
 
-[Introduction au raisonnement mathématique : préparation à l'entrée dans l'enseignement supérieur](https://www.fun-mooc.fr/en/cours/introduction-au-raisonnement-mathematique-preparation-a-lentree-dans-lenseignement-superieur/)
+[Introduction au raisonnement mathématique : préparation à l'entrée dans l'enseignement supérieur](https://www.fun-mooc.fr/fr/cours/introduction-au-raisonnement-mathematique-preparation-a-lentree-dans-lenseignement-superieur/)
 
-[Mathématiques : préparation à l'entrée dans l'enseignement supérieur](https://www.fun-mooc.fr/en/cours/mathematiques-preparation-a-lentree-dans-lenseignement-superieur/)
+[Mathématiques : préparation à l'entrée dans l'enseignement supérieur](https://www.fun-mooc.fr/fr/cours/mathematiques-preparation-a-lentree-dans-lenseignement-superieur/)
 
-[Socle en Mathématiques](https://www.fun-mooc.fr/en/cours/socle-en-mathematiques/)
+[Socle en Mathématiques](https://www.fun-mooc.fr/fr/cours/socle-en-mathematiques/)
 
 ### Les sciences dans l'enseignement supérieur
 
-[De l'atome à l'humain : la racine des mots scientifiques](https://www.fun-mooc.fr/en/cours/de-latome-a-lhumain-a-la-racine-des-mots-scientifiques/)
+[De l'atome à l'humain : la racine des mots scientifiques](https://www.fun-mooc.fr/fr/cours/de-latome-a-lhumain-a-la-racine-des-mots-scientifiques/)
 
 [Chimie : ouvrez les portes de l’enseignement supérieur !](https://www.fun-mooc.fr/fr/cours/chimie-ouvrez-les-portes-de-lenseignement-superieur/)
 
@@ -196,21 +197,21 @@ Ils sont gratuits, avec parfois une option payante pour obtenir un certificat. M
 
 ### Présentation de métiers dans différentes filières
 
-[Les métiers du numérique pour inventer le monde de demain](https://www.fun-mooc.fr/en/cours/les-metiers-du-numerique-pour-inventer-le-monde-de-demain/)
+[Les métiers du numérique pour inventer le monde de demain](https://www.fun-mooc.fr/fr/cours/les-metiers-du-numerique-pour-inventer-le-monde-de-demain/)
 
 [Têtes chercheuses, les métiers de la recherche](https://www.fun-mooc.fr/fr/cours/tetes-chercheuses-les-metiers-de-la-recherche/)
 
-[Les métiers du patrimoine culturel](https://www.fun-mooc.fr/en/cours/metiers-du-patrimoine-culturel/)
+[Les métiers du patrimoine culturel](https://www.fun-mooc.fr/fr/cours/metiers-du-patrimoine-culturel/)
 
-[Les métiers de la géographie](https://www.fun-mooc.fr/en/cours/les-metiers-de-la-geographie/)
+[Les métiers de la géographie](https://www.fun-mooc.fr/fr/cours/les-metiers-de-la-geographie/)
 
-[Les métiers du vivant](https://www.fun-mooc.fr/en/cours/les-metiers-du-vivant/)
+[Les métiers du vivant](https://www.fun-mooc.fr/fr/cours/les-metiers-du-vivant/)
 
-[Les métiers de la comptabilité et de la gestion](https://www.fun-mooc.fr/en/cours/les-metiers-de-la-comptabilite-et-de-la-gestion/)
+[Les métiers de la comptabilité et de la gestion](https://www.fun-mooc.fr/fr/cours/les-metiers-de-la-comptabilite-et-de-la-gestion/)
 
 [À la découverte des métiers de l’ingénierie industrielle de demain](https://www.fun-mooc.fr/fr/cours/a-la-decouverte-des-metiers-de-lingenierie-industrielle-de-demain/)
 
-[Cap sur les métiers de la chimie de demain](https://www.fun-mooc.fr/en/cours/cap-sur-les-metiers-de-la-chimie-de-demain/)
+[Cap sur les métiers de la chimie de demain](https://www.fun-mooc.fr/fr/cours/cap-sur-les-metiers-de-la-chimie-de-demain/)
 
 [À la découverte des métiers de la transition écologique, créatrice d'emplois](https://www.fun-mooc.fr/fr/cours/la-decouverte-des-metiers-de-la-transition-ecologique-creatrice/)
 
