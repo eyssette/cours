@@ -1,4 +1,6 @@
-# D. Réunion parents/PP
+# D. Réunion parents - PP
+
+[Diaporama utilisé par le professeur principal](https://eyssette.github.io/marp-slides/slides/2022-2023/reunion-parents-PP.html)
 
 [Support de présentation proposé par le lycée](https://nuage03.apps.education.fr/index.php/s/yBbH4NsLP6F9AW6)
 
