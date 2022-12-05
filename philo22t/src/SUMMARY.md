@@ -6,3 +6,5 @@
 	- [Chapitre 1 : La liberté](ch1.md)
 		- [Question 1 : Comment peut-on être libre ?](s1-ch1-q1.md)
 		- [Question 2 : Y a-t-il des limites morales à la liberté ?](s1-ch1-q2.md)
+	- [Chapitre 2 : La politique](ch2.md)
+		- [Question 1 : De quel droit l'État exerce-t-il un pouvoir sur nous ?](s1-ch2-q1.md)
