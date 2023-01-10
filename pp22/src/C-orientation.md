@@ -66,9 +66,9 @@ Attention, il y a quelques lieux de formation pour lesquels l'inscription se fai
 
 ### Terminales 2022-2023
 
-Le ministère a également créé un site dédié à l'information sur l'orientation pour les terminales. La version 2022-2023 n'est pas encore en ligne, mais vous pouvez pour le moment accéder au site de l'année dernière :
+Le ministère a également créé un site dédié à l'information sur l'orientation pour les terminales :
 
-- [http://www.terminales2021-2022.fr/](http://www.terminales2021-2022.fr/)
+- [https://www.terminales2022-2023.fr/](https://www.terminales2022-2023.fr/)
 
 ## 5/ Les ressources de l'ONISEP
 
