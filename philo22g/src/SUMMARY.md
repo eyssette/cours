@@ -12,6 +12,7 @@
 - [Séquence 2 : Philosophie de l'esprit](s2.md)
 	- [Chap. 3 : La notion de personne](s2-ch3.md)
 		- [T1 – Locke](s2-ch3-t1.md)
+		- [T2 – Sartre](s2-ch3-t2.md)
 
 ---
 - [Méthode de la dissertation](methode-dissertation.md)
