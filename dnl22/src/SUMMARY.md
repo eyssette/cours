@@ -8,5 +8,6 @@
 	- [I – Animal Ethics](1T-I-Animal-ethics.md)
 		- [A. Do animals have minds?](1T-I-A-Do-animals-have-minds.md)
 		- [B. The moral status of animals](1T-I-B-Moral-status-of-animals.md)
+		- [C. Applied Animal Ethics](1T-I-C-Applied-Animal-Ethics.md)
 
 <!-- ! TODO : l'année prochaine, utiliser des "séquences" / "chapitres" -->
