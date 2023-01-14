@@ -1,29 +1,29 @@
 pages:
   script:
     - mkdir .public
-    # - mkdir .public/1hlp22
-    # - cp -r 1hlp22/c/* .public/1hlp22/
-    # - mkdir .public/dnl21
-    # - cp -r dnl21/c/* .public/dnl21/
-    # - mkdir .public/dnl22
-    # - cp -r dnl22/c/* .public/dnl22/
-    # - mkdir .public/form-ent
-    # - cp -r form-ent/c/* .public/form-ent/
-    # - mkdir .public/form-num
-    # - cp -r form-num/c/* .public/form-num/
-    # - mkdir .public/philo21g
-    # - cp -r philo21g/c/* .public/philo21g/
-    # - mkdir .public/philo21t
-    # - cp -r philo21t/c/* .public/philo21t/
-    # - mkdir .public/philo22g
-    # - cp -r philo22g/c/* .public/philo22g/
+    - mkdir .public/1hlp22
+    - cp -r 1hlp22/c/* .public/1hlp22/
+    - mkdir .public/dnl21
+    - cp -r dnl21/c/* .public/dnl21/
+    - mkdir .public/dnl22
+    - cp -r dnl22/c/* .public/dnl22/
+    - mkdir .public/form-ent
+    - cp -r form-ent/c/* .public/form-ent/
+    - mkdir .public/form-num
+    - cp -r form-num/c/* .public/form-num/
+    - mkdir .public/philo21g
+    - cp -r philo21g/c/* .public/philo21g/
+    - mkdir .public/philo21t
+    - cp -r philo21t/c/* .public/philo21t/
+    - mkdir .public/philo22g
+    - cp -r philo22g/c/* .public/philo22g/
     - mkdir .public/philo22t
     - cp -r philo22t/c/* .public/philo22t/
-    # - mkdir .public/pp21
-    # - cp -r pp21/c/* .public/pp21/
-    # - mkdir .public/pp22
-    # - cp -r pp22/c/* .public/pp22/
-    # - mv .public public
+    - mkdir .public/pp21
+    - cp -r pp21/c/* .public/pp21/
+    - mkdir .public/pp22
+    - cp -r pp22/c/* .public/pp22/
+    - mv .public public
   artifacts:
     paths:
       - public
