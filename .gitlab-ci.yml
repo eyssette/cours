@@ -1,8 +1,8 @@
 pages:
   script:
     - mkdir .public
-    - cp -r 1hlp22/c/* .public/1hlp22/c/
-    - cp -r dnl21/c/* .public/dnl21/c/
+    - cp -r /1hlp22/c/* .public/1hlp22/c/
+    - cp -r /dnl21/c/* .public/dnl21/c/
     - mv .public public
   artifacts:
     paths:
