@@ -2,8 +2,7 @@ pages:
   script:
     - mkdir .public
     - mkdir .public/1hlp22
-    - mkdir .public/1hlp22/c
-    - cp -r 1hlp22/c/* .public/1hlp22/c/
+    - cp -r 1hlp22/c/* .public/1hlp22/
     - mv .public public
   artifacts:
     paths:
