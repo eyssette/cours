@@ -13,6 +13,8 @@
 	- [Chap. 3 : La notion de personne](s2-ch3.md)
 		- [T1 – Locke](s2-ch3-t1.md)
 		- [T2 – Sartre](s2-ch3-t2.md)
+	- [Chap. 4 : Le libre arbitre](s2-ch4.md)
+		- [Q1 – Peut-on prouver l'existence du libre arbitre ?](s2-ch4-q1.md)
 
 ---
 - [Méthode de la dissertation](methode-dissertation.md)
