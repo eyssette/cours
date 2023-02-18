@@ -9,3 +9,7 @@
 	- [Chapitre 2 : La politique](ch2.md)
 		- [Question 1 : De quel droit l'État exerce-t-il un pouvoir sur nous ?](s1-ch2-q1.md)
 		- [Question 2 : Qu'est-ce que la justice sociale ?](s1-ch2-q2.md)
+- [Séquence 2 : Philosophie de la culture](s2.md)
+	- [Chapitre 3 : L'art](ch3.md)
+		- [Question 1 : La valeur d'une œuvre d'art réside-t-elle dans sa beauté ?](s2-ch3-q1.md)
+		- [Question 2 : Est-ce le génie de l'artiste qui fait la valeur d'une œuvre ?](s2-ch3-q2.md)
