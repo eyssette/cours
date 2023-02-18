@@ -15,6 +15,7 @@
 		- [T2 – Sartre](s2-ch3-t2.md)
 	- [Chap. 4 : Le libre arbitre](s2-ch4.md)
 		- [Q1 – Peut-on prouver l'existence du libre arbitre ?](s2-ch4-q1.md)
+		- [Q2 – Nos choix sont-ils déterminés par des facteurs que nous ne maîtrisons pas ?](s2-ch4-q2.md)
 
 ---
 - [Méthode de la dissertation](methode-dissertation.md)
