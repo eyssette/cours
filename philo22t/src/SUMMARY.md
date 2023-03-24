@@ -13,3 +13,4 @@
 	- [Chapitre 3 : L'art](ch3.md)
 		- [Question 1 : La valeur d'une œuvre d'art réside-t-elle dans sa beauté ?](s2-ch3-q1.md)
 		- [Question 2 : Est-ce le génie de l'artiste qui fait la valeur d'une œuvre ?](s2-ch3-q2.md)
+		- [Question 3 : L'œuvre d'art ne vaut-elle que par ce qu'elle nous apporte ?](s2-ch3-q3.md)
