@@ -9,7 +9,7 @@ Trois sens de la notion d'identité
 flowchart LR
 A1(["Trois sens  <br>de la notion <br> d'identité"])
 
-B1("L'identité <br>personnelle")
+B1("L'identité <br>humaine")
 B2("L'identité <br>sociale")
 B3("L'identité <br>personnelle")
 
@@ -18,9 +18,9 @@ A1 === B1 & B2 & B3
 ```admonish abstract collapsible=true title="Afficher le texte de cette carte mentale"
 
 Trois sens de la notion d'identité :
-1. L'identité personnelle
+1. L'identité humaine
 2. l'identité sociale
-3. l'identité humaine
+3. l'identité personnelle
 
 ```
 
