@@ -16,3 +16,4 @@
 		- [Question 3 : L'œuvre d'art ne vaut-elle que par ce qu'elle nous apporte ?](s2-ch3-q3.md)
 	- [Chapitre 4 : La technique](ch4.md)
 		- [Question 1 : La technique permet-elle de maîtriser la nature ?](s2-ch4-q1.md)
+		- [Question 2 : Le développement technique transforme-t-il les êtres humains ?](s2-ch4-q2.md)
