@@ -18,12 +18,17 @@
 		- [Q2 – Nos choix sont-ils déterminés par des facteurs que nous ne maîtrisons pas ?](s2-ch4-q2.md)
 - [Séquence 3 : Philosophie de la culture](s3.md)
 	- [Chapitre 5 : L'art](s3-ch5.md)
-		- [Question 1 : La valeur d'une œuvre d'art réside-t-elle dans sa beauté ?](s3-ch5-q1.md)
-		- [Question 2 : Est-ce le génie de l'artiste qui fait la valeur d'une œuvre ?](s3-ch5-q2.md)
-		- [Question 3 : L'œuvre d'art ne vaut-elle que par ce qu'elle nous apporte ?](s3-ch5-q3.md)
+		- [Q1 : La valeur d'une œuvre d'art réside-t-elle dans sa beauté ?](s3-ch5-q1.md)
+		- [Q2 : Est-ce le génie de l'artiste qui fait la valeur d'une œuvre ?](s3-ch5-q2.md)
+		- [Q3 : L'œuvre d'art ne vaut-elle que par ce qu'elle nous apporte ?](s3-ch5-q3.md)
 	- [Chapitre 6: La technique](s3-ch6.md)
-		- [Question 1 : La technique permet-elle de maîtriser la nature ?](s3-ch6-q1.md)
-		- [Question 2 : Le développement technique transforme-t-il les êtres humains ?](s3-ch6-q2.md)
+		- [Q1 : La technique permet-elle de maîtriser la nature ?](s3-ch6-q1.md)
+		- [Q2 : Le développement technique transforme-t-il les êtres humains ?](s3-ch6-q2.md)
+- [Séquence 4 : Philosophie sociale et politique](s4.md)
+	- [Chapitre 7 : Étude d'une œuvre suivie](s4-ch7.md)
+	- [Chapitre 8 : La politique](s4-ch8.md)
+		- [Q1 – De quel droit l'État exerce-t-il un pouvoir sur nous ?](s4-ch8-q1.md)
+		<!-- - [Q2 – Qu'est-ce que la justice sociale ?](s4-ch8-q2.md) -->
 
 ---
 - [Méthode de la dissertation](methode-dissertation.md)
