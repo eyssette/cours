@@ -17,3 +17,6 @@
 	- [Chapitre 4 : La technique](ch4.md)
 		- [Question 1 : La technique permet-elle de maîtriser la nature ?](s2-ch4-q1.md)
 		- [Question 2 : Le développement technique transforme-t-il les êtres humains ?](s2-ch4-q2.md)
+- [Séquence 3 : Philosophie de la connaissance](s3.md)
+	- [Chapitre 5 : La vérité](ch5.md)
+		- [Question 1 : Peut-on dire « à chacun sa vérité » ?](s3-ch5-q1.md)
