@@ -28,7 +28,11 @@
 	- [Chapitre 7 : Étude d'une œuvre suivie](s4-ch7.md)
 	- [Chapitre 8 : La politique](s4-ch8.md)
 		- [Q1 – De quel droit l'État exerce-t-il un pouvoir sur nous ?](s4-ch8-q1.md)
-		<!-- - [Q2 – Qu'est-ce que la justice sociale ?](s4-ch8-q2.md) -->
+		- [Q2 – Comment peut-on parvenir à une société plus juste ?](s4-ch8-q2.md)
+- [Séquence 5 : Épistémologie et métaphysique](s5.md)
+	- [Chapitre 9 : La vérité](s5-ch9.md)
+		- [Q1 - Peut-on vraiment parvenir à la vérité ?](s5-ch9-q1.md)
+		<!-- - [Q2 – À quelles conditions une connaissance peut-elle être considérée comme scientifique ?](s5-ch9.md) -->
 
 ---
 - [Méthode de la dissertation](methode-dissertation.md)

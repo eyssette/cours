@@ -1,6 +1,4 @@
-# Chapitre 6: La technique
-
-[diapo:s3-ch6,h3]
+# Chapitre 9 : La vérité
 
 ## Contenu de ce chapitre
 
