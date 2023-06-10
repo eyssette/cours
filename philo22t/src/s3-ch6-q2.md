@@ -1,0 +1,37 @@
+# Question 2 : La foi peut-elle être justifiée ?
+
+## I – Les arguments en faveur de l'existence de Dieu
+
+### A. L'argument cosmologique
+
+L'argument cosmologique prétend que s'il y a une raison qui explique l'existence de toute chose, alors il doit y avoir une raison qui explique l'existence du monde, et cela ne pourrait être que Dieu.
+
+**Problème :** l'argument cosmologique cherche à répondre à une question qui exprime un besoin de la raison (trouver une explication à l'existence même des choses), mais l'affirmation de l'existence d'une cause du monde hors du monde dépasse ce que la raison peut justifier.
+
+### B. L'argument téléologique
+
+L'argument téléologique prétend que le degré de complexité dans le monde (notamment la présence d'êtres organisés, d'êtres intelligents) ne peut s'expliquer que par l'existence d'une cause intelligente : Dieu.
+L'argument se fonde sur une analogie avec la complexité d'une montre découverte sur une île : on ne pourrait expliquer son existence qu'en supposant un horloger qui a construit cette montre.
+
+**Problème :** l'argument téléologique prétend que la complexité dans le monde est l'effet d'une cause intelligente, mais il existe de plus en plus de modèles scientifiques naturalistes pour expliquer la complexité sans faire appel à une cause intelligente (p.ex. : la théorie de l'évolution) et le recours à Dieu n'apporte pas une réelle explication de la complexité observée dans le monde.
+
+## II – Les arguments à l'encontre de l'existence de Dieu
+
+### A. L'argument de l'absence d'observation de Dieu
+
+On ne peut pas observer directement Dieu, à moins de prétendre avoir vécu une expérience mystique mais qui ne pourra pas convaincre quelqu'un qui ne l'a pas vécu.
+
+**Problème :** l'absence d'observation n'est pas une preuve définitive de l'absence de l'existence de Dieu.
+
+### B. L'argument du mal
+
+L'argument du mal prétend que l'existence du mal est incompatible avec l'existence d'un être bienveillant, omniscient et omnipotent. Si Dieu est bon, sait tout et peut tout, comment peut-il laisser le mal exister dans le monde ?
+
+**Problèmes :**
+
+Il existe des tentatives de justification de l'existence de Dieu contre l'argument du mal : on les appelle des théodicées.
+Certaines théodicées affirment que le mal est une épreuve ou un effet du libre arbitre humain, mais cela explique mal l'existence de certaines formes du mal : le mal absolu (qui peut difficilement être conçu comme une simple épreuve) ou le mal naturel (qui n'est pas produit par des êtres humains).
+
+Cependant un croyant peut considérer que le mal est finalement un mystère pour la raison humaine, qui, en raison de sa finitude, ne pourrait comprendre les raisons de Dieu. 
+
+

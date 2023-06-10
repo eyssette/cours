@@ -33,6 +33,9 @@
 	- [Chapitre 9 : La vérité](s5-ch9.md)
 		- [Q1 - Peut-on vraiment parvenir à la vérité ?](s5-ch9-q1.md)
 		<!-- - [Q2 – À quelles conditions une connaissance peut-elle être considérée comme scientifique ?](s5-ch9.md) -->
+	- [Chapitre 10 : La religion](s5-ch10.md)
+		- [Q1 - Peut-on expliquer le fait religieux ?](s5-ch10-q1.md)
+		- [Q2 - La foi peut-elle être justifiée ?](s5-ch10-q2.md)
 
 ---
 - [Méthode de la dissertation](methode-dissertation.md)
