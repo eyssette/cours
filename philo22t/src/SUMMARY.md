@@ -16,3 +16,23 @@
 		- [Question 3 : L'œuvre d'art ne vaut-elle que par ce qu'elle nous apporte ?](s2-ch3-q3.md)
 	- [Chapitre 4 : La technique](ch4.md)
 		- [Question 1 : La technique permet-elle de maîtriser la nature ?](s2-ch4-q1.md)
+		- [Question 2 : Le développement technique transforme-t-il les êtres humains ?](s2-ch4-q2.md)
+- [Séquence 3 : Philosophie de la connaissance](s3.md)
+	- [Chapitre 5 : La vérité](ch5.md)
+		- [Question 1 : Peut-on dire « à chacun sa vérité » ?](s3-ch5-q1.md)
+		- [Question 2 : Peut-on douter de tout ?](s3-ch5-q2.md)
+	- [Chapitre 6 : La religion](ch6.md)
+		- [Question 1 : Peut-on expliquer le fait religieux ?](s3-ch6-q1.md)
+		- [Question 2 : La foi peut-elle être justifiée ?](s3-ch6-q2.md)
+
+
+---
+- [Méthode de la dissertation](methode-dissertation.md)
+- [Méthode de l'explication de texte](methode-explication.md)
+<!-- - [Moteurs de recherche](moteurs-de-recherche.md)
+- [Sélection de chaînes vidéo](selection-chaines-video.md)
+
+---
+
+- [Révisions](revisions.md)
+	<!-- - [Les philosophes vus en cours](frise-chronologique.md) --> -->
