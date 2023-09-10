@@ -58,9 +58,9 @@ Pour un accès à d'autres ressources, vous pouvez voir ma [page de présentatio
 ### Formations pédagogiques avec le Groupe Ressources de l'Académie de Lyon
 
 - [Utiliser des exemples en cours de philosophie](https://eyssette.github.io/marp-slides/slides/2021-2022/formation-utilisation-exemples-cours-philosophie.html)
-- [La mise en activité des élèves dans le cours de philosophie](http://aclyon-philosophie.fr/?p=779)
-- [L’évaluation : du choix du sujet à sa correction](http://aclyon-philosophie.fr/?p=689)
-- [Le travail sur l’œuvre suivie en cours de philosophie](http://aclyon-philosophie.fr/?p=718)
-- [Travailler la conceptualisation en cours de philosophie](http://aclyon-philosophie.fr/?p=848)
-- [Le travail sur la notion de technique en cours de philosophie](http://aclyon-philosophie.fr/?p=759)
-- [Travailler sur le vivant en cours de philosophie](http://aclyon-philosophie.fr/?p=801)
+- [La mise en activité des élèves dans le cours de philosophie](https://philosophie.enseigne.ac-lyon.fr/wordpress/2017/11/02/la-mise-en-activite-des-eleves-dans-le-cours-de-philosophie-2017/)
+- [L’évaluation : du choix du sujet à sa correction](https://philosophie.enseigne.ac-lyon.fr/wordpress/2015/06/26/levaluation-du-choix-du-sujet-a-sa-correction/)
+- [Le travail sur l’œuvre suivie en cours de philosophie](https://philosophie.enseigne.ac-lyon.fr/wordpress/2016/07/07/le-travail-sur-loeuvre-suivie-en-cours-de-philosophie/)
+- [Travailler la conceptualisation en cours de philosophie](https://philosophie.enseigne.ac-lyon.fr/wordpress/2019/05/04/travailler-la-conceptualisation-en-cours-de-philosophie-formation-du-groupe-ressources/)
+- [Le travail sur la notion de technique en cours de philosophie](https://philosophie.enseigne.ac-lyon.fr/wordpress/2017/07/20/penser-la-technique/)
+- [Travailler sur le vivant en cours de philosophie](https://philosophie.enseigne.ac-lyon.fr/wordpress/2018/06/27/travailler-sur-le-vivant-en-cours-de-philosophie/)
