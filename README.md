@@ -3,15 +3,27 @@ Pour un accès à d'autres ressources, vous pouvez voir ma [page de présentatio
 
 ---
 
-## Philosophie (terminales)
+## Année en cours
 
-### Année en cours
+### Philosophie (terminales)
+
+- [Cours de philosophie (2023-2024) pour les séries générales](https://eyssette.github.io/cours/philo22g/c/)
+
+<!-- 
+### HLP (1ères)
+
+### DNL
+
+### Site en tant que professeur principal
+
+-->
+
+## Années précédentes
+
+### Philosophie (terminales)
 
 - [Cours de philosophie (2022-2023) pour les séries générales](https://eyssette.github.io/cours/philo22g/c/)
 - [Cours de philosophie (2022-2023) pour les séries technologiques](https://eyssette.github.io/cours/philo22t/c/)
-
-### Années précédentes
-
 - [Cours de philosophie (2021-2022) pour les séries générales](https://eyssette.github.io/cours/philo21g/c/)
 - [Cours de philosophie (2021-2022) pour les séries technologiques](https://eyssette.github.io/cours/philo21t/c/)
 - [Cours de philosophie (2020-2021) pour les séries générales](https://sites.google.com/view/eyssette2021tg)
@@ -19,20 +31,16 @@ Pour un accès à d'autres ressources, vous pouvez voir ma [page de présentatio
 - [Questions de révisions du cours de philosophie (2018-2019) pour les séries générales](https://dynalist.io/d/179Y1nSvDKEutZgXlR61xnI8)
 - [Ancien blog de partage de cours](https://eyssette.github.io/ancien-blog/)
 
----
-
-## HLP
+### HLP
 
 - [HLP Premières (2022-2023)](https://eyssette.github.io/cours/1hlp22/c/)
 
----
-
-## Section Euro Anglais : DNL
+### Section Euro Anglais : DNL
 
 - [Cours de DNL Philo/Anglais (2022-2023)](https://eyssette.github.io/cours/dnl22/c/)
 - [Cours de DNL Philo/Anglais (2021-2022)](https://eyssette.github.io/cours/dnl21/c/)
 
-## Site en tant que professeur principal
+### Site en tant que professeur principal
 
 - [TG5 : le site de votre professeur principal (2022-2023)](https://eyssette.github.io/cours/pp22/c/) 
 - [TG8 : le site de votre professeur principal (2021-2022)](https://eyssette.github.io/cours/pp21/c/)
