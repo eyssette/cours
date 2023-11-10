@@ -7,7 +7,7 @@ Pour un accès à d'autres ressources, vous pouvez voir ma [page de présentatio
 
 ### Philosophie (terminales)
 
-- [Cours de philosophie (2023-2024) pour les séries générales](https://eyssette.github.io/cours/philo23g/c/)
+- [Cours de philosophie (2023-2024) pour les séries générales](https://eyssette.github.io/cours/philo23/c/)
 
 <!-- 
 ### HLP (1ères)
