@@ -1,0 +1,51 @@
+[book]
+authors = ["Cédric Eyssette"]
+language = "fr"
+multilingual = false
+src = "src"
+title = "Cours de philosophie en série générale (2023-2024) - M. Eyssette"
+description = "Cours de philosophie en série générale (2023-2024) - M. Eyssette"
+
+[build]
+build-dir = "c"
+
+[preprocessor]
+
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "2.0.0" # do not edit: managed by `mdbook-admonish install`
+
+[preprocessor.emojis]
+command = "python3 emojis.py"
+
+[preprocessor.regex-replacer]
+command="mdbook-regex-replacer"
+
+[[preprocessor.regex-replacer.items]]
+regex="==(?P<c>.+?)=="
+rep="<mark>$c</mark>"
+
+[[preprocessor.regex-replacer.items]]
+regex="(.*)\\n: (.*)"
+rep="<dl><dt>$1</dt><dd>$2</dd></dl>"
+
+[[preprocessor.regex-replacer.items]]
+regex="\\[diapo:(.*),h(\\d)\\]"
+rep='<h$2 id="diaporama-$1"><a class="header header-h$2" href="#diaporama-$1">Diaporama</a></h$2><iframe src="https://eyssette.github.io/marp-slides/slides/2023-2024/$1.html"></iframe>'
+
+[[preprocessor.regex-replacer.items]]
+regex="\\[diapo:(.*)\\]"
+rep='<h2 id="diaporama-$1"><a class="header header-h2" href="#diaporama-$1">Diaporama</a></h2><iframe src="https://eyssette.github.io/marp-slides/slides/2023-2024/$1.html"></iframe>'
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[output.html]
+no-section-label = true
+additional-css = ["custom.css", "sidebar-toc.css", "././mdbook-admonish.css"]
+additional-js = ["custom.js", "sidebar-toc.js", "mermaid.min.js", "mermaid-init.js"]
+git-repository-url = "https://github.com/eyssette/cours/"
+
+[output.html.fold]
+enable = true
+level = 2
