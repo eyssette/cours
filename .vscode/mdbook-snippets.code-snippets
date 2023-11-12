@@ -1,0 +1,7 @@
+{
+	"admonition" : {
+		"prefix": "admonition",
+		"body": "```admonish title=\"$1\" collapsible=true\n$2\n```",
+		"description": "admonition"
+	}
+}

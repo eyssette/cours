@@ -1,3 +1,5 @@
 # Q1a – Peut-on savoir ce qu'est le bonheur ?
 
-[diapo:s1-ch1-q1a,h3]
+![](https://eyssette.github.io/marp-slides/slides/images/lesly-CHO.jpg)
+
+[diapo:s1-ch1-q1a]

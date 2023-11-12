@@ -1,4 +1,4 @@
-// Source : https://github.com/evan361425/evan361425.github.io
+// https://github.com/evan361425/evan361425.github.io/blob/935185b7ea1e2e89aa9c0a79bcc26b44dff5550b/pagetoc.js
 // Referrer: https://github.com/JorelAli/mdBook-pagetoc/blob/master/sidebar.js
 // Populate sidebar on load
 window.addEventListener("load", function () {
@@ -13,14 +13,13 @@ window.addEventListener("load", function () {
 	  var pagetocLink = document.createElement("a");
 	  var tagName = header.parentElement.tagName.toLowerCase();
 	  // no need h1, h5~h6
-	  if (!["h2"].includes(tagName)) return;
-  
+	  if (["h2"].includes(tagName) || ["h3"].includes(tagName)) {
 	  pagetocLink.appendChild(document.createTextNode(header.text));
 	  pagetocLink.classList.add(tagName);
 	  pagetocLink.href = header.href;
 	  pagetocLink.setAttribute("data-referrer", header.parentElement.id);
-  
 	  pagetoc.appendChild(pagetocLink);
+	}
 	});
   
 	// Active pagetoc element on scroll

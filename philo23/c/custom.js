@@ -44,3 +44,21 @@ for (var i = 0; i < x.length; i++) {
     button.classList.add('source-iframe');
     x[i].after(button);
 }
+
+// Masquer le contenu d'un élément details en cliquant sur son contenu
+const detailsElements = document.querySelectorAll('details');
+    detailsElements.forEach(detailsElement => {
+        detailsContent = detailsElement.querySelector('summary + div');
+        detailsContent.addEventListener('click', () => {
+            detailsElement.open = !detailsElement.open;
+        });
+    });
+
+// Pour les éléments sans contenu dans la sidebar : un clic permet d'ouvrir / masquer le contenu
+var sidebarElementWithNoContentToggles = document.querySelectorAll('.chapter-item div');
+function toggleSection(ev) {
+    ev.currentTarget.parentElement.classList.toggle('expanded');
+}
+Array.from(sidebarElementWithNoContentToggles).forEach(function (el) {
+    el.addEventListener('click', toggleSection);
+});
