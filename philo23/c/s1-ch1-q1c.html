@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="fr" class="light" dir="">
+<html lang="fr" class="light" dir="ltr">
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
@@ -188,7 +188,7 @@
                     <main>
                         <h1 id="q1c--que-pouvons-nous-face-au-tragique-de-lexistence-"><a class="header" href="#q1c--que-pouvons-nous-face-au-tragique-de-lexistence-">Q1c – Que pouvons-nous face au tragique de l'existence ?</a></h1>
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/StillLifeWithASkull.jpg/2880px-StillLifeWithASkull.jpg" alt="" /></p>
-<h2 id="diaporama-s1-ch1-q1c"><a class="header header-h2" href="#diaporama-s1-ch1-q1c">Diaporama</a></h2><a href="https://eyssette.github.io/marp-slides/slides/2023-2024/s1-ch1-q1c.html" class="slidesLink">Lien vers le diaporama</a>
+<h2 id="diaporama-s1-ch1-q1c"><a class="header" href="#diaporama-s1-ch1-q1c"><a class="header header-h2" href="#diaporama-s1-ch1-q1c">Diaporama</a></a></h2><a href="https://eyssette.github.io/marp-slides/slides/2023-2024/s1-ch1-q1c.html" class="slidesLink">Lien vers le diaporama</a>
                     </main>
 
                     <nav class="nav-wrapper" aria-label="Page navigation">
@@ -218,6 +218,22 @@
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 
