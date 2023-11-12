@@ -6,7 +6,7 @@ Bienvenue sur ce site, sur lequel vous retrouverez :
 2. La méthodologie et les devoirs
 3. Des outils pour réviser ou faire des recherches en philosophie
 
-![](https://eyssette.github.io/marp-slides/slides/images/being_a_philosopher_tee_shirt.png)
+![](https://cdn.jsdelivr.net/gh/eyssette/images@main/img/being-a-philosopher-tee-shirt.png)
 
 ## Mode d'emploi de ce site
 
