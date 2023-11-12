@@ -47,5 +47,7 @@ additional-js = ["custom.js", "sidebar-toc.js"]
 git-repository-url = "https://github.com/eyssette/cours/"
 
 [output.html.fold]
-enable = true
-level = 3
+enable = false
+
+[output.html.print]
+enable = false
