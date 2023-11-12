@@ -75,3 +75,27 @@ function toggleSection(ev) {
 Array.from(sidebarElementWithNoContentToggles).forEach(function (el) {
     el.addEventListener('click', toggleSection);
 });
+
+var themeToggleButton = document.getElementById('theme-toggle');
+
+var sidebarToggleButton = document.getElementById("sidebar-toggle");
+
+document.addEventListener('keydown', function (e) {
+    if (e.altKey || e.ctrlKey || e.metaKey || e.shiftKey) { return; }
+    if (window.search && window.search.hasFocus()) { return; }
+
+    switch (e.key) {
+        case 't':
+            e.preventDefault();
+            themeToggleButton.click();
+            break;
+        case 'p':
+            e.preventDefault();
+            sidebarToggleButton.click();
+            break;
+        case 'Escape':
+            e.preventDefault();
+            location.reload();
+            break;
+    }
+});
