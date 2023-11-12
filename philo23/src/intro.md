@@ -6,7 +6,7 @@
 
 ## Schéma récapitulatif
 
-[![Schéma récapitulatif du cours](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/introduction-philosophie-21.dot.svg)](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/introduction-philosophie-21.dot.svg)
+[![Schéma récapitulatif du cours](https://raw.githubusercontent.com/eyssette/mindmap/main/qu-est-ce-que-la-philosophie.svg)](https://raw.githubusercontent.com/eyssette/mindmap/main/qu-est-ce-que-la-philosophie.svg)
 
 
 ## Questions de révision

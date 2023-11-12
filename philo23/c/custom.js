@@ -1,3 +1,16 @@
+function subPages() {
+    var el = document.getElementsByClassName('active')[0];
+    var elParent = el.parentNode;
+    var nextElParent = elParent.nextSibling;
+    if (nextElParent) {
+        var childNextElParent = nextElParent.firstChild;
+        var newEl = childNextElParent.cloneNode(true);
+        var main = document.getElementsByTagName('main');
+        main[0].appendChild(newEl);
+        document.querySelectorAll('main a.toggle').forEach(e => e.remove());
+    }
+}
+
 // Changement du caractère indiquant des sous-rubriques
 var x = document.querySelectorAll(".sidebar-scrollbox .toggle div");
 for (var i = 0; i < x.length; i++) {

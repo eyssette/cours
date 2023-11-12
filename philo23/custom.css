@@ -30,21 +30,12 @@ main {
 	margin-top: 4vh;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 1900px) {
 	#content {
 		font-size: 1.6rem;
 	}
 	.sidebar {
 		font-size: 1.4rem;
-	}
-}
-
-@media screen and (min-width: 651px) and (max-width: 1000px) {
-	#content {
-		font-size: 1.8rem;
-	}
-	.sidebar {
-		font-size: 1.5rem;
 	}
 }
 
@@ -220,7 +211,8 @@ li li {
 
 h2 {
 	text-align: center;
-  padding-top:0.5em;
+  	padding-top:0.5em;
+	margin-top:1.5em;
 }
 
 img {
@@ -232,6 +224,17 @@ img {
 
 img[src*=".svg"] {
   max-height:unset!important;
+  background:white!important;
+  padding:1em;
+}
+
+@media screen and (max-width:1900px) {
+	img {
+		max-height:300px!important;
+	}
+	img[src*=".svg"] {
+		max-height:500px!important;
+	}
 }
 
 a.admonition-anchor-link:link,

@@ -13,8 +13,8 @@ build-dir = "c"
 
 [preprocessor.admonish]
 command = "mdbook-admonish"
-assets_version = "2.0.0" # do not edit: managed by `mdbook-admonish install`
-default.collapsible = true
+assets_version = "3.0.0" # do not edit: managed by `mdbook-admonish install`
+default.collapsible = false
 
 [preprocessor.emojis]
 command = "python3 emojis.py"
@@ -38,13 +38,10 @@ rep='<h$2 id="diaporama-$1"><a class="header header-h$2" href="#diaporama-$1">Di
 regex="\\[diapo:(.*)\\]"
 rep='<h2 id="diaporama-$1"><a class="header header-h2" href="#diaporama-$1">Diaporama</a></h2><a href="https://eyssette.github.io/marp-slides/slides/2023-2024/$1.html" class="slidesLink">Lien vers le diaporama</a>'
 
-[preprocessor.mermaid]
-command = "mdbook-mermaid"
-
 [output.html]
 no-section-label = true
 additional-css = ["custom.css", "sidebar-toc.css", "././mdbook-admonish.css"]
-additional-js = ["custom.js", "sidebar-toc.js", "mermaid.min.js", "mermaid-init.js"]
+additional-js = ["custom.js", "sidebar-toc.js"]
 git-repository-url = "https://github.com/eyssette/cours/"
 
 [output.html.fold]
