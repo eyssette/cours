@@ -39,6 +39,8 @@ regex="\\[diapo:(.*)\\]"
 rep='<h2 id="diaporama-$1"><a class="header header-h2" href="#diaporama-$1">Diaporama</a></h2><a href="https://eyssette.github.io/marp-slides/slides/2023-2024/$1.html" class="slidesLink">Lien vers le diaporama</a>'
 
 [output.html]
+default-theme = "light"
+preferred-dark-theme = "ayu"
 no-section-label = true
 additional-css = ["custom.css", "sidebar-toc.css", "././mdbook-admonish.css"]
 additional-js = ["custom.js", "sidebar-toc.js"]
