@@ -1,7 +1,7 @@
 {
 	"admonition" : {
 		"prefix": "admonition",
-		"body": "```admonish title=\"$1\" collapsible=true\n$2\n```",
+		"body": "```admonish ${1|collapsible=true ,tip ,abstract |}title=\"$2\"\n$4\n```\n$0",
 		"description": "admonition"
 	}
 }
