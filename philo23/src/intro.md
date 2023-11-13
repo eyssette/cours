@@ -1,6 +1,6 @@
 # Introduction à la philosophie
 
-![](https://eyssette.github.io/marp-slides/slides/images/penseur-rodin.png)
+![](https://github.com/eyssette/images/blob/main/img/penseur-rodin.png?raw=true)
 
 [diapo:introduction-philosophie-23]
 

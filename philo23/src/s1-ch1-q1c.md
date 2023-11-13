@@ -1,5 +1,5 @@
 # Q1c – Que pouvons-nous face au tragique de l'existence ?
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/StillLifeWithASkull.jpg/2880px-StillLifeWithASkull.jpg)
+![](https://github.com/eyssette/images/blob/main/img/vanit%C3%A9.jpg?raw=true)
 
 [diapo:s1-ch1-q1c]
