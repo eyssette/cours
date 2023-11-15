@@ -99,3 +99,38 @@ document.addEventListener('keydown', function (e) {
             break;
     }
 });
+
+// Gestion du swipe
+const buttonLeft = document.querySelector('a[rel*="prev"]');
+const buttonRight = document.querySelector('a[rel*="next"]')
+
+let touchstartX = 0;
+let touchstartY = 0;
+let touchendX = 0;
+let touchendY = 0;
+
+document.addEventListener('touchstart', function(event) {
+    touchstartX = event.changedTouches[0].screenX;
+    touchstartY = event.changedTouches[0].screenY;
+}, false);
+
+document.addEventListener('touchend', function(event) {
+    touchendX = event.changedTouches[0].screenX;
+    touchendY = event.changedTouches[0].screenY;
+    handleSwipe();
+}, false); 
+
+function handleSwipe() {
+    const deltaX = touchendX - touchstartX;
+    const deltaY = touchendY - touchstartY;
+    if (Math.abs(deltaX) > Math.abs(deltaY)) {
+        // On détecte le swipe seulement si le mouvement sur l'axe x est plus important que sur l'axe y
+        if (deltaX < 0) {
+            // swipe left
+            buttonLeft.click()
+        } else {
+            // swipe right
+            buttonRight.click()
+        }
+    }
+}
