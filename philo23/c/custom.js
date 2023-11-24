@@ -127,10 +127,10 @@ function handleSwipe() {
         // On détecte le swipe seulement si le mouvement sur l'axe x est plus important que sur l'axe y
         if (deltaX < 0) {
             // swipe left
-            buttonLeft.click()
+            buttonRight.click()
         } else {
             // swipe right
-            buttonRight.click()
+            buttonLeft.click()
         }
     }
 }
