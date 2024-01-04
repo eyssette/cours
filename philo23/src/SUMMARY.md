@@ -16,6 +16,14 @@
 		- [Q2 – Comment peut-on savoir ce qui est bien et ce qui est mal ?](s1-ch2-q2.md)
 			- [Q2a – La morale repose sur nos sentiments, sur notre sensibilité ?](s1-ch2-q2a.md)
 			- [Q2b – Comment la réflexion peut-elle nous guider moralement ?](s1-ch2-q2b.md)
+- [Séquence 2 : Philosophie de l'esprit](s2.md)
+	- [Chapitre 3 : La notion de personne](s2-ch3.md)
+		- [Q1 - Qu'est-ce que le Moi ?](s2-ch3-q1.md)
+			- [Q1a – Peut-on saisir ce qu'est le Moi ?](s2-ch3-q1a.md)
+			- [Q1b - L'identité personnelle repose-t-elle sur la mémoire ?](s2-ch3-q1b.md)
+		<!-- 	- [T1 – Locke](s2-ch3-t1.md)
+		- [Q2 – Puis-je choisir qui je suis ?](s2-ch3-q2.md)
+			- [T2 – Sartre](s2-ch3-q2.md) -->
 
 ---
 - [Méthode de la dissertation](methode-dissertation.md)
