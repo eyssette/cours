@@ -1,4 +1,4 @@
-# Q2a – La morale repose sur nos sentiments, sur notre sensibilité ?
+# Q2a – La morale repose-t-elle sur nos sentiments, sur notre sensibilité ?
 
 ![](https://i.ibb.co/87MksHv/esther.jpg)
 

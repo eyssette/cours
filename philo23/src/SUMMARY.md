@@ -14,7 +14,7 @@
 			- [Q1a – La morale est-elle subjective ?](s1-ch2-q1a.md)
 			- [Q1b - La morale est-elle relative à chaque culture ?](s1-ch2-q1b.md)
 		- [Q2 – Comment peut-on savoir ce qui est bien et ce qui est mal ?](s1-ch2-q2.md)
-			- [Q2a – La morale repose sur nos sentiments, sur notre sensibilité ?](s1-ch2-q2a.md)
+			- [Q2a – La morale repose-t-elle sur nos sentiments, sur notre sensibilité ?](s1-ch2-q2a.md)
 			- [Q2b – Comment la réflexion peut-elle nous guider moralement ?](s1-ch2-q2b.md)
 - [Séquence 2 : Philosophie de l'esprit](s2.md)
 	- [Chapitre 3 : La notion de personne](s2-ch3.md)
