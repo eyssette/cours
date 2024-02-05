@@ -20,8 +20,12 @@
 	- [Chapitre 3 : La notion de personne](s2-ch3.md)
 		- [Q1 - Qu'est-ce que le Moi ?](s2-ch3-q1.md)
 			- [Q1a – Peut-on saisir ce qu'est le Moi ?](s2-ch3-q1a.md)
-			- [Q1b - L'identité personnelle repose-t-elle sur la mémoire ?](s2-ch3-q1b.md)
+			- [Q1b – L'identité personnelle repose-t-elle sur la mémoire ?](s2-ch3-q1b.md)
 		- [Q2 – Puis-je choisir qui je suis ?](s2-ch3-q2.md)
+	- [Chapitre 4 : Le libre arbitre](s2-ch4.md)
+		- [Q1 – Peut-on prouver l'existence du libre arbitre ?](s2-ch4-q1.md)
+			- [Q1a – L'expérience de l'action volontaire est-elle une preuve du libre arbitre ?](s2-ch4-q1a.md)
+		<!-- - [Q2 – Nos choix sont-ils déterminés par des facteurs que nous ne maîtrisons pas ?](s2-ch4-q2.md) -->
 
 ---
 - [Méthode de la dissertation](methode-dissertation.md)
