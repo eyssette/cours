@@ -25,7 +25,10 @@
 	- [Chapitre 4 : Le libre arbitre](s2-ch4.md)
 		- [Q1 – Peut-on prouver l'existence du libre arbitre ?](s2-ch4-q1.md)
 			- [Q1a – L'expérience de l'action volontaire est-elle une preuve du libre arbitre ?](s2-ch4-q1a.md)
-		<!-- - [Q2 – Nos choix sont-ils déterminés par des facteurs que nous ne maîtrisons pas ?](s2-ch4-q2.md) -->
+			- [Q1b – La réflexion est-elle une preuve du libre arbitre ?](s2-ch4-q1b.md)
+		- [Q2 – Nos choix sont-ils déterminés par des facteurs que nous ne maîtrisons pas ?](s2-ch4-q2.md)
+- [Séquence 3 : Philosophie de la culture](s3.md)
+	- [Chapitre 5 : L'art](s3-ch5.md)
 
 ---
 - [Méthode de la dissertation](methode-dissertation.md)
