@@ -29,6 +29,9 @@
 		- [Q2 – Nos choix sont-ils déterminés par des facteurs que nous ne maîtrisons pas ?](s2-ch4-q2.md)
 - [Séquence 3 : Philosophie de la culture](s3.md)
 	- [Chapitre 5 : L'art](s3-ch5.md)
+		- [Q1 : La valeur d'une œuvre d'art réside-t-elle dans sa beauté ?](s3-ch5-q1.md)
+		- [Q2 : Est-ce le génie de l'artiste qui fait la valeur d'une œuvre ?](s3-ch5-q2.md)
+		- [Q3 : L'œuvre d'art ne vaut-elle que par ce qu'elle nous apporte ?](s3-ch5-q3.md)
 
 ---
 - [Méthode de la dissertation](methode-dissertation.md)
