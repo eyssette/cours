@@ -1,4 +1,4 @@
-# Q1 : La valeur d'une œuvre d'art réside-t-elle dans sa beauté ?
+# Q1 – La valeur d'une œuvre d'art réside-t-elle dans sa beauté ?
 
 ![](https://i.ibb.co/sCyHvL4/canon-sculpture.png)
 
