@@ -23,6 +23,8 @@ pages:
     - cp -r pp21/c/* .public/pp21/
     - mkdir .public/pp22
     - cp -r pp22/c/* .public/pp22/
+    - mkdir .public/philo23
+    - cp -r philo23/c/* .public/philo23/
     - mv .public public
   artifacts:
     paths:
