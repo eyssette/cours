@@ -1,6 +1,7 @@
 pages:
   script:
     - mkdir .public
+    - cp index.html .public/index.html
     - mkdir .public/1hlp22
     - cp -r 1hlp22/c/* .public/1hlp22/
     - mkdir .public/dnl21
