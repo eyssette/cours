@@ -39,10 +39,10 @@
 	- [Chapitre 7 : L'État](s4-ch7.md)
 		- [Q1 – Le pouvoir politique n'est-il qu'un moyen de domination ?](s4-ch7-q1.md)
 		- [Q2 – De quel droit l'État exerce-t-il un pouvoir sur nous ?](s4-ch7-q2.md)
-		<!-- - [Q3 – L'État doit-il intervenir dans le champ économique et social ?](s4-ch7-q3.md) -->
-	<!-- - [Chapitre 8 : La justice](s4-ch8.md) -->
-<!-- 		- [Q1 — La politique doit-elle être guidée par un idéal moral ?](s4-ch8-q1.md)
-		- [Q2 — La justice sociale signifie-t-elle l'égalité ?](s4-ch8-q2.md) -->
+		- [Q3 – L'État doit-il intervenir dans le champ économique et social ?](s4-ch7-q3.md)
+	- [Chapitre 8 : La justice](s4-ch8.md)
+		- [Q1 — La politique doit-elle être guidée par un idéal moral ?](s4-ch8-q1.md)
+		- [Q2 — La justice sociale signifie-t-elle l'égalité ?](s4-ch8-q2.md)
 
 ---
 - [Méthode de la dissertation](methode-dissertation.md)
