@@ -51,6 +51,7 @@
 			- [Q1b - Faut-il douter de tout ?](s5-ch10-q1b.md)
 			- [Q1c - Le langage est-il un obstacle à la connaissance ?](s5-ch10-q1c.md)
 		- [Q2 - L'expérience est-elle la source de nos connaissances scientifiques ?](s5-ch10-q2.md)
+		- [Q3 – La croyance en Dieu est-elle irrationnelle ?](s5-ch10-q3.md)
 
 ---
 - [Méthode de la dissertation](methode-dissertation.md)
