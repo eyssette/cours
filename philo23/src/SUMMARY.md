@@ -55,6 +55,7 @@
 
 ---
 - [Méthode de la dissertation](methode-dissertation.md)
+- [Méthode de l'explication](methode-explication.md)
 - [Moteurs de recherche](moteurs-de-recherche.md)
 - [Sélection de chaînes vidéo](selection-chaines-video.md)
 
