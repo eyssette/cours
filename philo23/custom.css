@@ -10,6 +10,10 @@
 	font-size: 0.98em;
 }
 
+.sidebar .sidebar-scrollbox {
+	scrollbar-width: thin;
+}
+
 .chapter li.chapter-item {
 	line-height: 1.4em;
 }
