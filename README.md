@@ -13,7 +13,9 @@ Pour un accès à d'autres ressources, vous pouvez voir ma [page de présentatio
 
 ### Philosophie (terminales)
 
-- [Cours de philosophie (2023-2024) pour les séries générales](https://eyssette.github.io/cours/philo23/c/)
+- [Cours de philosophie (2024-2025) pour les séries générales](https://eyssette.forge.apps.education.fr/2024/philo-g)
+- [Cours de philosophie (2024-2025) pour les séries technologiques](https://eyssette.forge.apps.education.fr/2024/philo-t)
+
 
 <!-- 
 ### HLP (1ères)
@@ -28,6 +30,7 @@ Pour un accès à d'autres ressources, vous pouvez voir ma [page de présentatio
 
 ### Philosophie (terminales)
 
+- [Cours de philosophie (2023-2024) pour les séries générales](https://eyssette.github.io/cours/philo23/c/)
 - [Cours de philosophie (2022-2023) pour les séries générales](https://eyssette.github.io/cours/philo22g/c/)
 - [Cours de philosophie (2022-2023) pour les séries technologiques](https://eyssette.github.io/cours/philo22t/c/)
 - [Cours de philosophie (2021-2022) pour les séries générales](https://eyssette.github.io/cours/philo21g/c/)
