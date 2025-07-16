@@ -216,3 +216,8 @@ li li {font-size:0.9em}
 
 h2 {padding-top: 2em;
   border-top: 1px solid grey;}
+
+img[src*=".svg"] {
+    background: white;
+    padding:5px;
+}

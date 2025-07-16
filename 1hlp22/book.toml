@@ -13,7 +13,7 @@ build-dir = "c"
 
 [preprocessor.admonish]
 command = "mdbook-admonish"
-assets_version = "2.0.0" # do not edit: managed by `mdbook-admonish install`
+assets_version = "3.0.3" # do not edit: managed by `mdbook-admonish install`
 
 [preprocessor.emojis]
 command = "python3 emojis.py"
@@ -42,7 +42,7 @@ command = "mdbook-mermaid"
 
 [output.html]
 no-section-label = true
-additional-css = ["custom.css", "sidebar-toc.css", "././mdbook-admonish.css"]
+additional-css = ["custom.css", "sidebar-toc.css", "././mdbook-admonish.css", "./mdbook-admonish.css"]
 additional-js = ["custom.js", "sidebar-toc.js", "mermaid.min.js", "mermaid-init.js"]
 git-repository-url = "https://github.com/eyssette/cours/"
 
