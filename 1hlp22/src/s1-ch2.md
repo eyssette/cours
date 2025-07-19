@@ -124,3 +124,23 @@ Quelques problèmes du _tone policing_ :
 Le problème principal du _tone policing_ :
 - c'est une attitude de domination où une personne cherche à prendre une position de de supériorité et à réduire au silence ("silencing") le point de vue critique d'une personne
 - c'est une attaque contre une personne, qui repose souvent sur des préjugés sexistes, classistes, ethnocentriques, ou racistes.
+
+## Question 3 – La parole est-elle libératrice ?
+
+### Mise en situation
+
+3 extraits : 
+- _Deux jours, une nuit_
+- _Ressources humaines_
+- _En thérapie_
+
+1. De quoi la parole peut-elle nous libérer ?
+2. Est-ce facile ?
+
+### Mise en forme
+
+#### L'aveu et le pardon
+
+#### La honte sociale
+
+#### Parole et thérapie
