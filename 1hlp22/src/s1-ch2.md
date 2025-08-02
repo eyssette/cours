@@ -173,6 +173,12 @@ L'aveu rend possible le pardon :
 - Avec un aveu, il devient possible de passer d'un passé qui ne passe pas (et qu'on ressasse sans cesse) à un passé qu'on peut dépasser et surmonter.
 
 
+##### Aveu, pardon et promesse
+
+H. Arendt permet de prolonger cette analyse : le pardon (que permet l'aveu) est une lutte contre l'irréversibilité du passé. Certes, on ne peut revenir dans le passé, le modifier, mais on peut choisir de le dépasser, de ne plus être dans le ressassement permanent, de passer d'un passé qui ne passe pas à un passé dépassé.
+
+Si la promesse est une lutte contre l'imprévisibilité du passé, alors l'aveu est aussi une forme de promesse dans la mesure où il implique un engagement à être autrement.
+
 #### La honte sociale
 
 ##### On peut faire une analyse sociologique de la honte
