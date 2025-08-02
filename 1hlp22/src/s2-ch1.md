@@ -2,6 +2,12 @@
 
 ## Question 1 – Pourquoi la parole est-elle si importante en démocratie ?
 
+[Textes](https://codimd.apps.education.fr/s/gW_m6s-EC) :
+- Vernant : la parole dans la démocratie antique
+- Arendt : l’importance politique de l’amitié et du dialogue
+- Habermas : le rôle de la parole dans l’autodétermination démocratique
+- Landemore : l’intelligence collective
+
 Pour comprendre pourquoi la parole est essentielle en démocratie, on peut partir de la devise républicaine « Liberté, Égalité, Fraternité ».
 
 ### Liberté
@@ -85,3 +91,5 @@ Il y a des inégalités d'accès à la parole :
 
 
 ## Question 2 – La liberté de parole doit-elle être absolue ?
+
+[Texte de Mill](https://codimd.apps.education.fr/s/NMlmWLkAT)
