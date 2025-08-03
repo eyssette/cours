@@ -202,12 +202,10 @@ B3(&quot;L'identité &lt;br&gt;personnelle&quot;)
 
 A1 === B1 &amp; B2 &amp; B3
 </pre>
-<details id="admonition-afficher-le-texte-de-cette-carte-mentale" class="admonition admonish-abstract" role="note" aria-labelledby="admonition-afficher-le-texte-de-cette-carte-mentale-title">
+<details id="admonition-afficher-le-texte-de-cette-carte-mentale" class="admonition admonish-abstract">
 <summary class="admonition-title">
-<div id="admonition-afficher-le-texte-de-cette-carte-mentale-title">
 <p>Afficher le texte de cette carte mentale</p>
-</div>
-<a class="admonition-anchor-link" href="#admonition-afficher-le-texte-de-cette-carte-mentale"></a>
+<p><a class="admonition-anchor-link" href="#admonition-afficher-le-texte-de-cette-carte-mentale"></a></p>
 </summary>
 <div>
 <p>Trois sens de la notion d'identité :</p>
@@ -242,12 +240,10 @@ B1 --- C1
 B2 --- C2
 B3 --- C3
 </pre>
-<details id="admonition-afficher-le-texte-de-cette-carte-mentale-1" class="admonition admonish-abstract" role="note" aria-labelledby="admonition-afficher-le-texte-de-cette-carte-mentale-1-title">
+<details id="admonition-afficher-le-texte-de-cette-carte-mentale-1" class="admonition admonish-abstract">
 <summary class="admonition-title">
-<div id="admonition-afficher-le-texte-de-cette-carte-mentale-1-title">
 <p>Afficher le texte de cette carte mentale</p>
-</div>
-<a class="admonition-anchor-link" href="#admonition-afficher-le-texte-de-cette-carte-mentale-1"></a>
+<p><a class="admonition-anchor-link" href="#admonition-afficher-le-texte-de-cette-carte-mentale-1"></a></p>
 </summary>
 <div>
 <p>Nous avons besoin de parler :</p>
@@ -415,6 +411,22 @@ B3 --- C3
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 
