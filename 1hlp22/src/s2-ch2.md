@@ -27,18 +27,15 @@ La parole est nécessaire en politique pour communiquer des idées, un programme
 3 oppositions pour mieux comprendre l'importance de la rhétorique :
 
 1. raison / émotion
-Cicéron : "l'éloquence complète la philosophie".
-La philosophie se rapporte ici au discours rationnel qui vise à convaincre par des arguments.
-L'éloquence exprime ce qui cherche à toucher le cœur de l'être humain, ses émotions, afin de pouvoir le persuader.
+- Cicéron : "l'éloquence complète la philosophie". La philosophie se rapporte ici au discours rationnel qui vise à convaincre par des arguments. L'éloquence exprime ce qui cherche à toucher le cœur de l'être humain, ses émotions, afin de pouvoir le persuader.
 
 2. discours faux / discours vrai
 - Augustin : "L'éloquence est une faculté neutre". L'éloquence est souvent associée aux discours faux, aux mensonges, à la manipulation ; mais elle peut être utilisée pour défendre le vrai ; et non seulement elle le peut, mais elle le doit.
 - Augustin : "Il faut s'armer et combattre pour la vérité". Sans l'éloquence, sans la rhétorique, le discours vrai risque d'être ennuyeux, trop complexe : il ne va pas réussir à convaincre, le discours faux risque de se répandre davantage.
 
 3. argumentation / démonstration
-En mathématiques, on peut faire des démonstrations ; on peut parvenir à des certitudes, car on est dans un domaine théorique.
-Mais dans les affaires humaines, on ne peut qu'argumenter, défendre des raisons qui ne sont pas des certitudes.
-On se situe dans un cadre qui est celui de la discussion qui va mener à une discussion et à l'action (domaine de la pratique)
+- En mathématiques, on peut faire des démonstrations ; on peut parvenir à des certitudes, car on est dans un domaine théorique.
+- Mais dans les affaires humaines, on ne peut qu'argumenter, défendre des raisons qui ne sont pas des certitudes. On se situe dans un cadre qui est celui de la discussion qui va mener à une discussion et à l'action (domaine de la pratique)
 
 
 Dans l'histoire politique, il y a des grands discours qui manifestent l'importance de la rhétorique pour exprimer une idée politique.
