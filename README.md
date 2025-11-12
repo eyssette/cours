@@ -7,14 +7,21 @@ author: Cédric Eyssette
 Vous trouverez ci-dessous les liens vers mes cours et formations.
 Pour un accès à d'autres ressources, vous pouvez voir ma [page de présentation](https://eyssette.github.io/).
 
+Hormis pour les textes cités et les images utilisés, ainsi que pour certains documents qui peuvent avoir une licence propre (indiquée dans le document en question), les contenus textuels de ce site sont sous licence libre CC-BY.
+
+Les diaporamas sont faits avec le logiciel libre [MArp](https://marp.app/), sous licence MIT, et le thème [“teaching](https://forge.apps.education.fr/eyssette/teaching-theme-for-marp)” que j'ai créé et publié sous licence libre WTFPL.
+
+Les citations sont affichées avec la police _et-book_, sous licence MIT.
+
+Les sites avant 2025 sont produits avec [mdbook](https://rust-lang.github.io/mdBook/), sous licence libre MPL 2.0.
+
+À partir de 2025, les sites sont produits avec le logiciel libre [Markpage/Lightpad](https://markpage.forge.apps.education.fr/), sous licence libre.
+
 ---
 
 ## Année en cours
 
-### Philosophie (terminales)
-
-- [Cours de philosophie (2024-2025) pour les séries générales](https://eyssette.forge.apps.education.fr/2024/philo-g)
-- [Cours de philosophie (2024-2025) pour les séries technologiques](https://eyssette.forge.apps.education.fr/2024/philo-t)
+- [Cours de l'année 2025-2026](http://eyssette.forge.apps.education.fr/2025/)
 
 
 <!-- 
@@ -30,6 +37,8 @@ Pour un accès à d'autres ressources, vous pouvez voir ma [page de présentatio
 
 ### Philosophie (terminales)
 
+- [Cours de philosophie (2024-2025) pour les séries générales](https://eyssette.forge.apps.education.fr/2024/philo-g)
+- [Cours de philosophie (2024-2025) pour les séries technologiques](https://eyssette.forge.apps.education.fr/2024/philo-t)
 - [Cours de philosophie (2023-2024) pour les séries générales](https://eyssette.github.io/cours/philo23/c/)
 - [Cours de philosophie (2022-2023) pour les séries générales](https://eyssette.github.io/cours/philo22g/c/)
 - [Cours de philosophie (2022-2023) pour les séries technologiques](https://eyssette.github.io/cours/philo22t/c/)
