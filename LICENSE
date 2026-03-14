@@ -1,0 +1,9 @@
+Hormis pour les textes cités et les images utilisés, ainsi que pour certains documents qui peuvent avoir une licence propre (indiquée dans le document en question), les contenus textuels de ce site sont sous licence libre CC-BY.
+
+Les diaporamas sont faits avec le logiciel libre [MArp](https://marp.app/), sous licence MIT, et le thème [“teaching](https://forge.apps.education.fr/eyssette/teaching-theme-for-marp)” que j'ai créé et publié sous licence libre WTFPL.
+
+Les citations sont affichées avec la police _et-book_, sous licence MIT.
+
+Les sites avant 2025 sont produits avec [mdbook](https://rust-lang.github.io/mdBook/), sous licence libre MPL 2.0.
+
+À partir de 2025, les sites sont produits avec le logiciel libre [Markpage/Lightpad](https://markpage.forge.apps.education.fr/), sous licence libre.
