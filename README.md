@@ -15,7 +15,7 @@ Les citations sont affichées avec la police _et-book_, sous licence MIT.
 
 Les sites avant 2025 sont produits avec [mdbook](https://rust-lang.github.io/mdBook/), sous licence libre MPL 2.0.
 
-À partir de 2025, les sites sont produits avec le logiciel libre [Markpage/Lightpad](https://markpage.forge.apps.education.fr/), sous licence libre.
+À partir de 2025, les sites sont produits avec le logiciel libre [Markpage/Lightpad](https://markpage.forge.apps.education.fr/), sous licence MIT.
 
 ---
 
